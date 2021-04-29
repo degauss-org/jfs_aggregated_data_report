@@ -1,0 +1,233 @@
+---
+title: "Intakes by Mandated Reporter Neighborhood-Level Report"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    df_print: kable
+params: 
+  d: d
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(sf)
+library(knitr)
+```
+
+```{r, eval = F}
+d <- params$d
+tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
+neighborhood_shp <- readRDS('/app/ham_neighborhoods_dep_index_shp.rds')
+```
+
+```{r, eval = T}
+d <- read_csv('test/simulated_jfs_data_geocoded.csv',
+              col_types = cols(INTAKE_ID = col_character(),
+                               SCREENING_DECISION = col_character(),
+                               DECISION_DATE = col_date(),
+                               PERSON_ID = col_character(),
+                               RACE = col_character(),
+                               ADDRESS_START = col_date(),
+                               MANDATED_REPORTER = col_character(),
+                               # REPORTER_PERSON_ID = col_character(),
+                               PROVIDER_ID = col_character(),
+                               PROVIDER_NAME = col_character(),
+                               address_type = col_character(),
+                               address = col_character(),
+                               bad_address = col_logical(),
+                               PO = col_logical(),
+                               lat = col_double(),
+                               lon = col_double(),
+                               score = col_double(),
+                               precision = col_character(),
+                               precise_geocode = col_logical(),
+                               fips_tract_id = col_character(),
+                               fraction_assisted_income = col_double(),
+                               fraction_high_school_edu = col_double(),
+                               median_income = col_double(),
+                               fraction_no_health_ins = col_double(),
+                               fraction_poverty = col_double(),
+                               fraction_vacant_housing = col_double(),
+                               dep_index = col_double()
+                               ))
+
+tract_to_neighborhood <- readRDS('tract_to_neighborhood.rds')
+neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
+```
+
+# Overall Summary
+
+```{r}
+date_min <- min(d$DECISION_DATE)
+date_max <- max(d$DECISION_DATE)
+
+# consider 'SCREENED IN AR' same as 'SCREENED IN'
+for (i in 1:nrow(d)) {
+  if (d$SCREENING_DECISION[i] == 'SCREENED IN AR') {
+  d$SCREENING_DECISION[i] <- 'SCREENED IN'
+}
+}
+```
+
+- This report summarizes `r length(unique(d$INTAKE_ID))` intakes with descision dates between `r date_min` and `r date_max`. 
+
+```{r}
+d_missing_alleg_add <- d %>% 
+  filter(address_type == 'ALLEGATION_ADDRESS', 
+         is.na(address)) %>% 
+  select(INTAKE_ID:address_type)
+
+d_fill_in_address <- d %>% 
+  filter(INTAKE_ID %in% d_missing_alleg_add$INTAKE_ID, 
+         address_type == 'CHILD_ADDRESS') %>% 
+  group_by(INTAKE_ID) %>% 
+  arrange(desc(ADDRESS_START)) %>% 
+  slice(1) %>% 
+  select(INTAKE_ID, address:dep_index)
+
+d_missing_alleg_add <- left_join(d_missing_alleg_add, d_fill_in_address, by = 'INTAKE_ID')
+
+d <- d %>% 
+  filter(address_type == 'ALLEGATION_ADDRESS' & !is.na(address) |
+           address_type == 'CHILD_ADDRESS') %>% 
+  bind_rows(d_missing_alleg_add) %>% 
+  filter(address_type == 'ALLEGATION_ADDRESS')
+```
+
+```{r}
+### Geocoding Summary
+d_intake <- filter(d, !duplicated(INTAKE_ID)) %>% 
+  select(-PERSON_ID, -RACE, -ADDRESS_START,
+         -address_type)
+
+intake_geocode_summary <- d_intake %>% 
+  group_by(is.na(lat)) %>% 
+  tally() %>% 
+  mutate(pct = round(n/sum(n)*100,1))
+```
+
+
+```{r}
+### Mandated Reporter Summary
+d_mandated <- d %>% 
+  filter(MANDATED_REPORTER == 'Yes')
+
+d_mandated_intakes <- unique(d_mandated$INTAKE_ID)
+
+d_intake <- d_intake %>% 
+  mutate(at_least_one_mandated_reporter = ifelse(INTAKE_ID %in% d_mandated_intakes, 'yes', 'no'))
+```
+
+- Some intakes have more than one reporter listed. Here, an intake is considered to reported by a mandated reporter if at least one reporter listed is a mandated reporter. `r length(d_mandated_intakes)` (`r round(length(d_mandated_intakes)/length(unique(d$INTAKE_ID))*100,1)`%) intakes were reported by at least one mandated reporter.
+
+```{r}
+mr_summary <- d_intake %>% 
+  filter(!is.na(lat)) %>% 
+  group_by(at_least_one_mandated_reporter, SCREENING_DECISION) %>% 
+  tally() %>%
+  ungroup() %>% 
+  mutate(pct = round(n/sum(n)*100,1)) %>% 
+  select(`At Least One Mandated Reporter` = at_least_one_mandated_reporter, 
+         Decision = SCREENING_DECISION, n, pct)
+```
+
+The table below summarizes intakes, screening decision and mandated reporter statusby neighborhood. The table can be sorted by clicking on the column name or searched using the search box. 
+
+```{r}
+d_neigh_intake <- d_intake  %>%
+  mutate(fips_tract_id = as.character(fips_tract_id)) %>% 
+  filter(!is.na(lat)) %>% 
+  left_join(tract_to_neighborhood, by='fips_tract_id')
+
+intakes_neighborhood <- d_neigh_intake %>% 
+  group_by(neighborhood) %>% 
+  summarize(n_intakes = n())
+
+intake_screen_neighborhood <- d_neigh_intake %>% 
+  group_by(neighborhood, SCREENING_DECISION) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  filter(SCREENING_DECISION == 'SCREENED IN') %>% 
+  mutate(n_intakes_screened_in = n) %>% 
+  select(-n, -SCREENING_DECISION) %>% 
+  left_join(intakes_neighborhood, by = 'neighborhood')
+
+##
+mr_intakes_neighborhood <- d_neigh_intake %>% 
+  group_by(neighborhood, at_least_one_mandated_reporter) %>% 
+  summarize(n_mandated_reporter_intakes = n()) %>% 
+  ungroup() %>% 
+  filter(at_least_one_mandated_reporter == 'yes') %>% 
+  select(-at_least_one_mandated_reporter)
+
+mr_intake_screen_neighborhood <- d_neigh_intake %>% 
+  group_by(neighborhood, at_least_one_mandated_reporter, SCREENING_DECISION) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  filter(at_least_one_mandated_reporter == 'yes', 
+         SCREENING_DECISION == 'SCREENED IN') %>% 
+  mutate(n_mandated_reporter_intakes_screened_in = n) %>% 
+  select(neighborhood, n_mandated_reporter_intakes_screened_in) %>% 
+  left_join(mr_intakes_neighborhood, by = 'neighborhood')
+
+##
+
+nmr_intakes_neighborhood <- d_neigh_intake %>% 
+  group_by(neighborhood, at_least_one_mandated_reporter) %>% 
+  summarize(n_nonmandated_reporter_intakes = n()) %>% 
+  ungroup() %>% 
+  filter(at_least_one_mandated_reporter == 'no') %>% 
+  select(-at_least_one_mandated_reporter)
+
+nmr_intake_screen_neighborhood <- d_neigh_intake %>% 
+  group_by(neighborhood, at_least_one_mandated_reporter, SCREENING_DECISION) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  filter(at_least_one_mandated_reporter == 'no', 
+         SCREENING_DECISION == 'SCREENED IN') %>% 
+  mutate(n_nonmandated_reporter_intakes_screened_in = n) %>% 
+  select(neighborhood, n_nonmandated_reporter_intakes_screened_in) %>% 
+  left_join(nmr_intakes_neighborhood, by = 'neighborhood')
+
+d_neighborhood <- intake_screen_neighborhood %>% 
+  left_join(mr_intake_screen_neighborhood, by = 'neighborhood') %>% 
+  left_join(nmr_intake_screen_neighborhood, by = 'neighborhood')
+
+d_neighborhood <- neighborhood_shp %>% 
+  left_join(d_neighborhood, by = 'neighborhood') %>% 
+  mutate_at(vars(n_intakes, n_intakes_screened_in, 
+                 n_mandated_reporter_intakes, 
+                 n_mandated_reporter_intakes_screened_in,
+                 n_nonmandated_reporter_intakes, 
+                 n_nonmandated_reporter_intakes_screened_in), 
+            ~ifelse(.x < 5, NA, .x)) %>%  # suppress if n < 5 for privacy reasons
+  mutate(#n_intakes_per_1000hh = n_intakes/num_hh*1000,
+         intake_fractional_screen_in = n_intakes_screened_in/n_intakes,
+        # n_intakes_by_mandated_reporter_per_1000hh = n_mandated_reporter_intakes/num_hh*1000,
+         intake_by_mandated_reporter_fractional_screen_in = n_mandated_reporter_intakes_screened_in/n_mandated_reporter_intakes,
+       #  n_intakes_by_nonmandated_reporter_per_1000hh = n_nonmandated_reporter_intakes/num_hh*1000,
+         intake_by_nonmandated_reporter_fractional_screen_in = n_nonmandated_reporter_intakes_screened_in/n_nonmandated_reporter_intakes) %>%
+  mutate_if(is.numeric, ~round(.x, digits = 2))
+  
+d_neighborhood %>%
+  st_drop_geometry() %>% 
+  select(Neighborhood = neighborhood, 
+        `Number of Intakes` = n_intakes, 
+       # `Intakes Screened In` = n_intakes_screened_in,
+      #  `Number of Households` = num_hh, 
+       # `Number Intakes per 1000 Households` = n_intakes_per_1000hh,
+        `Fraction of Intakes Screened In` = intake_fractional_screen_in,
+        `Number of Intakes by Mandated Reporter` = n_mandated_reporter_intakes,
+      #  `Mandated Reporter Intakes per 1000 Households` = n_intakes_by_mandated_reporter_per_1000hh,
+        `Intakes by Mandated Reporter Screened In` = n_mandated_reporter_intakes_screened_in,
+        `Fraction of Mandated Reporter Intakes Screened In` = intake_by_mandated_reporter_fractional_screen_in,
+        `Number of Intakes by Non-Mandated Reporter` = n_nonmandated_reporter_intakes,
+       # `Non-Mandated Reporter Intakes per 1000 Households` = n_intakes_by_nonmandated_reporter_per_1000hh,
+        `Intakes by Non-Mandated Reporter Screened In` = n_nonmandated_reporter_intakes_screened_in,
+        `Fraction of Non-Mandated Reporter Intakes Screened In` = intake_by_nonmandated_reporter_fractional_screen_in) %>%
+      #  `Deprivation Index` = dep_index) %>% 
+  DT::datatable()
+```
+

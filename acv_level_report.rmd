@@ -1,0 +1,243 @@
+---
+title: "Alleged Child Victims Aggregated Neighborhood-Level Report"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    df_print: kable
+params: 
+  d: d
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(sf)
+library(knitr)
+```
+
+```{r, eval = F}
+d <- params$d
+tract_to_neighborhood <- readRDS('tract_to_neighborhood.rds')
+neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
+```
+
+```{r, eval = T}
+d <- read_csv('test/simulated_jfs_data_geocoded.csv',
+              col_types = cols(INTAKE_ID = col_character(),
+                               SCREENING_DECISION = col_character(),
+                               DECISION_DATE = col_date(),
+                               PERSON_ID = col_character(),
+                               RACE = col_character(),
+                               ADDRESS_START = col_date(),
+                               MANDATED_REPORTER = col_character(),
+                               # REPORTER_PERSON_ID = col_character(),
+                               PROVIDER_ID = col_character(),
+                               PROVIDER_NAME = col_character(),
+                               address_type = col_character(),
+                               address = col_character(),
+                               bad_address = col_logical(),
+                               PO = col_logical(),
+                               lat = col_double(),
+                               lon = col_double(),
+                               score = col_double(),
+                               precision = col_character(),
+                               precise_geocode = col_logical(),
+                               fips_tract_id = col_character(),
+                               fraction_assisted_income = col_double(),
+                               fraction_high_school_edu = col_double(),
+                               median_income = col_double(),
+                               fraction_no_health_ins = col_double(),
+                               fraction_poverty = col_double(),
+                               fraction_vacant_housing = col_double(),
+                               dep_index = col_double()
+                               ))
+
+tract_to_neighborhood <- readRDS('tract_to_neighborhood.rds')
+neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
+```
+
+# Overall Summary
+
+```{r}
+date_min <- min(d$DECISION_DATE)
+date_max <- max(d$DECISION_DATE)
+
+# consider 'SCREENED IN AR' same as 'SCREENED IN'
+for (i in 1:nrow(d)) {
+  if (d$SCREENING_DECISION[i] == 'SCREENED IN AR') {
+  d$SCREENING_DECISION[i] <- 'SCREENED IN'
+}
+}
+```
+
+- This report summarizes `r length(unique(d$PERSON_ID))` ACVs with decision dates between `r date_min` and `r date_max`.
+
+```{r eval=T}
+d_missing_alleg_add <- d %>% 
+  filter(address_type == 'ALLEGATION_ADDRESS', 
+         is.na(address)) %>% 
+  select(PERSON_ID:address_type)
+
+d_fill_in_address <- d %>% 
+  filter(PERSON_ID %in% d_missing_alleg_add$PERSON_ID, 
+         address_type == 'CHILD_ADDRESS') %>% 
+  group_by(PERSON_ID) %>% 
+  arrange(desc(ADDRESS_START)) %>% 
+  slice(1) %>% 
+  select(INTAKE_ID, address:dep_index)
+
+d_missing_alleg_add <- left_join(d_missing_alleg_add, d_fill_in_address, by = 'PERSON_ID')
+
+d <- d %>% 
+  filter(address_type == 'ALLEGATION_ADDRESS' & !is.na(address) |
+           address_type == 'CHILD_ADDRESS') %>% 
+  bind_rows(d_missing_alleg_add) %>% 
+  filter(address_type == 'ALLEGATION_ADDRESS')
+```
+
+
+```{r eval = T}
+### Geocoding Summary
+d_acv<- filter(d, !duplicated(PERSON_ID)) %>% 
+  select( -ADDRESS_START, -address_type)
+
+acv_geocode_summary <- d_acv %>% 
+  group_by(is.na(lat)) %>% 
+  tally() %>% 
+  mutate(pct = round(n/sum(n)*100,1))
+```
+
+
+```{r}
+### Race Reporter Summary
+
+'%notin%'<-Negate('%in%')
+
+d_acv_other <- d_acv %>%
+  filter(RACE %notin% c("White", "Black/African American"))
+
+d_acv <- d_acv %>%
+  filter(RACE %in% c("White", "Black/African American")) #Only looking at black vs white
+
+```
+
+
+```{r}
+race_summary <- d_acv %>% 
+  filter(!is.na(lat)) %>% 
+  group_by(RACE, SCREENING_DECISION) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  mutate(pct = round(n/sum(n)*100,1)) %>% 
+  select(RACE, Decision = SCREENING_DECISION, n, pct)
+
+# race_summary_other <- d_acv_other %>% 
+#   filter(!is.na(lat)) %>% 
+#   group_by(SCREENING_DECISION) %>% #group by race first to see each indiv race breakdown
+#   tally() %>% 
+#   ungroup() %>% 
+#   mutate(pct = round(n/sum(n)*100,1)) %>% 
+#   select(Decision = SCREENING_DECISION, n, pct)
+
+```
+
+
+The table below summarizes ACVs by screening decision and race by neighborhood. The table can be sorted by clicking on the column name or searched using the search box. 
+
+```{r}
+d_neigh_acv <- d_acv  %>%
+  mutate(fips_tract_id = as.character(fips_tract_id)) %>% 
+  filter(!is.na(lat)) %>% 
+  left_join(tract_to_neighborhood, by='fips_tract_id')
+
+acv_neighborhood <- d_neigh_acv %>% 
+  group_by(neighborhood) %>% 
+  summarize(n_acvs = n())
+
+acv_screen_neighborhood <- d_neigh_acv %>% 
+  group_by(neighborhood, SCREENING_DECISION) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  filter(SCREENING_DECISION == 'SCREENED IN') %>% 
+  mutate(n_acvs_screened_in = n) %>% 
+  select(-n, -SCREENING_DECISION) %>% 
+  left_join(acv_neighborhood, by = 'neighborhood')
+
+##
+white_acv_neighborhood <- d_neigh_acv %>% 
+  group_by(neighborhood, RACE) %>% 
+  summarize(n_white_acvs = n()) %>% 
+  ungroup() %>% 
+  filter(RACE == 'White') %>% 
+  select(-RACE)
+
+white_acv_screen_neighborhood <- d_neigh_acv %>% 
+  group_by(neighborhood, RACE, SCREENING_DECISION) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  filter(RACE == 'White', 
+         SCREENING_DECISION == 'SCREENED IN') %>% 
+  mutate(n_white_acvs_screened_in = n) %>% 
+  select(neighborhood, n_white_acvs_screened_in) %>% 
+  left_join(white_acv_neighborhood, by = 'neighborhood')
+
+##
+
+black_acv_neighborhood <- d_neigh_acv %>% 
+  group_by(neighborhood, RACE) %>% 
+  summarize(n_black_acvs = n()) %>% 
+  ungroup() %>% 
+  filter(RACE == 'Black/African American') %>% 
+  select(-RACE)
+
+black_acv_screen_neighborhood <- d_neigh_acv %>% 
+  group_by(neighborhood, RACE, SCREENING_DECISION) %>% 
+  tally() %>%
+  ungroup() %>% 
+  filter(RACE == 'Black/African American', 
+         SCREENING_DECISION == 'SCREENED IN') %>% 
+  mutate(n_black_acvs_screened_in = n) %>% 
+  select(neighborhood, n_black_acvs_screened_in) %>% 
+  left_join(black_acv_neighborhood, by = 'neighborhood')
+
+d_neighborhood <- acv_screen_neighborhood %>% 
+  left_join(white_acv_screen_neighborhood, by = 'neighborhood') %>% 
+  left_join(black_acv_screen_neighborhood, by = 'neighborhood')
+
+d_neighborhood <- neighborhood_shp %>% 
+  left_join(d_neighborhood, by = 'neighborhood') %>% 
+  mutate_at(vars(n_acvs, n_acvs_screened_in, 
+                 n_white_acvs, 
+                 n_white_acvs_screened_in,
+                 n_black_acvs, 
+                 n_black_acvs_screened_in), 
+            ~ifelse(.x < 5, NA, .x)) %>%  # suppress if n < 10 for privacy reasons
+  mutate(#n_acvs_per_1000 = n_acvs/pop_under_18*1000,
+         acvs_fractional_screen_in = n_acvs_screened_in/n_acvs,
+       # n_acvs_white_per_1000 = n_white_acvs/pop_under_18*1000,
+         acvs_white_fractional_screen_in = n_white_acvs_screened_in/n_white_acvs,
+        # n_acvs_black_per_1000 = n_black_acvs/pop_under_18*1000,
+         acvs_black_fractional_screen_in = n_black_acvs_screened_in/n_black_acvs) %>%
+  mutate_if(is.numeric, ~round(.x, digits = 2))
+  
+d_neighborhood %>%
+  st_drop_geometry() %>% 
+  select(Neighborhood = neighborhood, 
+      #  `Number of ACVs` = n_acvs, 
+       # `ACVs Screened In` = n_acvs_screened_in,
+       # `Population Under 18` = pop_under_18, 
+      #  `Number ACVs per 1000 Children` = n_acvs_per_1000,
+      #  `Fraction of ACVs Screened In` = acvs_fractional_screen_in,
+        `Number of White ACVs` = n_white_acvs,
+       # `White ACVs per 1000 Children` = n_acvs_white_per_1000,
+        `White ACVs Screened In` = n_white_acvs_screened_in,
+        `Fraction of White ACVs Screened In` = acvs_white_fractional_screen_in,
+        `Number of Black/African American ACVs` = n_black_acvs,
+       # `Black/African American ACVs per 1000 Children` = n_acvs_black_per_1000,
+        `Black/African American ACVs Screened In` = n_black_acvs_screened_in,
+        `Fraction of Black/African American ACVs Screened In` = acvs_black_fractional_screen_in ) %>% #,
+      #  `Deprivation Index` = dep_index) %>% 
+  DT::datatable()
+```
+
