@@ -32,8 +32,8 @@ d <- read_csv('test/simulated_jfs_data_geocoded.csv',
                                ADDRESS_START = col_date(),
                                MANDATED_REPORTER = col_character(),
                                # REPORTER_PERSON_ID = col_character(),
-                               PROVIDER_ID = col_character(),
-                               PROVIDER_NAME = col_character(),
+                               #PROVIDER_ID = col_character(),
+                               #PROVIDER_NAME = col_character(),
                                address_type = col_character(),
                                address = col_character(),
                                bad_address = col_logical(),
@@ -239,5 +239,21 @@ d_neighborhood %>%
         `Fraction of Black/African American ACVs Screened In` = acvs_black_fractional_screen_in ) %>% #,
       #  `Deprivation Index` = dep_index) %>% 
   DT::datatable()
+```
+
+```{r}
+d_csv <- d_neighborhood %>%
+  st_drop_geometry() %>% 
+  select(Neighborhood = neighborhood,
+         `Number of White ACVs` = n_white_acvs,
+         `White ACVs Screened In` = n_white_acvs_screened_in,
+         `Fraction of White ACVs Screened In` = acvs_white_fractional_screen_in,
+         `Number of Black/African American ACVs` = n_black_acvs,
+         `Black/African American ACVs Screened In` = n_black_acvs_screened_in,
+        `Fraction of Black/African American ACVs Screened In` = acvs_black_fractional_screen_in)
+
+path <- "/tmp/"
+write.csv(d_csv, paste(path,"acv_level_report.csv", sep = ''))
+        
 ```
 

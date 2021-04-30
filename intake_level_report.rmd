@@ -32,8 +32,8 @@ d <- read_csv('test/simulated_jfs_data_geocoded.csv',
                                ADDRESS_START = col_date(),
                                MANDATED_REPORTER = col_character(),
                                # REPORTER_PERSON_ID = col_character(),
-                               PROVIDER_ID = col_character(),
-                               PROVIDER_NAME = col_character(),
+                              # PROVIDER_ID = col_character(),
+                              # PROVIDER_NAME = col_character(),
                                address_type = col_character(),
                                address = col_character(),
                                bad_address = col_logical(),
@@ -229,5 +229,23 @@ d_neighborhood %>%
         `Fraction of Non-Mandated Reporter Intakes Screened In` = intake_by_nonmandated_reporter_fractional_screen_in) %>%
       #  `Deprivation Index` = dep_index) %>% 
   DT::datatable()
+```
+
+```{r}
+d_csv <- d_neighborhood %>%
+  st_drop_geometry() %>% 
+  select(Neighborhood = neighborhood, 
+        `Number of Intakes` = n_intakes,
+        `Fraction of Intakes Screened In` = intake_fractional_screen_in,
+        `Number of Intakes by Mandated Reporter` = n_mandated_reporter_intakes,
+        `Intakes by Mandated Reporter Screened In` = n_mandated_reporter_intakes_screened_in,
+        `Fraction of Mandated Reporter Intakes Screened In` = intake_by_mandated_reporter_fractional_screen_in,
+        `Number of Intakes by Non-Mandated Reporter` = n_nonmandated_reporter_intakes,
+        `Intakes by Non-Mandated Reporter Screened In` = n_nonmandated_reporter_intakes_screened_in,
+        `Fraction of Non-Mandated Reporter Intakes Screened In` = intake_by_nonmandated_reporter_fractional_screen_in)
+
+path <- "/tmp/"
+write.csv(d_csv, paste(path,"intake_level_report.csv", sep = ''))
+        
 ```
 

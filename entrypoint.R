@@ -44,6 +44,8 @@ d <- read_csv(args$file_name,
                                ))
 d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
+message("\nNeighborhood repsonses with < 5 instances have been censored for privacy purposes\n")
+
 rmarkdown::render(input = '/app/acv_level_report.rmd',
                   params = list(d = d),
                   envir = new.env(),
