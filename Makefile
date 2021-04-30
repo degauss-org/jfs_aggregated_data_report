@@ -10,8 +10,6 @@ build:
 
 test:
 	docker run --rm -v "${PWD}/test":/tmp $(IMAGE) simulated_jfs_data_geocoded.csv
-	cp test/simulated_jfs_data_geocoded_acv_level_report.html docs/acv_level_report.html
-	cp test/simulated_jfs_data_geocoded_intake_level_report.html docs/intake_level_report.html
 
 shell:
 	docker run --rm -it --entrypoint=/bin/bash -v "${PWD}/test":/tmp $(IMAGE)
