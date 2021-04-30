@@ -16,13 +16,13 @@ library(sf)
 library(knitr)
 ```
 
-```{r, eval = F}
+```{r, eval = T}
 d <- params$d
 tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
-neighborhood_shp <- readRDS('/app/ham_neighborhoods_dep_index_shp.rds')
+neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
 ```
 
-```{r, eval = T}
+```{r, eval = F}
 d <- read_csv('test/simulated_jfs_data_geocoded.csv',
               col_types = cols(INTAKE_ID = col_character(),
                                SCREENING_DECISION = col_character(),

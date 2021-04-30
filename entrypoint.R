@@ -44,13 +44,13 @@ d <- read_csv(args$file_name,
                                ))
 d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
-rmarkdown::render(input = '/app/race_report.rmd',
+rmarkdown::render(input = '/app/acv_level_report.rmd',
                   params = list(d = d),
                   envir = new.env(),
-                  output_file = fs::path("/tmp", paste0(gsub('.csv', '', args$file_name, fixed=TRUE), '_race_report.html')))
+                  output_file = fs::path("/tmp", paste0(gsub('.csv', '', args$file_name, fixed=TRUE), '_acv_level_report.html')))
 
-rmarkdown::render(input = '/app/mandated_reporter_report.Rmd',
+rmarkdown::render(input = '/app/intake_level_report.rmd',
                   params = list(d = d),
                   envir = new.env(),
-                  output_file = fs::path("/tmp", paste0(gsub('.csv', '', args$file_name, fixed=TRUE), '_mandated_reporter_report.html')))
+                  output_file = fs::path("/tmp", paste0(gsub('.csv', '', args$file_name, fixed=TRUE), '_intake_level_report.html')))
 
