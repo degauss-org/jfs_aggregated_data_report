@@ -133,7 +133,7 @@ mr_summary <- d_intake %>%
          Decision = SCREENING_DECISION, n, pct)
 ```
 
-The table below summarizes intakes, screening decision and mandated reporter statusby neighborhood. The table can be sorted by clicking on the column name or searched using the search box. Cells with <5 have been censored for privacy purposes
+The table below summarizes intakes, screening decision and mandated reporter statusby neighborhood. The table can be sorted by clicking on the column name or searched using the search box. Cells with <5 have been censored for privacy purposes.
 
 ```{r}
 d_neigh_intake <- d_intake  %>%

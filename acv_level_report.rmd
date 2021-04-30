@@ -16,13 +16,13 @@ library(sf)
 library(knitr)
 ```
 
-```{r, eval = T}
+```{r, eval = F}
 d <- params$d
 tract_to_neighborhood <- readRDS('tract_to_neighborhood.rds')
 neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
 ```
 
-```{r, eval = F}
+```{r, eval = T}
 d <- read_csv('test/simulated_jfs_data_geocoded.csv',
               col_types = cols(INTAKE_ID = col_character(),
                                SCREENING_DECISION = col_character(),
@@ -143,7 +143,7 @@ race_summary <- d_acv %>%
 ```
 
 
-The table below summarizes ACVs by screening decision and race by neighborhood. The table can be sorted by clicking on the column name or searched using the search box. Cells with <5 have been censored for privacy purposes
+The table below summarizes ACVs by screening decision and race by neighborhood. The table can be sorted by clicking on the column name or searched using the search box. Cells with <5 have been censored for privacy purposes.
 
 ```{r}
 d_neigh_acv <- d_acv  %>%
