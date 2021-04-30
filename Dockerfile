@@ -20,9 +20,8 @@ RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://cran.rstudio.com'))"
 
 COPY tract_to_neighborhood.rds .
 COPY ham_neighborhoods_dep_index_shp.rds .
-COPY aggregate_data_report.rmd .
-COPY entrypoint.R .
+COPY aggregate_data_report.r .
 
 WORKDIR /tmp
 
-ENTRYPOINT ["/app/entrypoint.R"]
+ENTRYPOINT ["/app/aggregate_data_report.r"]
