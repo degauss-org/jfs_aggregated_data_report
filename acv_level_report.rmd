@@ -16,13 +16,13 @@ library(sf)
 library(knitr)
 ```
 
-```{r, eval = F}
+```{r, eval = T}
 d <- params$d
 tract_to_neighborhood <- readRDS('tract_to_neighborhood.rds')
 neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
 ```
 
-```{r, eval = T}
+```{r, eval = F}
 d <- read_csv('test/simulated_jfs_data_geocoded.csv',
               col_types = cols(INTAKE_ID = col_character(),
                                SCREENING_DECISION = col_character(),
@@ -143,7 +143,7 @@ race_summary <- d_acv %>%
 ```
 
 
-The table below summarizes ACVs by screening decision and race by neighborhood. The table can be sorted by clicking on the column name or searched using the search box. 
+The table below summarizes ACVs by screening decision and race by neighborhood. The table can be sorted by clicking on the column name or searched using the search box. Cells with <5 have been censored for privacy purposes
 
 ```{r}
 d_neigh_acv <- d_acv  %>%
@@ -212,7 +212,7 @@ d_neighborhood <- neighborhood_shp %>%
                  n_white_acvs_screened_in,
                  n_black_acvs, 
                  n_black_acvs_screened_in), 
-            ~ifelse(.x < 5, NA, .x)) %>%  # suppress if n < 10 for privacy reasons
+            ~ifelse(.x < 5, NA, .x)) %>%  # suppress if n < 5 for privacy reasons
   mutate(#n_acvs_per_1000 = n_acvs/pop_under_18*1000,
          acvs_fractional_screen_in = n_acvs_screened_in/n_acvs,
        # n_acvs_white_per_1000 = n_white_acvs/pop_under_18*1000,
