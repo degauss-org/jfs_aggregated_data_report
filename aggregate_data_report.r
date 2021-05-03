@@ -55,8 +55,8 @@ d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 #                   envir = new.env())
 
 
-tract_to_neighborhood <- readRDS('tract_to_neighborhood.rds')
-neighborhood_shp <- readRDS('ham_neighborhoods_dep_index_shp.rds')
+tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
+neighborhood_shp <- readRDS('/app/ham_neighborhoods_dep_index_shp.rds')
 
 # Overall Summary
 date_min <- min(d$DECISION_DATE)
