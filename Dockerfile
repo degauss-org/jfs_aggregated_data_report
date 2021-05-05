@@ -15,16 +15,13 @@ RUN apt-get update \
   && apt-get clean
 
 COPY renv.lock .
-# RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://packagemanager.rstudio.com/all/__linux__/focal/latest'))"
-RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://cran.rstudio.com'))"
+RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://packagemanager.rstudio.com/all/__linux__/focal/latest'))"
+#RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://cran.rstudio.com'))"
 
-COPY ham_neighborhoods_dep_index_shp.rds .
 COPY tract_to_neighborhood.rds .
-COPY p_general_join.R .
-COPY mandated_reporter_report.Rmd .
-COPY race_report.rmd .
-COPY entrypoint.R .
+COPY ham_neighborhoods_dep_index_shp.rds .
+COPY aggregate_data_report.r .
 
 WORKDIR /tmp
 
-ENTRYPOINT ["/app/entrypoint.R"]
+ENTRYPOINT ["/app/aggregate_data_report.r"]
