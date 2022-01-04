@@ -50,8 +50,8 @@ d <- read_csv(args$file_name,
               ))
 
 ###
-d_test <- read.csv('test/simulated_jfs_data_geocoded.csv')
-d <- d_test
+# d_test <- read.csv('test/simulated_jfs_data_geocoded.csv')
+# d <- d_test
 ###
 d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
@@ -119,6 +119,7 @@ screen_neighborhood <- d_neigh %>%
 
 d_csv <- screen_neighborhood %>%
   select(Neighborhood = neighborhood,
+         `Week` = week,
          `Number of Calls` = n_calls,
          `Number of Calls Screened In` = n_screened_in,
          `Screen-In Rate` = screen_in_rate)
