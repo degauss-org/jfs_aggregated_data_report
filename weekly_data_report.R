@@ -98,7 +98,8 @@ d <- d %>%
 ### Geocoding Summary
 d <- filter(d, !duplicated(PERSON_ID)) %>%
   select( -ADDRESS_START, -address_type) %>%
-  mutate(week = lubridate::week(DECISION_DATE))
+  mutate(week = lubridate::week(DECISION_DATE),
+         year = lubridate::year(DECISION_DATE))
 
 ### Weekly Counts
 d_neigh <- d  %>%
@@ -108,7 +109,7 @@ d_neigh <- d  %>%
   filter(!is.na(DECISION_DATE))
 
 screen_neighborhood <- d_neigh %>%
-  group_by(neighborhood, week) %>%
+  group_by(neighborhood, year, week) %>%
   summarize(n_screened_in = sum(SCREENING_DECISION == 'SCREENED IN',na.rm = TRUE),
             n_calls = n(), .groups = "drop")  %>%
   mutate(screen_in_rate = round(n_screened_in/n_calls,2)) %>%
@@ -119,6 +120,7 @@ screen_neighborhood <- d_neigh %>%
 
 d_csv <- screen_neighborhood %>%
   select(Neighborhood = neighborhood,
+         `Year` = year,
          `Week` = week,
          `Number of Calls` = n_calls,
          `Number of Calls Screened In` = n_screened_in,
