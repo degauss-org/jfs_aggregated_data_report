@@ -10,10 +10,16 @@
 If `my_address_file_geocoded.csv` is a file in the current working directory with coordinate columns named `lat` and `lon`, then
 
 ```sh
-docker run --rm -v $PWD:/tmp degauss/jfs_aggregated_data_report:3.0 my_address_file_geocoded.csv
+docker run --rm -v $PWD:/tmp degauss/jfs_aggregated_data_report:4.0 my_address_file_geocoded.csv
 ```
 
-will produce two CSV files: `acv_level_report.csv` and `intake_level_report.csv`
+will produce once CSV file: `weekly_report.csv`
+
+## Dataset Notes
+
+- Screening status `SCREENED IN AR` included with `SCREENED IN`
+- If there is no `ALLEGATION_ADDRESS` given, we will use the `CHILD_ADDRESS`
+- Intakes that either have no listed address or were unsuccessfully geocoded will be included as a "neigbhorhood" called `Missing`
 
 ## geomarker data
 
