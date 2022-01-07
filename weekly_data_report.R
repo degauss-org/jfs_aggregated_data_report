@@ -50,8 +50,8 @@ d <- read_csv(args$file_name,
               ))
 
 ###
-# d_test <- read.csv('test/simulated_jfs_data_geocoded.csv')
-# d <- d_test
+#d_test <- read.csv('test/simulated_jfs_data_geocoded.csv')
+#d <- d_test
 ###
 d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
@@ -63,29 +63,28 @@ d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
 neighborhood_shp <- readRDS('/app/ham_neighborhoods_dep_index_shp.rds')
 
-# Overall Summary
-date_min <- min(d$DECISION_DATE)
-date_max <- max(d$DECISION_DATE)
+# # Overall Summary
+# date_min <- min(d$DECISION_DATE)
+# date_max <- max(d$DECISION_DATE)
 
 # consider 'SCREENED IN AR' same as 'SCREENED IN'
-for (i in 1:nrow(d)) {
-  if (d$SCREENING_DECISION[i] == 'SCREENED IN AR') {
-    d$SCREENING_DECISION[i] <- 'SCREENED IN'
-  }
-}
+d <- d %>%
+  mutate(screened_in = SCREENING_DECISION %in% c("SCREENED IN", "SCREENED IN AR"))
+
+##Address cleanup - use child if no allegation
 
 d_missing_alleg_add <- d %>%
-  filter(address_type == 'ALLEGATION_ADDRESS',
-         is.na(address)) %>%
-  select(PERSON_ID:address_type)
+ filter(address_type == 'ALLEGATION_ADDRESS',
+        is.na(address)) %>%
+ select(PERSON_ID:address_type)
 
 d_fill_in_address <- d %>%
-  filter(PERSON_ID %in% d_missing_alleg_add$PERSON_ID,
-         address_type == 'CHILD_ADDRESS') %>%
-  group_by(PERSON_ID) %>%
-  arrange(desc(ADDRESS_START)) %>%
-  slice(1) %>%
-  select(INTAKE_ID, address:dep_index)
+ filter(PERSON_ID %in% d_missing_alleg_add$PERSON_ID,
+        address_type == 'CHILD_ADDRESS') %>%
+ group_by(PERSON_ID) %>%
+ arrange(desc(ADDRESS_START)) %>%
+ slice(1) %>%
+ select(INTAKE_ID:DECISION_DATE, address:screened_in)
 
 d_missing_alleg_add <- left_join(d_missing_alleg_add, d_fill_in_address, by = 'PERSON_ID')
 
@@ -95,8 +94,8 @@ d <- d %>%
   bind_rows(d_missing_alleg_add) %>%
   filter(address_type == 'ALLEGATION_ADDRESS')
 
-### Geocoding Summary
-d <- filter(d, !duplicated(PERSON_ID)) %>%
+d <- d %>%
+  filter(!duplicated(INTAKE_ID)) %>%
   select( -ADDRESS_START, -address_type) %>%
   mutate(week = lubridate::week(DECISION_DATE),
          year = lubridate::year(DECISION_DATE))
@@ -104,13 +103,15 @@ d <- filter(d, !duplicated(PERSON_ID)) %>%
 ### Weekly Counts
 d_neigh <- d  %>%
   mutate(fips_tract_id = as.character(fips_tract_id)) %>%
-  filter(!is.na(lat)) %>%
   left_join(tract_to_neighborhood, by='fips_tract_id') %>%
   filter(!is.na(DECISION_DATE))
 
+d_neigh <- d_neigh %>%
+  mutate(neighborhood = ifelse(is.na(lat), 'Missing', neighborhood))
+
 screen_neighborhood <- d_neigh %>%
   group_by(neighborhood, year, week) %>%
-  summarize(n_screened_in = sum(SCREENING_DECISION == 'SCREENED IN',na.rm = TRUE),
+  summarize(n_screened_in = sum(screened_in == TRUE, na.rm = TRUE),
             n_calls = n(), .groups = "drop")  %>%
   mutate(screen_in_rate = round(n_screened_in/n_calls,2)) %>%
   mutate_at(vars(n_screened_in, n_calls),
@@ -119,7 +120,7 @@ screen_neighborhood <- d_neigh %>%
 ##
 
 d_csv <- screen_neighborhood %>%
-  select(Neighborhood = neighborhood,
+  select(`Neighborhood` = neighborhood,
          `Year` = year,
          `Week` = week,
          `Number of Calls` = n_calls,
