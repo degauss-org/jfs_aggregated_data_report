@@ -1,6 +1,6 @@
 # jfs_aggregated_data_report <a href='https://degauss-org.github.io/DeGAUSS/'><img src='DeGAUSS_hex.png' align="right" height="138.5" /></a>
 
-> DeGAUSS container that generates two CSV files of aggregated data for JFS from a geocoded CSV file
+> DeGAUSS container that generates one CSV file of aggregated, weekly data for JFS from a geocoded CSV file
 
 [![Docker Build Status](https://img.shields.io/docker/automated/degauss/jfs_aggregated_data_report)](https://hub.docker.com/repository/docker/degauss/jfs_aggregated_data_report/tags)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/degauss-org/jfs_aggregated_data_report)](https://github.com/degauss-org/jfs_aggregated_data_report/releases)
@@ -10,10 +10,16 @@
 If `my_address_file_geocoded.csv` is a file in the current working directory with coordinate columns named `lat` and `lon`, then
 
 ```sh
-docker run --rm -v $PWD:/tmp degauss/jfs_aggregated_data_report:3.0 my_address_file_geocoded.csv
+docker run --rm -v $PWD:/tmp degauss/jfs_aggregated_data_report:4.0 my_address_file_geocoded.csv
 ```
 
-will produce two CSV files: `acv_level_report.csv` and `intake_level_report.csv`
+will produce once CSV file: `weekly_report.csv`
+
+## Dataset Notes
+
+- Screening status `SCREENED IN AR` included with `SCREENED IN`
+- If there is no `ALLEGATION_ADDRESS` given, we will use the `CHILD_ADDRESS`
+- Intakes that either have no listed address or were unsuccessfully geocoded will be included as a "neigbhorhood" called `Missing`
 
 ## geomarker data
 

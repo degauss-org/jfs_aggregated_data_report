@@ -11,7 +11,7 @@ RUN apt-get update \
   libgeos-dev \
   libudunits2-dev \
   libproj-dev \
-  libssl-dev \
+  libv8-dev \
   && apt-get clean
 
 COPY renv.lock .
@@ -20,8 +20,8 @@ RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://packagemanager.rstudio
 
 COPY tract_to_neighborhood.rds .
 COPY ham_neighborhoods_dep_index_shp.rds .
-COPY aggregate_data_report.r .
+COPY weekly_data_report.R .
 
 WORKDIR /tmp
 
-ENTRYPOINT ["/app/aggregate_data_report.r"]
+ENTRYPOINT ["/app/weekly_data_report.R"]

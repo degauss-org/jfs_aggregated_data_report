@@ -1,0 +1,2302 @@
+"","Neighborhood","Year","Week","Number of Calls","Number of Calls Screened In","Screen-In Rate"
+"1","Amberley",2020,1,NA,NA,0
+"2","Amberley",2020,3,NA,NA,0
+"3","Amberley",2020,7,NA,NA,1
+"4","Amberley",2020,9,NA,NA,1
+"5","Amberley",2020,10,NA,NA,0
+"6","Amberley",2020,13,NA,NA,0
+"7","Amberley",2020,19,NA,NA,1
+"8","Amberley",2020,20,NA,NA,0.5
+"9","Amberley",2020,23,NA,NA,0
+"10","Amberley",2020,27,NA,NA,0
+"11","Amberley",2020,28,NA,NA,0
+"12","Amberley",2020,30,NA,NA,0
+"13","Amberley",2020,32,NA,NA,0
+"14","Amberley",2020,33,NA,NA,1
+"15","Amberley",2020,35,NA,NA,1
+"16","Amberley",2020,36,NA,NA,1
+"17","Amberley",2020,37,NA,NA,1
+"18","Amberley",2020,38,NA,NA,1
+"19","Amberley",2020,44,NA,NA,0
+"20","Amberley",2020,46,NA,NA,0
+"21","Amberley",2020,47,NA,NA,1
+"22","Amberley",2020,48,NA,NA,1
+"23","Anderson Twp.-Newtown",2020,1,5,NA,0.4
+"24","Anderson Twp.-Newtown",2020,2,NA,NA,0.25
+"25","Anderson Twp.-Newtown",2020,3,5,NA,0.2
+"26","Anderson Twp.-Newtown",2020,4,7,NA,0.57
+"27","Anderson Twp.-Newtown",2020,5,6,5,0.83
+"28","Anderson Twp.-Newtown",2020,6,5,NA,0.2
+"29","Anderson Twp.-Newtown",2020,7,9,5,0.56
+"30","Anderson Twp.-Newtown",2020,8,5,NA,0.6
+"31","Anderson Twp.-Newtown",2020,9,NA,NA,0.5
+"32","Anderson Twp.-Newtown",2020,10,8,NA,0.5
+"33","Anderson Twp.-Newtown",2020,11,8,NA,0.5
+"34","Anderson Twp.-Newtown",2020,12,NA,NA,0.5
+"35","Anderson Twp.-Newtown",2020,13,5,NA,0.4
+"36","Anderson Twp.-Newtown",2020,14,9,6,0.67
+"37","Anderson Twp.-Newtown",2020,15,8,5,0.62
+"38","Anderson Twp.-Newtown",2020,16,NA,NA,0.5
+"39","Anderson Twp.-Newtown",2020,17,5,NA,0.6
+"40","Anderson Twp.-Newtown",2020,18,NA,NA,0.25
+"41","Anderson Twp.-Newtown",2020,19,NA,NA,0.25
+"42","Anderson Twp.-Newtown",2020,20,NA,NA,0.75
+"43","Anderson Twp.-Newtown",2020,21,5,NA,0.8
+"44","Anderson Twp.-Newtown",2020,22,7,NA,0.57
+"45","Anderson Twp.-Newtown",2020,23,9,5,0.56
+"46","Anderson Twp.-Newtown",2020,24,6,NA,0.5
+"47","Anderson Twp.-Newtown",2020,25,6,NA,0.5
+"48","Anderson Twp.-Newtown",2020,26,7,NA,0.57
+"49","Anderson Twp.-Newtown",2020,27,10,7,0.7
+"50","Anderson Twp.-Newtown",2020,28,NA,NA,0.75
+"51","Anderson Twp.-Newtown",2020,29,NA,NA,1
+"52","Anderson Twp.-Newtown",2020,30,12,7,0.58
+"53","Anderson Twp.-Newtown",2020,31,6,5,0.83
+"54","Anderson Twp.-Newtown",2020,32,10,6,0.6
+"55","Anderson Twp.-Newtown",2020,33,5,5,1
+"56","Anderson Twp.-Newtown",2020,34,6,5,0.83
+"57","Anderson Twp.-Newtown",2020,35,6,5,0.83
+"58","Anderson Twp.-Newtown",2020,36,NA,NA,0.5
+"59","Anderson Twp.-Newtown",2020,37,6,NA,0.67
+"60","Anderson Twp.-Newtown",2020,38,NA,NA,0
+"61","Anderson Twp.-Newtown",2020,39,7,NA,0.29
+"62","Anderson Twp.-Newtown",2020,40,5,NA,0.8
+"63","Anderson Twp.-Newtown",2020,41,6,NA,0.67
+"64","Anderson Twp.-Newtown",2020,42,9,6,0.67
+"65","Anderson Twp.-Newtown",2020,43,6,NA,0.33
+"66","Anderson Twp.-Newtown",2020,44,5,NA,0.6
+"67","Anderson Twp.-Newtown",2020,45,6,NA,0.33
+"68","Anderson Twp.-Newtown",2020,46,11,8,0.73
+"69","Anderson Twp.-Newtown",2020,47,6,5,0.83
+"70","Anderson Twp.-Newtown",2020,48,NA,NA,1
+"71","Anderson Twp.-Newtown",2020,49,6,5,0.83
+"72","Anderson Twp.-Newtown",2020,50,7,5,0.71
+"73","Anderson Twp.-Newtown",2020,51,7,6,0.86
+"74","Anderson Twp.-Newtown",2020,52,10,7,0.7
+"75","Anderson Twp.-Newtown",2020,53,NA,NA,0.5
+"76","Avondale",2020,2,NA,NA,0
+"77","Avondale",2020,3,NA,NA,0
+"78","Avondale",2020,4,NA,NA,0.67
+"79","Avondale",2020,5,NA,NA,0.67
+"80","Avondale",2020,6,NA,NA,0.5
+"81","Avondale",2020,7,NA,NA,1
+"82","Avondale",2020,8,NA,NA,1
+"83","Avondale",2020,11,NA,NA,1
+"84","Avondale",2020,12,NA,NA,0
+"85","Avondale",2020,13,NA,NA,1
+"86","Avondale",2020,14,NA,NA,0.33
+"87","Avondale",2020,15,NA,NA,0
+"88","Avondale",2020,18,NA,NA,0
+"89","Avondale",2020,20,NA,NA,1
+"90","Avondale",2020,21,NA,NA,1
+"91","Avondale",2020,22,NA,NA,1
+"92","Avondale",2020,24,NA,NA,1
+"93","Avondale",2020,27,NA,NA,0.5
+"94","Avondale",2020,31,NA,NA,1
+"95","Avondale",2020,34,NA,NA,1
+"96","Avondale",2020,35,NA,NA,1
+"97","Avondale",2020,36,NA,NA,0.33
+"98","Avondale",2020,37,NA,NA,1
+"99","Avondale",2020,38,NA,NA,0
+"100","Avondale",2020,40,NA,NA,0
+"101","Avondale",2020,42,NA,NA,0.67
+"102","Avondale",2020,43,NA,NA,0
+"103","Avondale",2020,45,NA,NA,0
+"104","Avondale",2020,47,NA,NA,0
+"105","Avondale",2020,48,NA,NA,1
+"106","Avondale",2020,50,NA,NA,0.5
+"107","Blue Ash",2020,1,NA,NA,1
+"108","Blue Ash",2020,2,NA,NA,1
+"109","Blue Ash",2020,3,NA,NA,1
+"110","Blue Ash",2020,4,NA,NA,1
+"111","Blue Ash",2020,5,NA,NA,1
+"112","Blue Ash",2020,6,NA,NA,1
+"113","Blue Ash",2020,7,NA,NA,1
+"114","Blue Ash",2020,8,NA,NA,1
+"115","Blue Ash",2020,9,NA,NA,0.5
+"116","Blue Ash",2020,10,NA,NA,1
+"117","Blue Ash",2020,11,NA,NA,1
+"118","Blue Ash",2020,12,NA,NA,1
+"119","Blue Ash",2020,14,NA,NA,1
+"120","Blue Ash",2020,15,NA,NA,0.5
+"121","Blue Ash",2020,17,5,NA,0.4
+"122","Blue Ash",2020,19,NA,NA,0
+"123","Blue Ash",2020,20,NA,NA,0.5
+"124","Blue Ash",2020,21,NA,NA,1
+"125","Blue Ash",2020,22,NA,NA,1
+"126","Blue Ash",2020,23,NA,NA,0.5
+"127","Blue Ash",2020,24,NA,NA,1
+"128","Blue Ash",2020,25,NA,NA,1
+"129","Blue Ash",2020,26,NA,NA,0.5
+"130","Blue Ash",2020,27,NA,NA,0
+"131","Blue Ash",2020,28,NA,NA,0
+"132","Blue Ash",2020,29,NA,NA,0
+"133","Blue Ash",2020,30,NA,NA,1
+"134","Blue Ash",2020,32,NA,NA,0
+"135","Blue Ash",2020,36,NA,NA,0.5
+"136","Blue Ash",2020,37,NA,NA,0.67
+"137","Blue Ash",2020,38,NA,NA,0.5
+"138","Blue Ash",2020,39,NA,NA,0
+"139","Blue Ash",2020,40,NA,NA,0.5
+"140","Blue Ash",2020,41,NA,NA,1
+"141","Blue Ash",2020,43,NA,NA,0
+"142","Blue Ash",2020,44,NA,NA,0.5
+"143","Blue Ash",2020,45,NA,NA,0
+"144","Blue Ash",2020,46,NA,NA,0.5
+"145","Blue Ash",2020,47,NA,NA,0
+"146","Blue Ash",2020,48,NA,NA,1
+"147","Blue Ash",2020,49,NA,NA,0.5
+"148","Blue Ash",2020,50,NA,NA,0.25
+"149","Blue Ash",2020,51,NA,NA,0.75
+"150","Blue Ash",2020,52,NA,NA,1
+"151","Bond Hill",2020,1,NA,NA,1
+"152","Bond Hill",2020,3,NA,NA,1
+"153","Bond Hill",2020,4,NA,NA,1
+"154","Bond Hill",2020,8,NA,NA,1
+"155","Bond Hill",2020,12,NA,NA,0
+"156","Bond Hill",2020,14,NA,NA,0
+"157","Bond Hill",2020,15,NA,NA,0.5
+"158","Bond Hill",2020,18,5,NA,0.4
+"159","Bond Hill",2020,19,NA,NA,0.5
+"160","Bond Hill",2020,24,NA,NA,1
+"161","Bond Hill",2020,25,NA,NA,1
+"162","Bond Hill",2020,26,NA,NA,0
+"163","Bond Hill",2020,27,NA,NA,1
+"164","Bond Hill",2020,29,NA,NA,1
+"165","Bond Hill",2020,30,NA,NA,0
+"166","Bond Hill",2020,31,NA,NA,0
+"167","Bond Hill",2020,32,NA,NA,1
+"168","Bond Hill",2020,34,NA,NA,0.5
+"169","Bond Hill",2020,35,NA,NA,0.5
+"170","Bond Hill",2020,36,NA,NA,1
+"171","Bond Hill",2020,38,NA,NA,0.5
+"172","Bond Hill",2020,41,NA,NA,1
+"173","Bond Hill",2020,43,NA,NA,1
+"174","Bond Hill",2020,46,NA,NA,0
+"175","Bond Hill",2020,47,NA,NA,1
+"176","Bond Hill",2020,49,NA,NA,1
+"177","Bond Hill",2020,52,NA,NA,1
+"178","Bond Hill",2020,53,NA,NA,1
+"179","Camp Washington",2020,8,NA,NA,1
+"180","Camp Washington",2020,14,NA,NA,0
+"181","Camp Washington",2020,25,NA,NA,1
+"182","Camp Washington",2020,26,NA,NA,1
+"183","Camp Washington",2020,27,NA,NA,0
+"184","Camp Washington",2020,28,NA,NA,1
+"185","Carthage",2020,1,NA,NA,1
+"186","Carthage",2020,7,NA,NA,0
+"187","Carthage",2020,8,NA,NA,1
+"188","Carthage",2020,10,NA,NA,1
+"189","Carthage",2020,11,NA,NA,1
+"190","Carthage",2020,12,NA,NA,1
+"191","Carthage",2020,13,NA,NA,0
+"192","Carthage",2020,27,NA,NA,0
+"193","Carthage",2020,34,NA,NA,1
+"194","Carthage",2020,38,NA,NA,0
+"195","Carthage",2020,40,NA,NA,1
+"196","Carthage",2020,44,NA,NA,1
+"197","Carthage",2020,46,NA,NA,1
+"198","Carthage",2020,50,NA,NA,1
+"199","Carthage",2020,51,NA,NA,1
+"200","Cheviot",2020,1,NA,NA,0
+"201","Cheviot",2020,4,NA,NA,0
+"202","Cheviot",2020,6,NA,NA,1
+"203","Cheviot",2020,8,NA,NA,0.67
+"204","Cheviot",2020,9,NA,NA,1
+"205","Cheviot",2020,10,NA,NA,0
+"206","Cheviot",2020,11,NA,NA,1
+"207","Cheviot",2020,12,NA,NA,1
+"208","Cheviot",2020,14,NA,NA,1
+"209","Cheviot",2020,17,NA,NA,0
+"210","Cheviot",2020,18,NA,NA,0.25
+"211","Cheviot",2020,19,NA,NA,0.5
+"212","Cheviot",2020,20,NA,NA,1
+"213","Cheviot",2020,21,NA,NA,1
+"214","Cheviot",2020,24,NA,NA,1
+"215","Cheviot",2020,25,NA,NA,1
+"216","Cheviot",2020,27,NA,NA,0.5
+"217","Cheviot",2020,29,NA,NA,0.67
+"218","Cheviot",2020,31,NA,NA,1
+"219","Cheviot",2020,32,NA,NA,0
+"220","Cheviot",2020,34,NA,NA,1
+"221","Cheviot",2020,36,NA,NA,1
+"222","Cheviot",2020,37,NA,NA,1
+"223","Cheviot",2020,40,NA,NA,1
+"224","Cheviot",2020,43,NA,NA,1
+"225","Cheviot",2020,44,NA,NA,1
+"226","Cheviot",2020,45,NA,NA,0
+"227","Cheviot",2020,46,NA,NA,1
+"228","Cheviot",2020,47,NA,NA,1
+"229","Cheviot",2020,49,NA,NA,0
+"230","Cheviot",2020,50,NA,NA,1
+"231","Cheviot",2020,51,NA,NA,0.33
+"232","Cheviot",2020,52,NA,NA,0
+"233","Clifton",2020,1,NA,NA,0.5
+"234","Clifton",2020,5,NA,NA,0
+"235","Clifton",2020,7,NA,NA,0
+"236","Clifton",2020,9,NA,NA,1
+"237","Clifton",2020,12,NA,NA,1
+"238","Clifton",2020,14,NA,NA,0.5
+"239","Clifton",2020,17,NA,NA,0.5
+"240","Clifton",2020,18,NA,NA,1
+"241","Clifton",2020,19,NA,NA,1
+"242","Clifton",2020,21,NA,NA,1
+"243","Clifton",2020,23,NA,NA,0
+"244","Clifton",2020,25,NA,NA,1
+"245","Clifton",2020,28,NA,NA,0.5
+"246","Clifton",2020,29,NA,NA,1
+"247","Clifton",2020,30,NA,NA,0
+"248","Clifton",2020,31,NA,NA,1
+"249","Clifton",2020,32,NA,NA,0
+"250","Clifton",2020,34,NA,NA,1
+"251","Clifton",2020,35,NA,NA,1
+"252","Clifton",2020,36,NA,NA,0.5
+"253","Clifton",2020,38,NA,NA,1
+"254","Clifton",2020,40,NA,NA,0.5
+"255","Clifton",2020,42,NA,NA,1
+"256","Clifton",2020,44,NA,NA,1
+"257","Clifton",2020,45,NA,NA,1
+"258","Clifton",2020,46,NA,NA,0.5
+"259","Clifton",2020,47,NA,NA,0.5
+"260","Clifton",2020,48,NA,NA,1
+"261","Clifton",2020,50,NA,NA,1
+"262","Clifton",2020,53,NA,NA,0
+"263","Colerain Twp.",2020,1,NA,NA,0.75
+"264","Colerain Twp.",2020,2,10,6,0.6
+"265","Colerain Twp.",2020,3,NA,NA,0.5
+"266","Colerain Twp.",2020,4,7,NA,0.57
+"267","Colerain Twp.",2020,5,9,6,0.67
+"268","Colerain Twp.",2020,6,10,NA,0.4
+"269","Colerain Twp.",2020,7,NA,NA,0.67
+"270","Colerain Twp.",2020,8,8,NA,0.38
+"271","Colerain Twp.",2020,9,10,6,0.6
+"272","Colerain Twp.",2020,10,8,6,0.75
+"273","Colerain Twp.",2020,11,NA,NA,0.5
+"274","Colerain Twp.",2020,12,NA,NA,0.75
+"275","Colerain Twp.",2020,13,NA,NA,0.5
+"276","Colerain Twp.",2020,14,NA,NA,0.33
+"277","Colerain Twp.",2020,15,8,5,0.62
+"278","Colerain Twp.",2020,16,9,NA,0.33
+"279","Colerain Twp.",2020,17,NA,NA,0.75
+"280","Colerain Twp.",2020,18,9,7,0.78
+"281","Colerain Twp.",2020,19,8,NA,0.5
+"282","Colerain Twp.",2020,20,8,5,0.62
+"283","Colerain Twp.",2020,21,7,NA,0.43
+"284","Colerain Twp.",2020,22,6,NA,0.5
+"285","Colerain Twp.",2020,23,5,NA,0.4
+"286","Colerain Twp.",2020,24,13,8,0.62
+"287","Colerain Twp.",2020,25,7,6,0.86
+"288","Colerain Twp.",2020,26,8,NA,0.5
+"289","Colerain Twp.",2020,27,6,NA,0.17
+"290","Colerain Twp.",2020,28,7,NA,0.57
+"291","Colerain Twp.",2020,29,NA,NA,1
+"292","Colerain Twp.",2020,30,NA,NA,0.25
+"293","Colerain Twp.",2020,31,5,5,1
+"294","Colerain Twp.",2020,32,8,6,0.75
+"295","Colerain Twp.",2020,33,7,7,1
+"296","Colerain Twp.",2020,34,NA,NA,0.5
+"297","Colerain Twp.",2020,35,5,NA,0.6
+"298","Colerain Twp.",2020,36,11,5,0.45
+"299","Colerain Twp.",2020,37,8,NA,0.25
+"300","Colerain Twp.",2020,38,12,10,0.83
+"301","Colerain Twp.",2020,39,9,5,0.56
+"302","Colerain Twp.",2020,40,10,5,0.5
+"303","Colerain Twp.",2020,41,8,5,0.62
+"304","Colerain Twp.",2020,42,6,5,0.83
+"305","Colerain Twp.",2020,43,7,NA,0.57
+"306","Colerain Twp.",2020,44,7,5,0.71
+"307","Colerain Twp.",2020,45,5,NA,0.8
+"308","Colerain Twp.",2020,46,11,8,0.73
+"309","Colerain Twp.",2020,47,11,7,0.64
+"310","Colerain Twp.",2020,48,10,7,0.7
+"311","Colerain Twp.",2020,49,7,NA,0.57
+"312","Colerain Twp.",2020,50,9,7,0.78
+"313","Colerain Twp.",2020,51,NA,NA,0
+"314","Colerain Twp.",2020,52,6,NA,0.67
+"315","Colerain Twp.",2020,53,NA,NA,0.67
+"316","College Hill",2020,1,NA,NA,0
+"317","College Hill",2020,2,NA,NA,0.5
+"318","College Hill",2020,4,NA,NA,1
+"319","College Hill",2020,5,NA,NA,0
+"320","College Hill",2020,6,NA,NA,0.33
+"321","College Hill",2020,7,NA,NA,0.5
+"322","College Hill",2020,8,NA,NA,0
+"323","College Hill",2020,9,NA,NA,0.67
+"324","College Hill",2020,10,NA,NA,0.5
+"325","College Hill",2020,11,NA,NA,0.5
+"326","College Hill",2020,12,NA,NA,1
+"327","College Hill",2020,14,5,NA,0.8
+"328","College Hill",2020,15,NA,NA,0.5
+"329","College Hill",2020,16,NA,NA,0.67
+"330","College Hill",2020,17,NA,NA,0.5
+"331","College Hill",2020,19,NA,NA,0
+"332","College Hill",2020,20,NA,NA,1
+"333","College Hill",2020,21,NA,NA,1
+"334","College Hill",2020,22,NA,NA,0
+"335","College Hill",2020,23,NA,NA,0.33
+"336","College Hill",2020,24,NA,NA,0.67
+"337","College Hill",2020,25,NA,NA,1
+"338","College Hill",2020,26,NA,NA,1
+"339","College Hill",2020,27,NA,NA,1
+"340","College Hill",2020,28,NA,NA,0.67
+"341","College Hill",2020,29,NA,NA,0.5
+"342","College Hill",2020,30,NA,NA,0.5
+"343","College Hill",2020,32,NA,NA,1
+"344","College Hill",2020,33,NA,NA,1
+"345","College Hill",2020,34,NA,NA,1
+"346","College Hill",2020,36,NA,NA,1
+"347","College Hill",2020,38,NA,NA,0.75
+"348","College Hill",2020,39,NA,NA,1
+"349","College Hill",2020,40,NA,NA,1
+"350","College Hill",2020,42,7,6,0.86
+"351","College Hill",2020,43,NA,NA,1
+"352","College Hill",2020,44,NA,NA,0.5
+"353","College Hill",2020,45,NA,NA,0.5
+"354","College Hill",2020,46,NA,NA,0.67
+"355","College Hill",2020,47,NA,NA,0.5
+"356","College Hill",2020,48,NA,NA,1
+"357","College Hill",2020,49,NA,NA,0.5
+"358","College Hill",2020,50,NA,NA,1
+"359","College Hill",2020,51,NA,NA,0.67
+"360","College Hill",2020,52,NA,NA,0.5
+"361","Corryville",2020,6,NA,NA,1
+"362","Corryville",2020,7,NA,NA,1
+"363","Corryville",2020,10,NA,NA,0
+"364","Corryville",2020,14,NA,NA,1
+"365","Corryville",2020,20,NA,NA,1
+"366","Corryville",2020,24,NA,NA,1
+"367","Corryville",2020,27,NA,NA,1
+"368","Corryville",2020,34,NA,NA,1
+"369","Corryville",2020,35,NA,NA,1
+"370","Corryville",2020,45,NA,NA,0
+"371","Corryville",2020,48,NA,NA,1
+"372","Crosby Twp.",2020,1,NA,NA,1
+"373","Crosby Twp.",2020,8,NA,NA,0
+"374","Crosby Twp.",2020,10,NA,NA,0.5
+"375","Crosby Twp.",2020,14,NA,NA,1
+"376","Crosby Twp.",2020,17,NA,NA,0
+"377","Crosby Twp.",2020,26,NA,NA,1
+"378","Crosby Twp.",2020,29,NA,NA,1
+"379","Crosby Twp.",2020,34,NA,NA,1
+"380","Crosby Twp.",2020,40,NA,NA,0
+"381","Crosby Twp.",2020,46,NA,NA,0
+"382","Crosby Twp.",2020,47,NA,NA,1
+"383","Crosby Twp.",2020,49,NA,NA,0
+"384","CUF",2020,3,NA,NA,0.25
+"385","CUF",2020,4,NA,NA,0
+"386","CUF",2020,5,NA,NA,1
+"387","CUF",2020,6,NA,NA,0
+"388","CUF",2020,7,NA,NA,1
+"389","CUF",2020,8,NA,NA,1
+"390","CUF",2020,11,NA,NA,0
+"391","CUF",2020,12,NA,NA,0
+"392","CUF",2020,13,NA,NA,0.5
+"393","CUF",2020,17,NA,NA,0
+"394","CUF",2020,18,NA,NA,1
+"395","CUF",2020,19,NA,NA,1
+"396","CUF",2020,20,NA,NA,0
+"397","CUF",2020,21,NA,NA,0
+"398","CUF",2020,22,NA,NA,1
+"399","CUF",2020,24,NA,NA,1
+"400","CUF",2020,25,NA,NA,0.5
+"401","CUF",2020,26,NA,NA,1
+"402","CUF",2020,27,NA,NA,0
+"403","CUF",2020,29,NA,NA,0
+"404","CUF",2020,30,NA,NA,1
+"405","CUF",2020,31,NA,NA,0.33
+"406","CUF",2020,34,NA,NA,0.75
+"407","CUF",2020,35,NA,NA,1
+"408","CUF",2020,36,NA,NA,1
+"409","CUF",2020,38,NA,NA,1
+"410","CUF",2020,39,NA,NA,1
+"411","CUF",2020,42,NA,NA,0
+"412","CUF",2020,43,NA,NA,1
+"413","CUF",2020,45,NA,NA,0.5
+"414","CUF",2020,47,NA,NA,0
+"415","CUF",2020,49,NA,NA,0
+"416","CUF",2020,52,NA,NA,0
+"417","Deer Park",2020,1,NA,NA,1
+"418","Deer Park",2020,2,NA,NA,0.5
+"419","Deer Park",2020,6,NA,NA,1
+"420","Deer Park",2020,7,NA,NA,1
+"421","Deer Park",2020,8,NA,NA,0
+"422","Deer Park",2020,9,NA,NA,0
+"423","Deer Park",2020,10,NA,NA,1
+"424","Deer Park",2020,12,NA,NA,0.33
+"425","Deer Park",2020,20,NA,NA,1
+"426","Deer Park",2020,23,NA,NA,0
+"427","Deer Park",2020,25,NA,NA,0.5
+"428","Deer Park",2020,27,NA,NA,1
+"429","Deer Park",2020,30,NA,NA,0
+"430","Deer Park",2020,31,NA,NA,0
+"431","Deer Park",2020,32,NA,NA,1
+"432","Deer Park",2020,33,NA,NA,1
+"433","Deer Park",2020,36,NA,NA,0
+"434","Deer Park",2020,38,NA,NA,0.67
+"435","Deer Park",2020,41,NA,NA,1
+"436","Deer Park",2020,44,NA,NA,0.33
+"437","Deer Park",2020,45,NA,NA,0
+"438","Deer Park",2020,46,NA,NA,1
+"439","Deer Park",2020,49,NA,NA,0.5
+"440","Deer Park",2020,50,NA,NA,0
+"441","Deer Park",2020,52,NA,NA,0
+"442","Delhi Twp.",2020,1,NA,NA,0.5
+"443","Delhi Twp.",2020,2,6,NA,0.67
+"444","Delhi Twp.",2020,3,NA,NA,0
+"445","Delhi Twp.",2020,4,NA,NA,0.67
+"446","Delhi Twp.",2020,5,NA,NA,0.33
+"447","Delhi Twp.",2020,6,7,5,0.71
+"448","Delhi Twp.",2020,7,NA,NA,0.5
+"449","Delhi Twp.",2020,8,NA,NA,1
+"450","Delhi Twp.",2020,9,NA,NA,0
+"451","Delhi Twp.",2020,10,NA,NA,0.75
+"452","Delhi Twp.",2020,11,5,NA,0.6
+"453","Delhi Twp.",2020,12,NA,NA,0.75
+"454","Delhi Twp.",2020,13,NA,NA,0
+"455","Delhi Twp.",2020,14,NA,NA,0.33
+"456","Delhi Twp.",2020,15,NA,NA,0.5
+"457","Delhi Twp.",2020,16,5,NA,0.4
+"458","Delhi Twp.",2020,17,NA,NA,0.5
+"459","Delhi Twp.",2020,18,6,NA,0.67
+"460","Delhi Twp.",2020,19,NA,NA,1
+"461","Delhi Twp.",2020,20,NA,NA,0.33
+"462","Delhi Twp.",2020,21,6,NA,0.5
+"463","Delhi Twp.",2020,22,NA,NA,0.33
+"464","Delhi Twp.",2020,23,NA,NA,0
+"465","Delhi Twp.",2020,24,NA,NA,0.25
+"466","Delhi Twp.",2020,25,5,NA,0.6
+"467","Delhi Twp.",2020,27,NA,NA,0
+"468","Delhi Twp.",2020,28,NA,NA,0.25
+"469","Delhi Twp.",2020,29,NA,NA,1
+"470","Delhi Twp.",2020,30,NA,NA,0.75
+"471","Delhi Twp.",2020,31,NA,NA,1
+"472","Delhi Twp.",2020,32,NA,NA,0
+"473","Delhi Twp.",2020,33,NA,NA,0.33
+"474","Delhi Twp.",2020,34,NA,NA,0.33
+"475","Delhi Twp.",2020,35,NA,NA,0.75
+"476","Delhi Twp.",2020,36,NA,NA,0.33
+"477","Delhi Twp.",2020,37,NA,NA,0.25
+"478","Delhi Twp.",2020,38,NA,NA,0.5
+"479","Delhi Twp.",2020,39,7,NA,0.57
+"480","Delhi Twp.",2020,40,NA,NA,0
+"481","Delhi Twp.",2020,41,5,NA,0.6
+"482","Delhi Twp.",2020,42,NA,NA,0.33
+"483","Delhi Twp.",2020,43,NA,NA,1
+"484","Delhi Twp.",2020,44,5,NA,0.2
+"485","Delhi Twp.",2020,45,6,5,0.83
+"486","Delhi Twp.",2020,46,NA,NA,0
+"487","Delhi Twp.",2020,47,NA,NA,0.5
+"488","Delhi Twp.",2020,48,NA,NA,0.33
+"489","Delhi Twp.",2020,49,NA,NA,0.5
+"490","Delhi Twp.",2020,50,NA,NA,0.67
+"491","Delhi Twp.",2020,51,NA,NA,0.5
+"492","Delhi Twp.",2020,52,NA,NA,0.67
+"493","Downtown",2020,17,NA,NA,1
+"494","E. Price Hill",2020,1,NA,NA,1
+"495","E. Price Hill",2020,4,NA,NA,1
+"496","E. Price Hill",2020,5,NA,NA,1
+"497","E. Price Hill",2020,6,NA,NA,1
+"498","E. Price Hill",2020,8,NA,NA,0
+"499","E. Price Hill",2020,9,NA,NA,0.67
+"500","E. Price Hill",2020,10,NA,NA,1
+"501","E. Price Hill",2020,11,NA,NA,1
+"502","E. Price Hill",2020,12,5,NA,0.4
+"503","E. Price Hill",2020,13,NA,NA,1
+"504","E. Price Hill",2020,14,NA,NA,0
+"505","E. Price Hill",2020,15,NA,NA,0.5
+"506","E. Price Hill",2020,16,NA,NA,1
+"507","E. Price Hill",2020,20,NA,NA,0.5
+"508","E. Price Hill",2020,21,NA,NA,0.33
+"509","E. Price Hill",2020,22,NA,NA,0.5
+"510","E. Price Hill",2020,26,NA,NA,1
+"511","E. Price Hill",2020,27,NA,NA,0
+"512","E. Price Hill",2020,28,NA,NA,0.5
+"513","E. Price Hill",2020,29,NA,NA,0.5
+"514","E. Price Hill",2020,30,NA,NA,0.67
+"515","E. Price Hill",2020,31,NA,NA,0
+"516","E. Price Hill",2020,32,NA,NA,1
+"517","E. Price Hill",2020,33,NA,NA,1
+"518","E. Price Hill",2020,34,NA,NA,1
+"519","E. Price Hill",2020,36,NA,NA,1
+"520","E. Price Hill",2020,38,NA,NA,0.33
+"521","E. Price Hill",2020,39,NA,NA,1
+"522","E. Price Hill",2020,40,NA,NA,0
+"523","E. Price Hill",2020,41,NA,NA,0.33
+"524","E. Price Hill",2020,42,NA,NA,1
+"525","E. Price Hill",2020,43,NA,NA,0.67
+"526","E. Price Hill",2020,45,NA,NA,0
+"527","E. Price Hill",2020,46,NA,NA,0
+"528","E. Price Hill",2020,47,NA,NA,1
+"529","E. Price Hill",2020,48,NA,NA,0
+"530","E. Price Hill",2020,49,NA,NA,0.25
+"531","E. Price Hill",2020,51,NA,NA,1
+"532","E. Price Hill",2020,52,NA,NA,0.5
+"533","E. Price Hill",2020,53,NA,NA,0
+"534","E. Walnut Hills",2020,23,NA,NA,0
+"535","E. Walnut Hills",2020,31,NA,NA,1
+"536","E. Walnut Hills",2020,37,NA,NA,1
+"537","E. Walnut Hills",2020,45,NA,NA,0
+"538","E. Walnut Hills",2020,46,NA,NA,1
+"539","E. Walnut Hills",2020,47,NA,NA,0
+"540","East End-Linwood",2020,1,NA,NA,0
+"541","East End-Linwood",2020,2,NA,NA,1
+"542","East End-Linwood",2020,5,NA,NA,1
+"543","East End-Linwood",2020,9,NA,NA,0
+"544","East End-Linwood",2020,12,NA,NA,1
+"545","East End-Linwood",2020,13,NA,NA,1
+"546","East End-Linwood",2020,21,NA,NA,0.33
+"547","East End-Linwood",2020,22,NA,NA,0
+"548","East End-Linwood",2020,23,NA,NA,0
+"549","East End-Linwood",2020,26,NA,NA,1
+"550","East End-Linwood",2020,31,NA,NA,1
+"551","East End-Linwood",2020,34,NA,NA,1
+"552","East End-Linwood",2020,45,NA,NA,1
+"553","Elmwood",2020,5,NA,NA,1
+"554","Elmwood",2020,8,NA,NA,0
+"555","Elmwood",2020,9,NA,NA,0
+"556","Elmwood",2020,13,NA,NA,1
+"557","Elmwood",2020,18,NA,NA,1
+"558","Elmwood",2020,24,NA,NA,0
+"559","Elmwood",2020,26,NA,NA,1
+"560","Elmwood",2020,28,NA,NA,1
+"561","Elmwood",2020,33,NA,NA,1
+"562","Elmwood",2020,37,NA,NA,0
+"563","Elmwood",2020,39,NA,NA,0
+"564","Elmwood",2020,41,NA,NA,0
+"565","Elmwood",2020,42,NA,NA,1
+"566","Elmwood",2020,43,NA,NA,0
+"567","Elmwood",2020,44,NA,NA,0
+"568","Evanston",2020,1,NA,NA,1
+"569","Evanston",2020,2,NA,NA,1
+"570","Evanston",2020,3,NA,NA,1
+"571","Evanston",2020,4,NA,NA,0.5
+"572","Evanston",2020,5,NA,NA,0.5
+"573","Evanston",2020,7,NA,NA,0.5
+"574","Evanston",2020,8,NA,NA,1
+"575","Evanston",2020,9,NA,NA,0
+"576","Evanston",2020,11,NA,NA,1
+"577","Evanston",2020,12,NA,NA,0.5
+"578","Evanston",2020,13,5,NA,0.8
+"579","Evanston",2020,14,NA,NA,0
+"580","Evanston",2020,15,NA,NA,1
+"581","Evanston",2020,16,NA,NA,0.5
+"582","Evanston",2020,18,NA,NA,1
+"583","Evanston",2020,19,NA,NA,0
+"584","Evanston",2020,21,NA,NA,0.33
+"585","Evanston",2020,22,NA,NA,1
+"586","Evanston",2020,23,NA,NA,0
+"587","Evanston",2020,26,NA,NA,1
+"588","Evanston",2020,28,NA,NA,1
+"589","Evanston",2020,29,NA,NA,1
+"590","Evanston",2020,30,NA,NA,1
+"591","Evanston",2020,31,NA,NA,1
+"592","Evanston",2020,32,NA,NA,0
+"593","Evanston",2020,33,NA,NA,0.5
+"594","Evanston",2020,37,NA,NA,0
+"595","Evanston",2020,38,NA,NA,0
+"596","Evanston",2020,39,NA,NA,1
+"597","Evanston",2020,40,NA,NA,0.67
+"598","Evanston",2020,41,NA,NA,1
+"599","Evanston",2020,42,NA,NA,1
+"600","Evanston",2020,43,NA,NA,1
+"601","Evanston",2020,45,NA,NA,0.67
+"602","Evanston",2020,48,NA,NA,1
+"603","Evanston",2020,49,NA,NA,0.67
+"604","Evanston",2020,50,NA,NA,0.5
+"605","Evanston",2020,51,NA,NA,1
+"606","Evanston",2020,52,NA,NA,0
+"607","Evendale",2020,3,NA,NA,1
+"608","Evendale",2020,5,NA,NA,1
+"609","Evendale",2020,12,NA,NA,1
+"610","Evendale",2020,17,NA,NA,0.5
+"611","Evendale",2020,18,NA,NA,0.5
+"612","Evendale",2020,21,NA,NA,0.5
+"613","Evendale",2020,22,NA,NA,0.67
+"614","Evendale",2020,23,NA,NA,1
+"615","Evendale",2020,26,NA,NA,0.5
+"616","Evendale",2020,28,NA,NA,1
+"617","Evendale",2020,33,NA,NA,1
+"618","Evendale",2020,36,NA,NA,0
+"619","Evendale",2020,39,NA,NA,1
+"620","Evendale",2020,43,NA,NA,1
+"621","Evendale",2020,45,NA,NA,0.5
+"622","Evendale",2020,48,NA,NA,0
+"623","Evendale",2020,52,NA,NA,1
+"624","Fairfax",2020,4,NA,NA,1
+"625","Fairfax",2020,10,NA,NA,1
+"626","Fairfax",2020,15,NA,NA,1
+"627","Fairfax",2020,17,NA,NA,1
+"628","Fairfax",2020,31,NA,NA,0.5
+"629","Fairfax",2020,34,NA,NA,1
+"630","Fairfax",2020,40,NA,NA,1
+"631","Fairfax",2020,49,NA,NA,1
+"632","Forest Park",2020,1,NA,NA,1
+"633","Forest Park",2020,2,NA,NA,0.5
+"634","Forest Park",2020,3,NA,NA,0
+"635","Forest Park",2020,4,NA,NA,0
+"636","Forest Park",2020,5,NA,NA,1
+"637","Forest Park",2020,6,5,NA,0.2
+"638","Forest Park",2020,7,NA,NA,0.33
+"639","Forest Park",2020,8,NA,NA,0
+"640","Forest Park",2020,9,NA,NA,0.5
+"641","Forest Park",2020,11,NA,NA,1
+"642","Forest Park",2020,12,NA,NA,0.25
+"643","Forest Park",2020,13,NA,NA,1
+"644","Forest Park",2020,15,NA,NA,0
+"645","Forest Park",2020,16,NA,NA,0
+"646","Forest Park",2020,17,NA,NA,0
+"647","Forest Park",2020,18,NA,NA,1
+"648","Forest Park",2020,20,NA,NA,0.67
+"649","Forest Park",2020,22,NA,NA,0.25
+"650","Forest Park",2020,23,5,NA,0.8
+"651","Forest Park",2020,24,NA,NA,1
+"652","Forest Park",2020,25,NA,NA,0.33
+"653","Forest Park",2020,26,NA,NA,0.33
+"654","Forest Park",2020,27,NA,NA,1
+"655","Forest Park",2020,28,NA,NA,0.5
+"656","Forest Park",2020,29,NA,NA,0.67
+"657","Forest Park",2020,30,NA,NA,0.33
+"658","Forest Park",2020,31,NA,NA,1
+"659","Forest Park",2020,32,NA,NA,0
+"660","Forest Park",2020,33,NA,NA,1
+"661","Forest Park",2020,34,NA,NA,1
+"662","Forest Park",2020,35,NA,NA,1
+"663","Forest Park",2020,36,NA,NA,1
+"664","Forest Park",2020,37,5,NA,0.8
+"665","Forest Park",2020,38,NA,NA,0
+"666","Forest Park",2020,39,6,5,0.83
+"667","Forest Park",2020,40,NA,NA,1
+"668","Forest Park",2020,42,5,NA,0.6
+"669","Forest Park",2020,43,NA,NA,0
+"670","Forest Park",2020,44,NA,NA,0.67
+"671","Forest Park",2020,45,NA,NA,1
+"672","Forest Park",2020,46,NA,NA,1
+"673","Forest Park",2020,47,5,NA,0.4
+"674","Forest Park",2020,48,NA,NA,0
+"675","Forest Park",2020,49,NA,NA,0.67
+"676","Forest Park",2020,50,5,5,1
+"677","Forest Park",2020,51,NA,NA,0.5
+"678","Forest Park",2020,52,NA,NA,0
+"679","Glendale",2020,6,NA,NA,1
+"680","Glendale",2020,9,NA,NA,0
+"681","Glendale",2020,11,NA,NA,1
+"682","Glendale",2020,14,NA,NA,0
+"683","Glendale",2020,18,NA,NA,1
+"684","Glendale",2020,22,NA,NA,1
+"685","Glendale",2020,25,NA,NA,1
+"686","Glendale",2020,26,NA,NA,1
+"687","Glendale",2020,27,NA,NA,1
+"688","Glendale",2020,39,NA,NA,0
+"689","Glendale",2020,40,NA,NA,0
+"690","Glendale",2020,48,NA,NA,1
+"691","Glendale",2020,52,NA,NA,1
+"692","Golf Manor",2020,5,NA,NA,1
+"693","Golf Manor",2020,7,NA,NA,0
+"694","Golf Manor",2020,13,NA,NA,1
+"695","Golf Manor",2020,14,NA,NA,1
+"696","Golf Manor",2020,17,NA,NA,1
+"697","Golf Manor",2020,20,NA,NA,1
+"698","Golf Manor",2020,21,NA,NA,1
+"699","Golf Manor",2020,22,NA,NA,0
+"700","Golf Manor",2020,26,NA,NA,0
+"701","Golf Manor",2020,28,NA,NA,1
+"702","Golf Manor",2020,32,NA,NA,1
+"703","Golf Manor",2020,33,NA,NA,1
+"704","Golf Manor",2020,34,NA,NA,0
+"705","Golf Manor",2020,35,NA,NA,1
+"706","Golf Manor",2020,38,NA,NA,1
+"707","Golf Manor",2020,40,NA,NA,1
+"708","Golf Manor",2020,41,NA,NA,0
+"709","Golf Manor",2020,42,NA,NA,1
+"710","Golf Manor",2020,45,NA,NA,1
+"711","Golf Manor",2020,46,NA,NA,0
+"712","Golf Manor",2020,50,NA,NA,0
+"713","Golf Manor",2020,51,NA,NA,0
+"714","Green Twp.",2020,1,8,5,0.62
+"715","Green Twp.",2020,2,9,5,0.56
+"716","Green Twp.",2020,3,5,NA,0.6
+"717","Green Twp.",2020,4,6,NA,0.5
+"718","Green Twp.",2020,5,8,5,0.62
+"719","Green Twp.",2020,6,7,5,0.71
+"720","Green Twp.",2020,7,11,8,0.73
+"721","Green Twp.",2020,8,8,5,0.62
+"722","Green Twp.",2020,9,NA,NA,0.5
+"723","Green Twp.",2020,10,9,NA,0.33
+"724","Green Twp.",2020,11,6,NA,0.17
+"725","Green Twp.",2020,12,NA,NA,1
+"726","Green Twp.",2020,13,6,NA,0.67
+"727","Green Twp.",2020,14,5,NA,0.6
+"728","Green Twp.",2020,15,8,NA,0.5
+"729","Green Twp.",2020,16,10,7,0.7
+"730","Green Twp.",2020,17,9,5,0.56
+"731","Green Twp.",2020,18,9,NA,0.44
+"732","Green Twp.",2020,19,5,NA,0.4
+"733","Green Twp.",2020,20,7,5,0.71
+"734","Green Twp.",2020,21,16,8,0.5
+"735","Green Twp.",2020,22,6,NA,0.67
+"736","Green Twp.",2020,23,8,5,0.62
+"737","Green Twp.",2020,24,6,5,0.83
+"738","Green Twp.",2020,25,NA,NA,0
+"739","Green Twp.",2020,26,5,NA,0.6
+"740","Green Twp.",2020,27,NA,NA,0.25
+"741","Green Twp.",2020,28,8,NA,0.5
+"742","Green Twp.",2020,29,7,NA,0.57
+"743","Green Twp.",2020,30,9,6,0.67
+"744","Green Twp.",2020,31,7,NA,0.14
+"745","Green Twp.",2020,32,11,6,0.55
+"746","Green Twp.",2020,33,6,NA,0.67
+"747","Green Twp.",2020,34,11,NA,0.36
+"748","Green Twp.",2020,35,6,NA,0.33
+"749","Green Twp.",2020,36,5,NA,0.2
+"750","Green Twp.",2020,37,5,NA,0.6
+"751","Green Twp.",2020,38,8,6,0.75
+"752","Green Twp.",2020,39,5,NA,0.8
+"753","Green Twp.",2020,40,NA,NA,0.25
+"754","Green Twp.",2020,41,9,NA,0.33
+"755","Green Twp.",2020,42,5,NA,0.4
+"756","Green Twp.",2020,43,8,5,0.62
+"757","Green Twp.",2020,44,NA,NA,0.25
+"758","Green Twp.",2020,45,7,6,0.86
+"759","Green Twp.",2020,46,9,6,0.67
+"760","Green Twp.",2020,47,6,5,0.83
+"761","Green Twp.",2020,48,6,NA,0.67
+"762","Green Twp.",2020,49,7,NA,0.57
+"763","Green Twp.",2020,50,7,NA,0.43
+"764","Green Twp.",2020,51,9,6,0.67
+"765","Green Twp.",2020,52,5,NA,0.4
+"766","Green Twp.",2020,53,NA,NA,0.5
+"767","Greenhills",2020,1,NA,NA,1
+"768","Greenhills",2020,4,NA,NA,1
+"769","Greenhills",2020,6,NA,NA,0
+"770","Greenhills",2020,7,NA,NA,1
+"771","Greenhills",2020,9,NA,NA,0
+"772","Greenhills",2020,11,NA,NA,1
+"773","Greenhills",2020,14,NA,NA,1
+"774","Greenhills",2020,16,NA,NA,1
+"775","Greenhills",2020,17,NA,NA,1
+"776","Greenhills",2020,20,NA,NA,0.5
+"777","Greenhills",2020,22,NA,NA,0.5
+"778","Greenhills",2020,23,NA,NA,1
+"779","Greenhills",2020,26,NA,NA,1
+"780","Greenhills",2020,33,NA,NA,0.5
+"781","Greenhills",2020,34,NA,NA,1
+"782","Greenhills",2020,35,NA,NA,0
+"783","Greenhills",2020,38,NA,NA,1
+"784","Greenhills",2020,40,NA,NA,0
+"785","Greenhills",2020,43,NA,NA,0
+"786","Greenhills",2020,44,NA,NA,0
+"787","Greenhills",2020,47,NA,NA,0
+"788","Harrison",2020,2,NA,NA,0.5
+"789","Harrison",2020,5,NA,NA,1
+"790","Harrison",2020,6,NA,NA,1
+"791","Harrison",2020,7,NA,NA,1
+"792","Harrison",2020,8,NA,NA,1
+"793","Harrison",2020,9,NA,NA,1
+"794","Harrison",2020,10,NA,NA,1
+"795","Harrison",2020,11,NA,NA,0
+"796","Harrison",2020,12,NA,NA,1
+"797","Harrison",2020,13,NA,NA,0.5
+"798","Harrison",2020,14,NA,NA,1
+"799","Harrison",2020,15,NA,NA,1
+"800","Harrison",2020,16,NA,NA,0
+"801","Harrison",2020,17,NA,NA,1
+"802","Harrison",2020,18,NA,NA,0
+"803","Harrison",2020,19,NA,NA,1
+"804","Harrison",2020,20,NA,NA,0.33
+"805","Harrison",2020,21,NA,NA,1
+"806","Harrison",2020,25,NA,NA,0.5
+"807","Harrison",2020,26,NA,NA,0.67
+"808","Harrison",2020,27,NA,NA,1
+"809","Harrison",2020,28,NA,NA,1
+"810","Harrison",2020,29,NA,NA,0.5
+"811","Harrison",2020,30,NA,NA,0.5
+"812","Harrison",2020,32,NA,NA,1
+"813","Harrison",2020,33,NA,NA,1
+"814","Harrison",2020,35,NA,NA,0.5
+"815","Harrison",2020,36,NA,NA,0.5
+"816","Harrison",2020,37,NA,NA,1
+"817","Harrison",2020,38,NA,NA,0.75
+"818","Harrison",2020,39,NA,NA,0
+"819","Harrison",2020,40,NA,NA,0.5
+"820","Harrison",2020,41,NA,NA,0.5
+"821","Harrison",2020,42,NA,NA,1
+"822","Harrison",2020,44,NA,NA,0.5
+"823","Harrison",2020,45,NA,NA,0
+"824","Harrison",2020,46,NA,NA,1
+"825","Harrison",2020,48,NA,NA,1
+"826","Harrison",2020,49,NA,NA,0
+"827","Harrison",2020,52,NA,NA,1
+"828","Hartwell",2020,2,NA,NA,1
+"829","Hartwell",2020,3,NA,NA,1
+"830","Hartwell",2020,5,NA,NA,0
+"831","Hartwell",2020,7,NA,NA,0
+"832","Hartwell",2020,11,NA,NA,0
+"833","Hartwell",2020,13,NA,NA,1
+"834","Hartwell",2020,18,NA,NA,1
+"835","Hartwell",2020,19,NA,NA,1
+"836","Hartwell",2020,21,NA,NA,1
+"837","Hartwell",2020,22,NA,NA,0
+"838","Hartwell",2020,23,NA,NA,0
+"839","Hartwell",2020,24,NA,NA,1
+"840","Hartwell",2020,25,NA,NA,1
+"841","Hartwell",2020,27,NA,NA,1
+"842","Hartwell",2020,28,NA,NA,1
+"843","Hartwell",2020,29,NA,NA,0.5
+"844","Hartwell",2020,30,NA,NA,1
+"845","Hartwell",2020,33,NA,NA,0.5
+"846","Hartwell",2020,37,NA,NA,0
+"847","Hartwell",2020,38,NA,NA,1
+"848","Hartwell",2020,44,NA,NA,1
+"849","Hartwell",2020,46,NA,NA,1
+"850","Hartwell",2020,51,NA,NA,1
+"851","Hyde Park",2020,1,NA,NA,0
+"852","Hyde Park",2020,2,NA,NA,1
+"853","Hyde Park",2020,3,NA,NA,1
+"854","Hyde Park",2020,4,NA,NA,0
+"855","Hyde Park",2020,6,NA,NA,0.67
+"856","Hyde Park",2020,7,NA,NA,0
+"857","Hyde Park",2020,8,NA,NA,0.5
+"858","Hyde Park",2020,10,NA,NA,0.5
+"859","Hyde Park",2020,11,NA,NA,0
+"860","Hyde Park",2020,13,NA,NA,0.75
+"861","Hyde Park",2020,14,NA,NA,0.5
+"862","Hyde Park",2020,15,NA,NA,1
+"863","Hyde Park",2020,16,NA,NA,1
+"864","Hyde Park",2020,17,NA,NA,1
+"865","Hyde Park",2020,18,NA,NA,0
+"866","Hyde Park",2020,19,NA,NA,0
+"867","Hyde Park",2020,20,NA,NA,1
+"868","Hyde Park",2020,21,NA,NA,0.67
+"869","Hyde Park",2020,23,NA,NA,0
+"870","Hyde Park",2020,24,NA,NA,0
+"871","Hyde Park",2020,25,NA,NA,1
+"872","Hyde Park",2020,26,NA,NA,1
+"873","Hyde Park",2020,27,NA,NA,0
+"874","Hyde Park",2020,28,NA,NA,1
+"875","Hyde Park",2020,30,NA,NA,0
+"876","Hyde Park",2020,33,NA,NA,1
+"877","Hyde Park",2020,34,NA,NA,0.67
+"878","Hyde Park",2020,35,NA,NA,1
+"879","Hyde Park",2020,36,NA,NA,0.33
+"880","Hyde Park",2020,37,NA,NA,0
+"881","Hyde Park",2020,38,NA,NA,1
+"882","Hyde Park",2020,39,NA,NA,0.5
+"883","Hyde Park",2020,40,NA,NA,0.75
+"884","Hyde Park",2020,41,5,NA,0.8
+"885","Hyde Park",2020,42,NA,NA,1
+"886","Hyde Park",2020,43,NA,NA,0
+"887","Hyde Park",2020,45,NA,NA,1
+"888","Hyde Park",2020,46,NA,NA,1
+"889","Hyde Park",2020,47,NA,NA,0.5
+"890","Hyde Park",2020,49,NA,NA,0.33
+"891","Hyde Park",2020,50,NA,NA,0
+"892","Hyde Park",2020,51,NA,NA,1
+"893","Hyde Park",2020,52,NA,NA,0.75
+"894","Indian Hill",2020,1,NA,NA,0
+"895","Indian Hill",2020,2,NA,NA,1
+"896","Indian Hill",2020,4,NA,NA,0
+"897","Indian Hill",2020,7,NA,NA,0
+"898","Indian Hill",2020,8,NA,NA,1
+"899","Indian Hill",2020,9,NA,NA,1
+"900","Indian Hill",2020,10,NA,NA,1
+"901","Indian Hill",2020,12,NA,NA,1
+"902","Indian Hill",2020,13,NA,NA,0
+"903","Indian Hill",2020,15,NA,NA,1
+"904","Indian Hill",2020,16,NA,NA,0
+"905","Indian Hill",2020,17,NA,NA,0.33
+"906","Indian Hill",2020,18,NA,NA,1
+"907","Indian Hill",2020,19,NA,NA,0
+"908","Indian Hill",2020,20,NA,NA,1
+"909","Indian Hill",2020,21,NA,NA,1
+"910","Indian Hill",2020,22,NA,NA,0.67
+"911","Indian Hill",2020,23,NA,NA,1
+"912","Indian Hill",2020,24,NA,NA,1
+"913","Indian Hill",2020,26,NA,NA,1
+"914","Indian Hill",2020,27,NA,NA,0
+"915","Indian Hill",2020,28,NA,NA,0
+"916","Indian Hill",2020,29,NA,NA,1
+"917","Indian Hill",2020,30,NA,NA,1
+"918","Indian Hill",2020,31,NA,NA,0.5
+"919","Indian Hill",2020,32,NA,NA,1
+"920","Indian Hill",2020,35,NA,NA,1
+"921","Indian Hill",2020,36,NA,NA,0
+"922","Indian Hill",2020,39,NA,NA,1
+"923","Indian Hill",2020,41,NA,NA,0
+"924","Indian Hill",2020,42,NA,NA,0.5
+"925","Indian Hill",2020,43,NA,NA,1
+"926","Indian Hill",2020,44,NA,NA,0.5
+"927","Indian Hill",2020,45,NA,NA,0
+"928","Indian Hill",2020,46,NA,NA,0.5
+"929","Indian Hill",2020,47,NA,NA,1
+"930","Indian Hill",2020,48,NA,NA,0.33
+"931","Indian Hill",2020,49,NA,NA,1
+"932","Indian Hill",2020,50,NA,NA,0
+"933","Indian Hill",2020,51,NA,NA,0.5
+"934","Indian Hill",2020,52,NA,NA,0
+"935","Kennedy Hts.",2020,4,NA,NA,1
+"936","Kennedy Hts.",2020,5,NA,NA,1
+"937","Kennedy Hts.",2020,7,NA,NA,1
+"938","Kennedy Hts.",2020,8,NA,NA,1
+"939","Kennedy Hts.",2020,11,NA,NA,1
+"940","Kennedy Hts.",2020,15,NA,NA,1
+"941","Kennedy Hts.",2020,16,NA,NA,0
+"942","Kennedy Hts.",2020,17,NA,NA,1
+"943","Kennedy Hts.",2020,18,NA,NA,0.5
+"944","Kennedy Hts.",2020,19,NA,NA,0.5
+"945","Kennedy Hts.",2020,20,NA,NA,0
+"946","Kennedy Hts.",2020,22,NA,NA,1
+"947","Kennedy Hts.",2020,25,NA,NA,0
+"948","Kennedy Hts.",2020,27,NA,NA,1
+"949","Kennedy Hts.",2020,29,NA,NA,0.5
+"950","Kennedy Hts.",2020,32,NA,NA,1
+"951","Kennedy Hts.",2020,39,NA,NA,1
+"952","Kennedy Hts.",2020,42,NA,NA,1
+"953","Kennedy Hts.",2020,43,NA,NA,1
+"954","Kennedy Hts.",2020,45,NA,NA,0
+"955","Kennedy Hts.",2020,46,NA,NA,0
+"956","Kennedy Hts.",2020,48,NA,NA,1
+"957","Kennedy Hts.",2020,49,NA,NA,1
+"958","Kennedy Hts.",2020,50,NA,NA,1
+"959","Kennedy Hts.",2020,51,NA,NA,0.5
+"960","Kennedy Hts.",2020,52,NA,NA,0.5
+"961","Lincoln Hts.",2020,1,NA,NA,1
+"962","Lincoln Hts.",2020,3,NA,NA,0
+"963","Lincoln Hts.",2020,5,NA,NA,1
+"964","Lincoln Hts.",2020,6,NA,NA,1
+"965","Lincoln Hts.",2020,8,NA,NA,1
+"966","Lincoln Hts.",2020,10,NA,NA,0
+"967","Lincoln Hts.",2020,14,NA,NA,0
+"968","Lincoln Hts.",2020,16,NA,NA,0.5
+"969","Lincoln Hts.",2020,17,NA,NA,1
+"970","Lincoln Hts.",2020,19,NA,NA,1
+"971","Lincoln Hts.",2020,20,NA,NA,0
+"972","Lincoln Hts.",2020,25,NA,NA,0.5
+"973","Lincoln Hts.",2020,26,NA,NA,1
+"974","Lincoln Hts.",2020,31,NA,NA,0.5
+"975","Lincoln Hts.",2020,45,NA,NA,0
+"976","Lincoln Hts.",2020,46,NA,NA,1
+"977","Lincoln Hts.",2020,47,NA,NA,1
+"978","Lincoln Hts.",2020,49,NA,NA,1
+"979","Lincoln Hts.",2020,50,NA,NA,1
+"980","Lincoln Hts.",2020,51,NA,NA,0.5
+"981","Lincoln Hts.",2020,53,NA,NA,0
+"982","Lockland",2020,2,NA,NA,1
+"983","Lockland",2020,4,NA,NA,0
+"984","Lockland",2020,6,NA,NA,0.5
+"985","Lockland",2020,8,NA,NA,1
+"986","Lockland",2020,12,NA,NA,0.33
+"987","Lockland",2020,13,NA,NA,0
+"988","Lockland",2020,14,NA,NA,1
+"989","Lockland",2020,15,NA,NA,1
+"990","Lockland",2020,16,NA,NA,1
+"991","Lockland",2020,19,NA,NA,1
+"992","Lockland",2020,20,NA,NA,1
+"993","Lockland",2020,25,NA,NA,1
+"994","Lockland",2020,27,NA,NA,0
+"995","Lockland",2020,33,NA,NA,0.5
+"996","Lockland",2020,34,NA,NA,0
+"997","Lockland",2020,35,NA,NA,0.5
+"998","Lockland",2020,36,NA,NA,0
+"999","Lockland",2020,38,NA,NA,1
+"1000","Lockland",2020,39,NA,NA,1
+"1001","Lockland",2020,46,NA,NA,1
+"1002","Lockland",2020,47,NA,NA,1
+"1003","Lockland",2020,48,NA,NA,1
+"1004","Lockland",2020,49,NA,NA,1
+"1005","Lockland",2020,50,NA,NA,0
+"1006","Loveland",2020,2,NA,NA,1
+"1007","Loveland",2020,3,NA,NA,0
+"1008","Loveland",2020,8,NA,NA,0
+"1009","Loveland",2020,10,NA,NA,0.5
+"1010","Loveland",2020,11,NA,NA,0
+"1011","Loveland",2020,12,NA,NA,0.5
+"1012","Loveland",2020,13,NA,NA,1
+"1013","Loveland",2020,16,NA,NA,0
+"1014","Loveland",2020,20,NA,NA,1
+"1015","Loveland",2020,21,NA,NA,0
+"1016","Loveland",2020,23,NA,NA,0
+"1017","Loveland",2020,24,NA,NA,1
+"1018","Loveland",2020,25,NA,NA,0
+"1019","Loveland",2020,26,NA,NA,0
+"1020","Loveland",2020,27,NA,NA,1
+"1021","Loveland",2020,28,NA,NA,0
+"1022","Loveland",2020,31,NA,NA,0.5
+"1023","Loveland",2020,34,NA,NA,0.75
+"1024","Loveland",2020,35,NA,NA,1
+"1025","Loveland",2020,38,NA,NA,1
+"1026","Loveland",2020,39,NA,NA,1
+"1027","Loveland",2020,40,NA,NA,1
+"1028","Loveland",2020,41,NA,NA,0.67
+"1029","Loveland",2020,46,NA,NA,0.5
+"1030","Loveland",2020,48,NA,NA,1
+"1031","Loveland",2020,50,NA,NA,0.5
+"1032","Loveland",2020,52,NA,NA,0.5
+"1033","Lower Price Hill-Queensgate",2020,5,NA,NA,1
+"1034","Lower Price Hill-Queensgate",2020,13,NA,NA,1
+"1035","Lower Price Hill-Queensgate",2020,18,NA,NA,1
+"1036","Lower Price Hill-Queensgate",2020,20,NA,NA,1
+"1037","Lower Price Hill-Queensgate",2020,49,NA,NA,0
+"1038","Madeira",2020,1,NA,NA,0.5
+"1039","Madeira",2020,5,NA,NA,0.67
+"1040","Madeira",2020,6,NA,NA,0
+"1041","Madeira",2020,7,NA,NA,0.5
+"1042","Madeira",2020,10,NA,NA,1
+"1043","Madeira",2020,11,NA,NA,0.5
+"1044","Madeira",2020,12,NA,NA,0.75
+"1045","Madeira",2020,13,NA,NA,0
+"1046","Madeira",2020,14,NA,NA,1
+"1047","Madeira",2020,15,NA,NA,1
+"1048","Madeira",2020,16,NA,NA,0
+"1049","Madeira",2020,17,NA,NA,1
+"1050","Madeira",2020,19,NA,NA,1
+"1051","Madeira",2020,20,NA,NA,0.5
+"1052","Madeira",2020,23,NA,NA,0
+"1053","Madeira",2020,24,NA,NA,0.25
+"1054","Madeira",2020,25,NA,NA,0
+"1055","Madeira",2020,27,NA,NA,0.67
+"1056","Madeira",2020,28,NA,NA,0.67
+"1057","Madeira",2020,30,NA,NA,0
+"1058","Madeira",2020,31,NA,NA,1
+"1059","Madeira",2020,32,NA,NA,1
+"1060","Madeira",2020,33,NA,NA,1
+"1061","Madeira",2020,34,NA,NA,0.67
+"1062","Madeira",2020,35,NA,NA,1
+"1063","Madeira",2020,36,NA,NA,1
+"1064","Madeira",2020,37,NA,NA,1
+"1065","Madeira",2020,39,NA,NA,1
+"1066","Madeira",2020,40,NA,NA,1
+"1067","Madeira",2020,42,NA,NA,0.5
+"1068","Madeira",2020,43,NA,NA,1
+"1069","Madeira",2020,44,NA,NA,0.67
+"1070","Madeira",2020,45,NA,NA,0
+"1071","Madeira",2020,46,NA,NA,1
+"1072","Madeira",2020,48,NA,NA,0
+"1073","Madeira",2020,49,NA,NA,1
+"1074","Madeira",2020,50,NA,NA,1
+"1075","Madeira",2020,51,NA,NA,0
+"1076","Madeira",2020,52,NA,NA,0
+"1077","Madeira",2020,53,NA,NA,0
+"1078","Madisonville",2020,2,NA,NA,1
+"1079","Madisonville",2020,3,NA,NA,0
+"1080","Madisonville",2020,4,NA,NA,0.5
+"1081","Madisonville",2020,5,NA,NA,1
+"1082","Madisonville",2020,6,NA,NA,0.5
+"1083","Madisonville",2020,7,NA,NA,1
+"1084","Madisonville",2020,8,NA,NA,0
+"1085","Madisonville",2020,10,NA,NA,0.5
+"1086","Madisonville",2020,11,NA,NA,1
+"1087","Madisonville",2020,13,NA,NA,0
+"1088","Madisonville",2020,14,NA,NA,0.33
+"1089","Madisonville",2020,15,NA,NA,1
+"1090","Madisonville",2020,16,NA,NA,1
+"1091","Madisonville",2020,17,NA,NA,1
+"1092","Madisonville",2020,18,NA,NA,0.67
+"1093","Madisonville",2020,19,NA,NA,1
+"1094","Madisonville",2020,20,NA,NA,0.67
+"1095","Madisonville",2020,21,NA,NA,0.5
+"1096","Madisonville",2020,22,NA,NA,0
+"1097","Madisonville",2020,23,NA,NA,0
+"1098","Madisonville",2020,24,NA,NA,0.67
+"1099","Madisonville",2020,25,NA,NA,0
+"1100","Madisonville",2020,26,NA,NA,0.5
+"1101","Madisonville",2020,27,NA,NA,0
+"1102","Madisonville",2020,28,NA,NA,0.5
+"1103","Madisonville",2020,30,NA,NA,0.67
+"1104","Madisonville",2020,31,NA,NA,1
+"1105","Madisonville",2020,32,NA,NA,0.67
+"1106","Madisonville",2020,33,NA,NA,1
+"1107","Madisonville",2020,35,NA,NA,1
+"1108","Madisonville",2020,36,NA,NA,1
+"1109","Madisonville",2020,37,NA,NA,1
+"1110","Madisonville",2020,38,NA,NA,0.5
+"1111","Madisonville",2020,39,NA,NA,0.5
+"1112","Madisonville",2020,40,NA,NA,1
+"1113","Madisonville",2020,41,NA,NA,1
+"1114","Madisonville",2020,42,NA,NA,0.67
+"1115","Madisonville",2020,43,NA,NA,1
+"1116","Madisonville",2020,44,NA,NA,1
+"1117","Madisonville",2020,45,NA,NA,0
+"1118","Madisonville",2020,46,NA,NA,0.33
+"1119","Madisonville",2020,47,NA,NA,1
+"1120","Madisonville",2020,49,NA,NA,0.33
+"1121","Madisonville",2020,50,NA,NA,1
+"1122","Madisonville",2020,51,NA,NA,0
+"1123","Madisonville",2020,52,NA,NA,0.5
+"1124","Mariemont",2020,8,NA,NA,0
+"1125","Mariemont",2020,10,NA,NA,0
+"1126","Mariemont",2020,11,NA,NA,1
+"1127","Mariemont",2020,12,NA,NA,1
+"1128","Mariemont",2020,17,NA,NA,0
+"1129","Mariemont",2020,18,NA,NA,1
+"1130","Mariemont",2020,28,NA,NA,0
+"1131","Mariemont",2020,31,NA,NA,1
+"1132","Mariemont",2020,35,NA,NA,1
+"1133","Mariemont",2020,39,NA,NA,1
+"1134","Mariemont",2020,41,NA,NA,0
+"1135","Mariemont",2020,45,NA,NA,1
+"1136","Mariemont",2020,48,NA,NA,0
+"1137","Mariemont",2020,49,NA,NA,1
+"1138","Mariemont",2020,51,NA,NA,1
+"1139","Miami Twp.",2020,2,NA,NA,0.67
+"1140","Miami Twp.",2020,3,NA,NA,0
+"1141","Miami Twp.",2020,4,NA,NA,0
+"1142","Miami Twp.",2020,5,NA,NA,0
+"1143","Miami Twp.",2020,6,NA,NA,1
+"1144","Miami Twp.",2020,7,NA,NA,1
+"1145","Miami Twp.",2020,8,NA,NA,0
+"1146","Miami Twp.",2020,9,NA,NA,1
+"1147","Miami Twp.",2020,10,NA,NA,0
+"1148","Miami Twp.",2020,12,NA,NA,0.67
+"1149","Miami Twp.",2020,14,NA,NA,0
+"1150","Miami Twp.",2020,15,NA,NA,0.67
+"1151","Miami Twp.",2020,16,NA,NA,0.5
+"1152","Miami Twp.",2020,17,NA,NA,1
+"1153","Miami Twp.",2020,18,NA,NA,0
+"1154","Miami Twp.",2020,19,NA,NA,0
+"1155","Miami Twp.",2020,20,NA,NA,1
+"1156","Miami Twp.",2020,22,NA,NA,0.25
+"1157","Miami Twp.",2020,23,NA,NA,1
+"1158","Miami Twp.",2020,24,NA,NA,0
+"1159","Miami Twp.",2020,25,NA,NA,1
+"1160","Miami Twp.",2020,26,NA,NA,0.5
+"1161","Miami Twp.",2020,27,5,NA,0.4
+"1162","Miami Twp.",2020,28,NA,NA,0.5
+"1163","Miami Twp.",2020,29,NA,NA,1
+"1164","Miami Twp.",2020,30,NA,NA,1
+"1165","Miami Twp.",2020,31,NA,NA,1
+"1166","Miami Twp.",2020,32,NA,NA,1
+"1167","Miami Twp.",2020,35,NA,NA,0.5
+"1168","Miami Twp.",2020,36,NA,NA,1
+"1169","Miami Twp.",2020,37,NA,NA,0
+"1170","Miami Twp.",2020,38,NA,NA,0
+"1171","Miami Twp.",2020,39,NA,NA,1
+"1172","Miami Twp.",2020,40,NA,NA,1
+"1173","Miami Twp.",2020,41,NA,NA,0.5
+"1174","Miami Twp.",2020,42,NA,NA,0
+"1175","Miami Twp.",2020,43,NA,NA,1
+"1176","Miami Twp.",2020,44,NA,NA,0.5
+"1177","Miami Twp.",2020,45,NA,NA,0
+"1178","Miami Twp.",2020,46,NA,NA,0
+"1179","Miami Twp.",2020,47,NA,NA,0.67
+"1180","Miami Twp.",2020,48,NA,NA,0.5
+"1181","Miami Twp.",2020,50,NA,NA,0
+"1182","Miami Twp.",2020,51,NA,NA,1
+"1183","Miami Twp.",2020,52,NA,NA,1
+"1184","Miami Twp.",2020,53,NA,NA,1
+"1185","Missing",2020,4,NA,NA,1
+"1186","Missing",2020,5,NA,NA,1
+"1187","Missing",2020,6,NA,NA,0
+"1188","Missing",2020,8,NA,NA,0.5
+"1189","Missing",2020,10,NA,NA,1
+"1190","Missing",2020,11,NA,NA,0
+"1191","Missing",2020,12,NA,NA,1
+"1192","Missing",2020,14,NA,NA,1
+"1193","Missing",2020,15,NA,NA,0.5
+"1194","Missing",2020,16,NA,NA,0.33
+"1195","Missing",2020,17,NA,NA,1
+"1196","Missing",2020,18,NA,NA,0
+"1197","Missing",2020,23,NA,NA,0
+"1198","Missing",2020,25,NA,NA,0.67
+"1199","Missing",2020,26,NA,NA,1
+"1200","Missing",2020,27,NA,NA,1
+"1201","Missing",2020,29,NA,NA,1
+"1202","Missing",2020,30,NA,NA,0.5
+"1203","Missing",2020,32,NA,NA,1
+"1204","Missing",2020,33,NA,NA,1
+"1205","Missing",2020,34,NA,NA,0
+"1206","Missing",2020,35,NA,NA,1
+"1207","Missing",2020,36,NA,NA,1
+"1208","Missing",2020,38,NA,NA,0.33
+"1209","Missing",2020,41,NA,NA,0
+"1210","Missing",2020,42,NA,NA,1
+"1211","Missing",2020,45,NA,NA,0
+"1212","Missing",2020,46,NA,NA,0
+"1213","Missing",2020,48,NA,NA,1
+"1214","Missing",2020,51,NA,NA,1
+"1215","Montgomery",2020,1,NA,NA,1
+"1216","Montgomery",2020,2,NA,NA,0
+"1217","Montgomery",2020,5,NA,NA,1
+"1218","Montgomery",2020,6,NA,NA,0
+"1219","Montgomery",2020,7,NA,NA,0
+"1220","Montgomery",2020,10,NA,NA,1
+"1221","Montgomery",2020,12,NA,NA,0
+"1222","Montgomery",2020,14,NA,NA,0
+"1223","Montgomery",2020,15,NA,NA,0.33
+"1224","Montgomery",2020,18,NA,NA,0.5
+"1225","Montgomery",2020,19,NA,NA,1
+"1226","Montgomery",2020,21,NA,NA,0
+"1227","Montgomery",2020,22,NA,NA,1
+"1228","Montgomery",2020,23,NA,NA,0
+"1229","Montgomery",2020,24,NA,NA,1
+"1230","Montgomery",2020,25,NA,NA,1
+"1231","Montgomery",2020,26,NA,NA,0
+"1232","Montgomery",2020,27,NA,NA,1
+"1233","Montgomery",2020,28,NA,NA,1
+"1234","Montgomery",2020,29,NA,NA,1
+"1235","Montgomery",2020,31,NA,NA,0
+"1236","Montgomery",2020,33,NA,NA,1
+"1237","Montgomery",2020,34,NA,NA,0
+"1238","Montgomery",2020,36,NA,NA,0.33
+"1239","Montgomery",2020,38,NA,NA,1
+"1240","Montgomery",2020,39,NA,NA,1
+"1241","Montgomery",2020,40,5,NA,0.8
+"1242","Montgomery",2020,42,NA,NA,1
+"1243","Montgomery",2020,43,NA,NA,0
+"1244","Montgomery",2020,47,NA,NA,0.75
+"1245","Montgomery",2020,48,NA,NA,1
+"1246","Montgomery",2020,50,NA,NA,0
+"1247","Montgomery",2020,51,NA,NA,0
+"1248","Montgomery",2020,52,NA,NA,0
+"1249","Mt. Adams",2020,8,NA,NA,1
+"1250","Mt. Adams",2020,10,NA,NA,0
+"1251","Mt. Adams",2020,13,NA,NA,1
+"1252","Mt. Adams",2020,18,NA,NA,1
+"1253","Mt. Adams",2020,23,NA,NA,1
+"1254","Mt. Adams",2020,29,NA,NA,1
+"1255","Mt. Adams",2020,34,NA,NA,1
+"1256","Mt. Adams",2020,38,NA,NA,1
+"1257","Mt. Adams",2020,52,NA,NA,1
+"1258","Mt. Airy",2020,3,NA,NA,0
+"1259","Mt. Airy",2020,5,NA,NA,1
+"1260","Mt. Airy",2020,8,NA,NA,0
+"1261","Mt. Airy",2020,9,NA,NA,0
+"1262","Mt. Airy",2020,11,NA,NA,1
+"1263","Mt. Airy",2020,13,NA,NA,1
+"1264","Mt. Airy",2020,14,NA,NA,0
+"1265","Mt. Airy",2020,16,NA,NA,0.5
+"1266","Mt. Airy",2020,17,NA,NA,0.5
+"1267","Mt. Airy",2020,22,NA,NA,1
+"1268","Mt. Airy",2020,23,NA,NA,0
+"1269","Mt. Airy",2020,25,NA,NA,0.5
+"1270","Mt. Airy",2020,31,NA,NA,0
+"1271","Mt. Airy",2020,35,NA,NA,1
+"1272","Mt. Airy",2020,41,NA,NA,0
+"1273","Mt. Airy",2020,43,NA,NA,0.33
+"1274","Mt. Airy",2020,46,NA,NA,1
+"1275","Mt. Airy",2020,48,NA,NA,1
+"1276","Mt. Airy",2020,51,NA,NA,0.67
+"1277","Mt. Airy",2020,52,NA,NA,0.5
+"1278","Mt. Airy",2020,53,NA,NA,0
+"1279","Mt. Auburn",2020,2,NA,NA,1
+"1280","Mt. Auburn",2020,6,NA,NA,0.5
+"1281","Mt. Auburn",2020,9,NA,NA,0
+"1282","Mt. Auburn",2020,11,NA,NA,1
+"1283","Mt. Auburn",2020,15,NA,NA,1
+"1284","Mt. Auburn",2020,19,NA,NA,0
+"1285","Mt. Auburn",2020,20,NA,NA,1
+"1286","Mt. Auburn",2020,24,NA,NA,1
+"1287","Mt. Auburn",2020,25,NA,NA,0.5
+"1288","Mt. Auburn",2020,26,NA,NA,0.5
+"1289","Mt. Auburn",2020,27,NA,NA,0
+"1290","Mt. Auburn",2020,28,NA,NA,1
+"1291","Mt. Auburn",2020,29,NA,NA,0
+"1292","Mt. Auburn",2020,31,NA,NA,1
+"1293","Mt. Auburn",2020,35,NA,NA,1
+"1294","Mt. Auburn",2020,37,NA,NA,1
+"1295","Mt. Auburn",2020,41,NA,NA,0
+"1296","Mt. Auburn",2020,47,NA,NA,1
+"1297","Mt. Auburn",2020,50,NA,NA,0
+"1298","Mt. Auburn",2020,51,NA,NA,0.5
+"1299","Mt. Auburn",2020,52,NA,NA,1
+"1300","Mt. Healthy",2020,1,NA,NA,0
+"1301","Mt. Healthy",2020,3,NA,NA,1
+"1302","Mt. Healthy",2020,4,NA,NA,1
+"1303","Mt. Healthy",2020,5,NA,NA,0
+"1304","Mt. Healthy",2020,8,NA,NA,1
+"1305","Mt. Healthy",2020,12,NA,NA,1
+"1306","Mt. Healthy",2020,14,NA,NA,0
+"1307","Mt. Healthy",2020,15,NA,NA,0
+"1308","Mt. Healthy",2020,16,NA,NA,0.75
+"1309","Mt. Healthy",2020,18,NA,NA,0.33
+"1310","Mt. Healthy",2020,19,NA,NA,0.5
+"1311","Mt. Healthy",2020,20,NA,NA,1
+"1312","Mt. Healthy",2020,22,NA,NA,1
+"1313","Mt. Healthy",2020,26,NA,NA,1
+"1314","Mt. Healthy",2020,27,NA,NA,1
+"1315","Mt. Healthy",2020,28,NA,NA,1
+"1316","Mt. Healthy",2020,29,NA,NA,0
+"1317","Mt. Healthy",2020,30,NA,NA,1
+"1318","Mt. Healthy",2020,31,NA,NA,0
+"1319","Mt. Healthy",2020,32,NA,NA,1
+"1320","Mt. Healthy",2020,34,NA,NA,0.5
+"1321","Mt. Healthy",2020,36,NA,NA,0
+"1322","Mt. Healthy",2020,37,NA,NA,0.33
+"1323","Mt. Healthy",2020,38,NA,NA,0
+"1324","Mt. Healthy",2020,39,NA,NA,0
+"1325","Mt. Healthy",2020,40,NA,NA,0
+"1326","Mt. Healthy",2020,43,NA,NA,0
+"1327","Mt. Healthy",2020,45,NA,NA,0.5
+"1328","Mt. Healthy",2020,48,NA,NA,1
+"1329","Mt. Healthy",2020,52,NA,NA,0.5
+"1330","Mt. Healthy",2020,53,NA,NA,1
+"1331","Mt. Lookout",2020,1,NA,NA,1
+"1332","Mt. Lookout",2020,3,NA,NA,1
+"1333","Mt. Lookout",2020,4,NA,NA,1
+"1334","Mt. Lookout",2020,5,NA,NA,1
+"1335","Mt. Lookout",2020,6,NA,NA,0
+"1336","Mt. Lookout",2020,9,NA,NA,0
+"1337","Mt. Lookout",2020,11,5,NA,0.4
+"1338","Mt. Lookout",2020,12,NA,NA,1
+"1339","Mt. Lookout",2020,13,NA,NA,1
+"1340","Mt. Lookout",2020,15,NA,NA,0.33
+"1341","Mt. Lookout",2020,16,NA,NA,1
+"1342","Mt. Lookout",2020,18,NA,NA,1
+"1343","Mt. Lookout",2020,19,NA,NA,0
+"1344","Mt. Lookout",2020,21,NA,NA,1
+"1345","Mt. Lookout",2020,22,NA,NA,1
+"1346","Mt. Lookout",2020,23,NA,NA,1
+"1347","Mt. Lookout",2020,25,NA,NA,1
+"1348","Mt. Lookout",2020,26,NA,NA,0.5
+"1349","Mt. Lookout",2020,27,NA,NA,1
+"1350","Mt. Lookout",2020,29,NA,NA,1
+"1351","Mt. Lookout",2020,31,NA,NA,0
+"1352","Mt. Lookout",2020,32,NA,NA,0.5
+"1353","Mt. Lookout",2020,35,NA,NA,0.75
+"1354","Mt. Lookout",2020,36,NA,NA,1
+"1355","Mt. Lookout",2020,37,NA,NA,0.5
+"1356","Mt. Lookout",2020,39,NA,NA,0.67
+"1357","Mt. Lookout",2020,40,NA,NA,0
+"1358","Mt. Lookout",2020,41,NA,NA,0
+"1359","Mt. Lookout",2020,42,NA,NA,0.67
+"1360","Mt. Lookout",2020,43,NA,NA,1
+"1361","Mt. Lookout",2020,46,NA,NA,1
+"1362","Mt. Lookout",2020,48,NA,NA,0.5
+"1363","Mt. Lookout",2020,49,NA,NA,0
+"1364","Mt. Lookout",2020,50,NA,NA,1
+"1365","Mt. Lookout",2020,51,NA,NA,0
+"1366","Mt. Lookout",2020,52,NA,NA,0.5
+"1367","Mt. Washington",2020,1,NA,NA,0.25
+"1368","Mt. Washington",2020,2,NA,NA,1
+"1369","Mt. Washington",2020,3,NA,NA,1
+"1370","Mt. Washington",2020,4,NA,NA,0.5
+"1371","Mt. Washington",2020,5,NA,NA,0.5
+"1372","Mt. Washington",2020,6,NA,NA,1
+"1373","Mt. Washington",2020,7,NA,NA,1
+"1374","Mt. Washington",2020,9,NA,NA,1
+"1375","Mt. Washington",2020,10,NA,NA,0.5
+"1376","Mt. Washington",2020,11,NA,NA,1
+"1377","Mt. Washington",2020,12,NA,NA,1
+"1378","Mt. Washington",2020,16,NA,NA,0
+"1379","Mt. Washington",2020,17,NA,NA,1
+"1380","Mt. Washington",2020,18,NA,NA,0
+"1381","Mt. Washington",2020,19,NA,NA,1
+"1382","Mt. Washington",2020,20,NA,NA,0
+"1383","Mt. Washington",2020,22,NA,NA,0.33
+"1384","Mt. Washington",2020,23,NA,NA,1
+"1385","Mt. Washington",2020,25,NA,NA,0.67
+"1386","Mt. Washington",2020,27,NA,NA,1
+"1387","Mt. Washington",2020,30,NA,NA,0.5
+"1388","Mt. Washington",2020,31,NA,NA,0.5
+"1389","Mt. Washington",2020,32,NA,NA,0
+"1390","Mt. Washington",2020,33,NA,NA,0.75
+"1391","Mt. Washington",2020,34,NA,NA,1
+"1392","Mt. Washington",2020,35,NA,NA,1
+"1393","Mt. Washington",2020,36,NA,NA,0
+"1394","Mt. Washington",2020,38,NA,NA,0
+"1395","Mt. Washington",2020,39,NA,NA,1
+"1396","Mt. Washington",2020,40,NA,NA,1
+"1397","Mt. Washington",2020,41,NA,NA,1
+"1398","Mt. Washington",2020,44,NA,NA,0
+"1399","Mt. Washington",2020,45,NA,NA,0.33
+"1400","Mt. Washington",2020,46,NA,NA,1
+"1401","Mt. Washington",2020,48,NA,NA,1
+"1402","Mt. Washington",2020,49,NA,NA,1
+"1403","Mt. Washington",2020,50,NA,NA,1
+"1404","Mt. Washington",2020,51,NA,NA,0.5
+"1405","Mt. Washington",2020,52,NA,NA,0.5
+"1406","N. Avondale",2020,5,NA,NA,1
+"1407","N. Avondale",2020,6,NA,NA,0
+"1408","N. Avondale",2020,7,NA,NA,0.5
+"1409","N. Avondale",2020,8,NA,NA,1
+"1410","N. Avondale",2020,9,NA,NA,1
+"1411","N. Avondale",2020,11,NA,NA,1
+"1412","N. Avondale",2020,14,NA,NA,0
+"1413","N. Avondale",2020,16,NA,NA,1
+"1414","N. Avondale",2020,19,NA,NA,0.5
+"1415","N. Avondale",2020,22,NA,NA,0
+"1416","N. Avondale",2020,25,NA,NA,1
+"1417","N. Avondale",2020,30,NA,NA,1
+"1418","N. Avondale",2020,31,NA,NA,1
+"1419","N. Avondale",2020,35,NA,NA,1
+"1420","N. Avondale",2020,37,NA,NA,0
+"1421","N. Avondale",2020,40,NA,NA,1
+"1422","N. Avondale",2020,42,NA,NA,0
+"1423","N. Avondale",2020,44,NA,NA,1
+"1424","N. Avondale",2020,46,NA,NA,1
+"1425","N. Avondale",2020,47,NA,NA,1
+"1426","N. Avondale",2020,48,NA,NA,0.67
+"1427","N. Avondale",2020,49,NA,NA,1
+"1428","N. Avondale",2020,52,NA,NA,0
+"1429","N. College Hill",2020,1,NA,NA,1
+"1430","N. College Hill",2020,2,NA,NA,1
+"1431","N. College Hill",2020,4,NA,NA,0
+"1432","N. College Hill",2020,6,NA,NA,0.5
+"1433","N. College Hill",2020,8,NA,NA,1
+"1434","N. College Hill",2020,10,NA,NA,1
+"1435","N. College Hill",2020,11,NA,NA,0
+"1436","N. College Hill",2020,12,NA,NA,1
+"1437","N. College Hill",2020,14,NA,NA,1
+"1438","N. College Hill",2020,15,NA,NA,1
+"1439","N. College Hill",2020,16,NA,NA,1
+"1440","N. College Hill",2020,17,NA,NA,1
+"1441","N. College Hill",2020,18,NA,NA,0.5
+"1442","N. College Hill",2020,19,NA,NA,0.5
+"1443","N. College Hill",2020,20,NA,NA,0.5
+"1444","N. College Hill",2020,21,NA,NA,1
+"1445","N. College Hill",2020,22,NA,NA,1
+"1446","N. College Hill",2020,23,NA,NA,0
+"1447","N. College Hill",2020,24,NA,NA,0
+"1448","N. College Hill",2020,25,NA,NA,1
+"1449","N. College Hill",2020,26,NA,NA,1
+"1450","N. College Hill",2020,28,NA,NA,0.67
+"1451","N. College Hill",2020,29,NA,NA,0
+"1452","N. College Hill",2020,30,NA,NA,1
+"1453","N. College Hill",2020,31,NA,NA,0.5
+"1454","N. College Hill",2020,32,NA,NA,0.5
+"1455","N. College Hill",2020,34,NA,NA,0
+"1456","N. College Hill",2020,35,NA,NA,1
+"1457","N. College Hill",2020,36,NA,NA,1
+"1458","N. College Hill",2020,37,NA,NA,1
+"1459","N. College Hill",2020,38,NA,NA,0.5
+"1460","N. College Hill",2020,39,NA,NA,1
+"1461","N. College Hill",2020,40,NA,NA,0.5
+"1462","N. College Hill",2020,42,NA,NA,0
+"1463","N. College Hill",2020,44,NA,NA,0
+"1464","N. College Hill",2020,46,NA,NA,0
+"1465","N. College Hill",2020,47,NA,NA,0.67
+"1466","N. College Hill",2020,48,NA,NA,1
+"1467","N. College Hill",2020,49,NA,NA,0
+"1468","N. College Hill",2020,51,NA,NA,0
+"1469","N. College Hill",2020,52,NA,NA,0.5
+"1470","N. College Hill",2020,53,NA,NA,1
+"1471","N. Fairmount",2020,6,NA,NA,0
+"1472","N. Fairmount",2020,7,NA,NA,1
+"1473","N. Fairmount",2020,16,NA,NA,1
+"1474","N. Fairmount",2020,17,NA,NA,1
+"1475","N. Fairmount",2020,18,NA,NA,0.5
+"1476","N. Fairmount",2020,20,NA,NA,1
+"1477","N. Fairmount",2020,23,NA,NA,1
+"1478","N. Fairmount",2020,26,NA,NA,1
+"1479","N. Fairmount",2020,27,NA,NA,1
+"1480","N. Fairmount",2020,28,NA,NA,1
+"1481","N. Fairmount",2020,33,NA,NA,0.67
+"1482","N. Fairmount",2020,41,NA,NA,0
+"1483","N. Fairmount",2020,42,NA,NA,0
+"1484","N. Fairmount",2020,45,NA,NA,0
+"1485","N. Fairmount",2020,46,NA,NA,1
+"1486","Northside",2020,4,NA,NA,0
+"1487","Northside",2020,6,NA,NA,1
+"1488","Northside",2020,7,NA,NA,1
+"1489","Northside",2020,8,NA,NA,0.33
+"1490","Northside",2020,9,NA,NA,0
+"1491","Northside",2020,10,NA,NA,1
+"1492","Northside",2020,11,NA,NA,1
+"1493","Northside",2020,12,NA,NA,1
+"1494","Northside",2020,13,NA,NA,0
+"1495","Northside",2020,14,NA,NA,0.5
+"1496","Northside",2020,16,NA,NA,1
+"1497","Northside",2020,17,NA,NA,0
+"1498","Northside",2020,18,NA,NA,1
+"1499","Northside",2020,19,NA,NA,0
+"1500","Northside",2020,20,NA,NA,1
+"1501","Northside",2020,22,NA,NA,1
+"1502","Northside",2020,23,NA,NA,0.5
+"1503","Northside",2020,25,NA,NA,0
+"1504","Northside",2020,26,NA,NA,1
+"1505","Northside",2020,27,NA,NA,0
+"1506","Northside",2020,29,NA,NA,0
+"1507","Northside",2020,30,NA,NA,1
+"1508","Northside",2020,31,NA,NA,0.5
+"1509","Northside",2020,33,NA,NA,0
+"1510","Northside",2020,35,NA,NA,0.33
+"1511","Northside",2020,36,NA,NA,0.5
+"1512","Northside",2020,38,NA,NA,1
+"1513","Northside",2020,39,NA,NA,0.5
+"1514","Northside",2020,40,NA,NA,0
+"1515","Northside",2020,41,NA,NA,0
+"1516","Northside",2020,42,NA,NA,1
+"1517","Northside",2020,43,NA,NA,1
+"1518","Northside",2020,44,NA,NA,0
+"1519","Northside",2020,45,NA,NA,0.5
+"1520","Northside",2020,48,NA,NA,0.67
+"1521","Northside",2020,49,NA,NA,1
+"1522","Northside",2020,50,NA,NA,1
+"1523","Northside",2020,53,NA,NA,1
+"1524","Norwood",2020,1,NA,NA,1
+"1525","Norwood",2020,2,NA,NA,0
+"1526","Norwood",2020,3,NA,NA,0.75
+"1527","Norwood",2020,4,6,NA,0.17
+"1528","Norwood",2020,5,NA,NA,0.75
+"1529","Norwood",2020,6,NA,NA,0.33
+"1530","Norwood",2020,7,NA,NA,0.67
+"1531","Norwood",2020,8,NA,NA,0.33
+"1532","Norwood",2020,10,NA,NA,0
+"1533","Norwood",2020,11,NA,NA,1
+"1534","Norwood",2020,12,5,NA,0.2
+"1535","Norwood",2020,13,NA,NA,0.67
+"1536","Norwood",2020,15,7,NA,0.29
+"1537","Norwood",2020,16,NA,NA,0.33
+"1538","Norwood",2020,17,NA,NA,0.5
+"1539","Norwood",2020,18,NA,NA,0.33
+"1540","Norwood",2020,19,NA,NA,1
+"1541","Norwood",2020,20,NA,NA,0.5
+"1542","Norwood",2020,21,NA,NA,0
+"1543","Norwood",2020,22,NA,NA,1
+"1544","Norwood",2020,23,NA,NA,1
+"1545","Norwood",2020,24,NA,NA,0.67
+"1546","Norwood",2020,25,5,NA,0.6
+"1547","Norwood",2020,26,NA,NA,0.5
+"1548","Norwood",2020,27,6,NA,0.17
+"1549","Norwood",2020,28,NA,NA,0.5
+"1550","Norwood",2020,29,NA,NA,1
+"1551","Norwood",2020,30,NA,NA,0
+"1552","Norwood",2020,31,NA,NA,1
+"1553","Norwood",2020,32,NA,NA,0
+"1554","Norwood",2020,33,NA,NA,0.5
+"1555","Norwood",2020,34,NA,NA,0
+"1556","Norwood",2020,35,NA,NA,0.33
+"1557","Norwood",2020,36,NA,NA,0
+"1558","Norwood",2020,37,NA,NA,1
+"1559","Norwood",2020,38,NA,NA,1
+"1560","Norwood",2020,39,5,NA,0.4
+"1561","Norwood",2020,41,NA,NA,0.5
+"1562","Norwood",2020,42,NA,NA,0.67
+"1563","Norwood",2020,43,NA,NA,0.5
+"1564","Norwood",2020,44,NA,NA,0.67
+"1565","Norwood",2020,45,NA,NA,0.5
+"1566","Norwood",2020,46,NA,NA,0.75
+"1567","Norwood",2020,47,NA,NA,1
+"1568","Norwood",2020,49,NA,NA,0.67
+"1569","Norwood",2020,50,NA,NA,1
+"1570","Norwood",2020,52,NA,NA,0.5
+"1571","Norwood",2020,53,NA,NA,0.5
+"1572","Oakley",2020,1,NA,NA,0
+"1573","Oakley",2020,2,NA,NA,0.5
+"1574","Oakley",2020,4,NA,NA,1
+"1575","Oakley",2020,5,NA,NA,0
+"1576","Oakley",2020,7,NA,NA,1
+"1577","Oakley",2020,8,NA,NA,1
+"1578","Oakley",2020,9,NA,NA,0
+"1579","Oakley",2020,11,NA,NA,1
+"1580","Oakley",2020,12,NA,NA,1
+"1581","Oakley",2020,13,NA,NA,0.75
+"1582","Oakley",2020,14,NA,NA,1
+"1583","Oakley",2020,15,NA,NA,0.67
+"1584","Oakley",2020,16,NA,NA,0
+"1585","Oakley",2020,17,NA,NA,1
+"1586","Oakley",2020,18,NA,NA,1
+"1587","Oakley",2020,19,NA,NA,0.5
+"1588","Oakley",2020,20,NA,NA,0.67
+"1589","Oakley",2020,21,NA,NA,0
+"1590","Oakley",2020,22,NA,NA,0
+"1591","Oakley",2020,24,NA,NA,1
+"1592","Oakley",2020,25,NA,NA,0
+"1593","Oakley",2020,26,NA,NA,0
+"1594","Oakley",2020,27,NA,NA,1
+"1595","Oakley",2020,29,NA,NA,1
+"1596","Oakley",2020,30,NA,NA,1
+"1597","Oakley",2020,31,NA,NA,0.5
+"1598","Oakley",2020,32,NA,NA,1
+"1599","Oakley",2020,33,NA,NA,0
+"1600","Oakley",2020,34,NA,NA,1
+"1601","Oakley",2020,35,NA,NA,0.5
+"1602","Oakley",2020,37,NA,NA,1
+"1603","Oakley",2020,38,NA,NA,1
+"1604","Oakley",2020,40,NA,NA,1
+"1605","Oakley",2020,41,NA,NA,1
+"1606","Oakley",2020,42,NA,NA,1
+"1607","Oakley",2020,43,NA,NA,0
+"1608","Oakley",2020,45,NA,NA,1
+"1609","Oakley",2020,46,NA,NA,0
+"1610","Oakley",2020,47,NA,NA,0
+"1611","Oakley",2020,48,NA,NA,0
+"1612","Oakley",2020,49,NA,NA,1
+"1613","Oakley",2020,50,NA,NA,1
+"1614","Oakley",2020,51,NA,NA,1
+"1615","Oakley",2020,52,NA,NA,0.5
+"1616","OTR-Pendleton",2020,7,NA,NA,1
+"1617","OTR-Pendleton",2020,8,NA,NA,0
+"1618","OTR-Pendleton",2020,15,NA,NA,0
+"1619","OTR-Pendleton",2020,23,NA,NA,0
+"1620","OTR-Pendleton",2020,24,NA,NA,1
+"1621","OTR-Pendleton",2020,27,NA,NA,1
+"1622","OTR-Pendleton",2020,33,NA,NA,0
+"1623","OTR-Pendleton",2020,43,NA,NA,1
+"1624","OTR-Pendleton",2020,48,NA,NA,1
+"1625","Pleasant Ridge",2020,1,NA,NA,1
+"1626","Pleasant Ridge",2020,6,NA,NA,1
+"1627","Pleasant Ridge",2020,7,NA,NA,1
+"1628","Pleasant Ridge",2020,8,NA,NA,1
+"1629","Pleasant Ridge",2020,9,NA,NA,0
+"1630","Pleasant Ridge",2020,10,NA,NA,0
+"1631","Pleasant Ridge",2020,12,NA,NA,0
+"1632","Pleasant Ridge",2020,13,NA,NA,1
+"1633","Pleasant Ridge",2020,15,NA,NA,0
+"1634","Pleasant Ridge",2020,17,NA,NA,1
+"1635","Pleasant Ridge",2020,18,NA,NA,0
+"1636","Pleasant Ridge",2020,22,NA,NA,1
+"1637","Pleasant Ridge",2020,23,NA,NA,1
+"1638","Pleasant Ridge",2020,24,NA,NA,1
+"1639","Pleasant Ridge",2020,26,NA,NA,1
+"1640","Pleasant Ridge",2020,27,NA,NA,1
+"1641","Pleasant Ridge",2020,28,NA,NA,1
+"1642","Pleasant Ridge",2020,30,NA,NA,0
+"1643","Pleasant Ridge",2020,31,NA,NA,1
+"1644","Pleasant Ridge",2020,33,NA,NA,1
+"1645","Pleasant Ridge",2020,34,NA,NA,0
+"1646","Pleasant Ridge",2020,36,NA,NA,0.5
+"1647","Pleasant Ridge",2020,37,NA,NA,1
+"1648","Pleasant Ridge",2020,38,NA,NA,0.5
+"1649","Pleasant Ridge",2020,41,NA,NA,0
+"1650","Pleasant Ridge",2020,42,NA,NA,1
+"1651","Pleasant Ridge",2020,43,NA,NA,0
+"1652","Pleasant Ridge",2020,44,NA,NA,1
+"1653","Pleasant Ridge",2020,45,NA,NA,1
+"1654","Pleasant Ridge",2020,47,NA,NA,0.5
+"1655","Pleasant Ridge",2020,48,NA,NA,1
+"1656","Pleasant Ridge",2020,51,NA,NA,0.5
+"1657","Pleasant Ridge",2020,52,NA,NA,0
+"1658","Pleasant Ridge",2020,53,NA,NA,0
+"1659","Reading",2020,1,NA,NA,1
+"1660","Reading",2020,3,NA,NA,0.5
+"1661","Reading",2020,4,NA,NA,0
+"1662","Reading",2020,6,NA,NA,0.67
+"1663","Reading",2020,7,NA,NA,1
+"1664","Reading",2020,8,NA,NA,0.5
+"1665","Reading",2020,9,NA,NA,0
+"1666","Reading",2020,10,NA,NA,0
+"1667","Reading",2020,11,NA,NA,1
+"1668","Reading",2020,12,NA,NA,0
+"1669","Reading",2020,13,NA,NA,0.5
+"1670","Reading",2020,14,NA,NA,1
+"1671","Reading",2020,15,NA,NA,0.67
+"1672","Reading",2020,16,NA,NA,0.67
+"1673","Reading",2020,17,NA,NA,1
+"1674","Reading",2020,18,NA,NA,1
+"1675","Reading",2020,19,NA,NA,0.5
+"1676","Reading",2020,20,NA,NA,1
+"1677","Reading",2020,21,NA,NA,0.5
+"1678","Reading",2020,22,NA,NA,1
+"1679","Reading",2020,23,NA,NA,1
+"1680","Reading",2020,24,NA,NA,0
+"1681","Reading",2020,25,NA,NA,0.67
+"1682","Reading",2020,26,NA,NA,0.5
+"1683","Reading",2020,27,NA,NA,1
+"1684","Reading",2020,28,NA,NA,0.5
+"1685","Reading",2020,29,NA,NA,1
+"1686","Reading",2020,30,NA,NA,0.5
+"1687","Reading",2020,32,NA,NA,0.75
+"1688","Reading",2020,33,NA,NA,0.33
+"1689","Reading",2020,34,NA,NA,0.75
+"1690","Reading",2020,35,NA,NA,1
+"1691","Reading",2020,36,NA,NA,0
+"1692","Reading",2020,38,NA,NA,0
+"1693","Reading",2020,39,NA,NA,0.25
+"1694","Reading",2020,40,6,5,0.83
+"1695","Reading",2020,41,NA,NA,0.5
+"1696","Reading",2020,42,NA,NA,0.5
+"1697","Reading",2020,43,NA,NA,1
+"1698","Reading",2020,44,NA,NA,0
+"1699","Reading",2020,45,NA,NA,0.5
+"1700","Reading",2020,46,5,NA,0.4
+"1701","Reading",2020,47,NA,NA,1
+"1702","Reading",2020,48,NA,NA,0.67
+"1703","Reading",2020,50,NA,NA,0.33
+"1704","Reading",2020,51,NA,NA,0
+"1705","Reading",2020,52,NA,NA,0.67
+"1706","Riverside-Sedamsville",2020,1,NA,NA,0.5
+"1707","Riverside-Sedamsville",2020,4,NA,NA,0
+"1708","Riverside-Sedamsville",2020,5,NA,NA,0
+"1709","Riverside-Sedamsville",2020,6,NA,NA,0
+"1710","Riverside-Sedamsville",2020,8,NA,NA,1
+"1711","Riverside-Sedamsville",2020,14,NA,NA,0
+"1712","Riverside-Sedamsville",2020,16,NA,NA,0.5
+"1713","Riverside-Sedamsville",2020,17,NA,NA,1
+"1714","Riverside-Sedamsville",2020,22,NA,NA,1
+"1715","Riverside-Sedamsville",2020,27,NA,NA,0.5
+"1716","Riverside-Sedamsville",2020,32,NA,NA,1
+"1717","Riverside-Sedamsville",2020,35,NA,NA,1
+"1718","Riverside-Sedamsville",2020,36,NA,NA,1
+"1719","Riverside-Sedamsville",2020,37,NA,NA,0
+"1720","Riverside-Sedamsville",2020,41,NA,NA,0
+"1721","Riverside-Sedamsville",2020,42,NA,NA,1
+"1722","Riverside-Sedamsville",2020,43,NA,NA,1
+"1723","Riverside-Sedamsville",2020,49,NA,NA,1
+"1724","Roll Hill",2020,44,NA,NA,1
+"1725","Roll Hill",2020,51,NA,NA,0
+"1726","Roselawn",2020,2,NA,NA,1
+"1727","Roselawn",2020,4,NA,NA,1
+"1728","Roselawn",2020,5,NA,NA,1
+"1729","Roselawn",2020,6,NA,NA,1
+"1730","Roselawn",2020,10,NA,NA,0
+"1731","Roselawn",2020,15,NA,NA,1
+"1732","Roselawn",2020,20,NA,NA,1
+"1733","Roselawn",2020,21,NA,NA,1
+"1734","Roselawn",2020,26,NA,NA,1
+"1735","Roselawn",2020,29,NA,NA,0
+"1736","Roselawn",2020,30,NA,NA,0
+"1737","Roselawn",2020,31,NA,NA,1
+"1738","Roselawn",2020,32,NA,NA,1
+"1739","Roselawn",2020,33,NA,NA,1
+"1740","Roselawn",2020,36,NA,NA,1
+"1741","Roselawn",2020,38,NA,NA,1
+"1742","Roselawn",2020,39,NA,NA,1
+"1743","Roselawn",2020,41,NA,NA,1
+"1744","Roselawn",2020,42,NA,NA,0.67
+"1745","Roselawn",2020,43,NA,NA,1
+"1746","Roselawn",2020,45,NA,NA,1
+"1747","Roselawn",2020,46,NA,NA,0
+"1748","Roselawn",2020,51,NA,NA,1
+"1749","Roselawn",2020,53,NA,NA,1
+"1750","S. Cumminsville-Millvale",2020,3,NA,NA,0
+"1751","S. Cumminsville-Millvale",2020,4,NA,NA,0
+"1752","S. Cumminsville-Millvale",2020,11,NA,NA,0
+"1753","S. Cumminsville-Millvale",2020,14,NA,NA,1
+"1754","S. Cumminsville-Millvale",2020,16,NA,NA,1
+"1755","S. Cumminsville-Millvale",2020,28,NA,NA,1
+"1756","S. Cumminsville-Millvale",2020,37,NA,NA,0
+"1757","S. Cumminsville-Millvale",2020,46,NA,NA,1
+"1758","S. Cumminsville-Millvale",2020,52,NA,NA,1
+"1759","S. Fairmount",2020,2,NA,NA,1
+"1760","S. Fairmount",2020,3,NA,NA,1
+"1761","S. Fairmount",2020,5,NA,NA,0.5
+"1762","S. Fairmount",2020,9,NA,NA,0
+"1763","S. Fairmount",2020,12,NA,NA,1
+"1764","S. Fairmount",2020,13,NA,NA,0
+"1765","S. Fairmount",2020,14,NA,NA,0
+"1766","S. Fairmount",2020,15,NA,NA,1
+"1767","S. Fairmount",2020,18,NA,NA,1
+"1768","S. Fairmount",2020,19,NA,NA,0.5
+"1769","S. Fairmount",2020,20,NA,NA,0.5
+"1770","S. Fairmount",2020,30,NA,NA,0
+"1771","S. Fairmount",2020,39,NA,NA,0
+"1772","S. Fairmount",2020,48,NA,NA,0
+"1773","S. Fairmount",2020,52,NA,NA,1
+"1774","Sayler Park",2020,4,NA,NA,1
+"1775","Sayler Park",2020,6,NA,NA,0.5
+"1776","Sayler Park",2020,16,NA,NA,1
+"1777","Sayler Park",2020,19,NA,NA,0.33
+"1778","Sayler Park",2020,20,NA,NA,0
+"1779","Sayler Park",2020,22,NA,NA,0
+"1780","Sayler Park",2020,23,NA,NA,0
+"1781","Sayler Park",2020,24,NA,NA,0
+"1782","Sayler Park",2020,26,NA,NA,1
+"1783","Sayler Park",2020,29,NA,NA,0.5
+"1784","Sayler Park",2020,36,NA,NA,1
+"1785","Sayler Park",2020,38,NA,NA,0.5
+"1786","Sayler Park",2020,40,NA,NA,0
+"1787","Sayler Park",2020,41,NA,NA,1
+"1788","Sayler Park",2020,43,NA,NA,1
+"1789","Sayler Park",2020,45,NA,NA,0
+"1790","Sayler Park",2020,46,NA,NA,1
+"1791","Sayler Park",2020,50,NA,NA,0.5
+"1792","Sayler Park",2020,51,NA,NA,0.5
+"1793","Sharonville",2020,1,NA,NA,1
+"1794","Sharonville",2020,2,NA,NA,0.5
+"1795","Sharonville",2020,3,NA,NA,0.5
+"1796","Sharonville",2020,4,NA,NA,0.67
+"1797","Sharonville",2020,5,NA,NA,0
+"1798","Sharonville",2020,8,NA,NA,0
+"1799","Sharonville",2020,9,NA,NA,1
+"1800","Sharonville",2020,10,NA,NA,1
+"1801","Sharonville",2020,12,NA,NA,0
+"1802","Sharonville",2020,13,NA,NA,0
+"1803","Sharonville",2020,14,NA,NA,1
+"1804","Sharonville",2020,15,NA,NA,1
+"1805","Sharonville",2020,16,NA,NA,1
+"1806","Sharonville",2020,17,NA,NA,0.5
+"1807","Sharonville",2020,19,NA,NA,1
+"1808","Sharonville",2020,20,NA,NA,0
+"1809","Sharonville",2020,22,NA,NA,1
+"1810","Sharonville",2020,23,NA,NA,1
+"1811","Sharonville",2020,25,NA,NA,0
+"1812","Sharonville",2020,26,NA,NA,1
+"1813","Sharonville",2020,27,NA,NA,0
+"1814","Sharonville",2020,28,NA,NA,1
+"1815","Sharonville",2020,30,NA,NA,1
+"1816","Sharonville",2020,31,NA,NA,0.75
+"1817","Sharonville",2020,32,NA,NA,1
+"1818","Sharonville",2020,33,NA,NA,0
+"1819","Sharonville",2020,34,NA,NA,1
+"1820","Sharonville",2020,36,NA,NA,1
+"1821","Sharonville",2020,37,NA,NA,0
+"1822","Sharonville",2020,38,NA,NA,1
+"1823","Sharonville",2020,40,NA,NA,0.5
+"1824","Sharonville",2020,41,NA,NA,1
+"1825","Sharonville",2020,42,NA,NA,1
+"1826","Sharonville",2020,43,NA,NA,1
+"1827","Sharonville",2020,46,NA,NA,1
+"1828","Sharonville",2020,47,NA,NA,1
+"1829","Sharonville",2020,48,NA,NA,0
+"1830","Sharonville",2020,49,NA,NA,0.5
+"1831","Sharonville",2020,50,NA,NA,0
+"1832","Sharonville",2020,51,NA,NA,0.5
+"1833","Sharonville",2020,52,NA,NA,0.67
+"1834","Sharonville",2020,53,NA,NA,1
+"1835","Silverton",2020,2,NA,NA,0
+"1836","Silverton",2020,4,NA,NA,1
+"1837","Silverton",2020,7,NA,NA,1
+"1838","Silverton",2020,11,NA,NA,1
+"1839","Silverton",2020,12,NA,NA,1
+"1840","Silverton",2020,14,NA,NA,0
+"1841","Silverton",2020,15,NA,NA,0.67
+"1842","Silverton",2020,16,NA,NA,0.5
+"1843","Silverton",2020,17,NA,NA,1
+"1844","Silverton",2020,19,NA,NA,0
+"1845","Silverton",2020,21,NA,NA,1
+"1846","Silverton",2020,23,NA,NA,1
+"1847","Silverton",2020,25,NA,NA,0.75
+"1848","Silverton",2020,29,NA,NA,0
+"1849","Silverton",2020,31,NA,NA,1
+"1850","Silverton",2020,32,NA,NA,1
+"1851","Silverton",2020,33,NA,NA,1
+"1852","Silverton",2020,34,NA,NA,1
+"1853","Silverton",2020,35,NA,NA,1
+"1854","Silverton",2020,36,NA,NA,0
+"1855","Silverton",2020,37,NA,NA,0
+"1856","Silverton",2020,40,NA,NA,1
+"1857","Silverton",2020,41,NA,NA,1
+"1858","Silverton",2020,42,NA,NA,1
+"1859","Silverton",2020,45,NA,NA,0
+"1860","Silverton",2020,46,NA,NA,1
+"1861","Silverton",2020,47,NA,NA,0
+"1862","Silverton",2020,48,NA,NA,0
+"1863","Silverton",2020,50,NA,NA,0.33
+"1864","Silverton",2020,52,NA,NA,0
+"1865","Spring Grove Vlg.",2020,2,NA,NA,1
+"1866","Spring Grove Vlg.",2020,8,NA,NA,1
+"1867","Spring Grove Vlg.",2020,13,NA,NA,0
+"1868","Spring Grove Vlg.",2020,15,NA,NA,0
+"1869","Spring Grove Vlg.",2020,16,NA,NA,0
+"1870","Spring Grove Vlg.",2020,22,NA,NA,1
+"1871","Spring Grove Vlg.",2020,24,NA,NA,0
+"1872","Spring Grove Vlg.",2020,29,NA,NA,0
+"1873","Spring Grove Vlg.",2020,30,NA,NA,1
+"1874","Spring Grove Vlg.",2020,31,NA,NA,0
+"1875","Spring Grove Vlg.",2020,45,NA,NA,1
+"1876","Spring Grove Vlg.",2020,49,NA,NA,1
+"1877","Springdale",2020,2,NA,NA,0.5
+"1878","Springdale",2020,3,NA,NA,0.5
+"1879","Springdale",2020,4,NA,NA,1
+"1880","Springdale",2020,7,NA,NA,0.33
+"1881","Springdale",2020,8,NA,NA,1
+"1882","Springdale",2020,12,NA,NA,1
+"1883","Springdale",2020,13,NA,NA,0.33
+"1884","Springdale",2020,14,NA,NA,1
+"1885","Springdale",2020,16,NA,NA,1
+"1886","Springdale",2020,18,NA,NA,0.33
+"1887","Springdale",2020,21,NA,NA,0
+"1888","Springdale",2020,22,NA,NA,1
+"1889","Springdale",2020,23,NA,NA,0
+"1890","Springdale",2020,24,NA,NA,0
+"1891","Springdale",2020,27,NA,NA,0.5
+"1892","Springdale",2020,28,NA,NA,1
+"1893","Springdale",2020,30,NA,NA,0.67
+"1894","Springdale",2020,31,NA,NA,0.5
+"1895","Springdale",2020,33,NA,NA,0
+"1896","Springdale",2020,34,NA,NA,0
+"1897","Springdale",2020,35,NA,NA,1
+"1898","Springdale",2020,37,NA,NA,1
+"1899","Springdale",2020,38,NA,NA,0
+"1900","Springdale",2020,39,NA,NA,1
+"1901","Springdale",2020,41,NA,NA,0
+"1902","Springdale",2020,42,NA,NA,0.33
+"1903","Springdale",2020,44,NA,NA,1
+"1904","Springdale",2020,46,NA,NA,1
+"1905","Springdale",2020,47,NA,NA,1
+"1906","Springdale",2020,48,NA,NA,0
+"1907","Springdale",2020,49,NA,NA,1
+"1908","Springdale",2020,50,NA,NA,0.5
+"1909","Springdale",2020,51,NA,NA,0
+"1910","Springdale",2020,52,NA,NA,1
+"1911","Springfield Twp.",2020,2,6,NA,0.5
+"1912","Springfield Twp.",2020,3,5,NA,0.8
+"1913","Springfield Twp.",2020,4,12,NA,0.33
+"1914","Springfield Twp.",2020,5,7,NA,0.57
+"1915","Springfield Twp.",2020,6,7,6,0.86
+"1916","Springfield Twp.",2020,7,NA,NA,0
+"1917","Springfield Twp.",2020,8,8,NA,0.38
+"1918","Springfield Twp.",2020,9,NA,NA,0.67
+"1919","Springfield Twp.",2020,10,NA,NA,0.67
+"1920","Springfield Twp.",2020,11,NA,NA,0.75
+"1921","Springfield Twp.",2020,12,9,NA,0.44
+"1922","Springfield Twp.",2020,13,NA,NA,0.67
+"1923","Springfield Twp.",2020,14,5,NA,0.6
+"1924","Springfield Twp.",2020,15,NA,NA,0.5
+"1925","Springfield Twp.",2020,16,NA,NA,0.25
+"1926","Springfield Twp.",2020,17,6,NA,0.5
+"1927","Springfield Twp.",2020,18,5,5,1
+"1928","Springfield Twp.",2020,19,7,5,0.71
+"1929","Springfield Twp.",2020,20,NA,NA,0.75
+"1930","Springfield Twp.",2020,21,8,5,0.62
+"1931","Springfield Twp.",2020,22,NA,NA,1
+"1932","Springfield Twp.",2020,23,NA,NA,0
+"1933","Springfield Twp.",2020,24,5,NA,0.4
+"1934","Springfield Twp.",2020,25,5,NA,0.6
+"1935","Springfield Twp.",2020,26,6,6,1
+"1936","Springfield Twp.",2020,27,NA,NA,0.5
+"1937","Springfield Twp.",2020,28,NA,NA,0.5
+"1938","Springfield Twp.",2020,29,5,NA,0.4
+"1939","Springfield Twp.",2020,30,6,NA,0.5
+"1940","Springfield Twp.",2020,31,5,NA,0.6
+"1941","Springfield Twp.",2020,32,9,7,0.78
+"1942","Springfield Twp.",2020,33,5,NA,0.6
+"1943","Springfield Twp.",2020,34,6,NA,0.5
+"1944","Springfield Twp.",2020,35,5,NA,0.6
+"1945","Springfield Twp.",2020,36,5,5,1
+"1946","Springfield Twp.",2020,37,7,5,0.71
+"1947","Springfield Twp.",2020,38,NA,NA,0.5
+"1948","Springfield Twp.",2020,39,8,NA,0.5
+"1949","Springfield Twp.",2020,40,NA,NA,0.33
+"1950","Springfield Twp.",2020,41,5,NA,0
+"1951","Springfield Twp.",2020,42,NA,NA,0.67
+"1952","Springfield Twp.",2020,43,5,NA,0.4
+"1953","Springfield Twp.",2020,44,10,6,0.6
+"1954","Springfield Twp.",2020,45,5,NA,0.6
+"1955","Springfield Twp.",2020,46,7,6,0.86
+"1956","Springfield Twp.",2020,47,5,NA,0.6
+"1957","Springfield Twp.",2020,48,NA,NA,0.67
+"1958","Springfield Twp.",2020,49,NA,NA,0.25
+"1959","Springfield Twp.",2020,50,5,NA,0.8
+"1960","Springfield Twp.",2020,51,6,NA,0.33
+"1961","Springfield Twp.",2020,52,7,NA,0.43
+"1962","Springfield Twp.",2020,53,NA,NA,0
+"1963","St. Bernard",2020,2,NA,NA,1
+"1964","St. Bernard",2020,3,NA,NA,1
+"1965","St. Bernard",2020,6,NA,NA,1
+"1966","St. Bernard",2020,9,NA,NA,1
+"1967","St. Bernard",2020,11,NA,NA,0
+"1968","St. Bernard",2020,16,NA,NA,1
+"1969","St. Bernard",2020,20,NA,NA,1
+"1970","St. Bernard",2020,23,NA,NA,1
+"1971","St. Bernard",2020,24,NA,NA,1
+"1972","St. Bernard",2020,25,NA,NA,1
+"1973","St. Bernard",2020,27,NA,NA,0
+"1974","St. Bernard",2020,28,NA,NA,1
+"1975","St. Bernard",2020,29,NA,NA,1
+"1976","St. Bernard",2020,33,NA,NA,0
+"1977","St. Bernard",2020,38,NA,NA,0.5
+"1978","St. Bernard",2020,39,NA,NA,0
+"1979","St. Bernard",2020,40,NA,NA,0
+"1980","St. Bernard",2020,41,NA,NA,1
+"1981","St. Bernard",2020,42,NA,NA,1
+"1982","St. Bernard",2020,49,NA,NA,0
+"1983","St. Bernard",2020,52,NA,NA,1
+"1984","Sycamore Twp.",2020,1,5,5,1
+"1985","Sycamore Twp.",2020,2,NA,NA,0.67
+"1986","Sycamore Twp.",2020,3,NA,NA,1
+"1987","Sycamore Twp.",2020,5,NA,NA,1
+"1988","Sycamore Twp.",2020,7,NA,NA,0
+"1989","Sycamore Twp.",2020,8,NA,NA,0.33
+"1990","Sycamore Twp.",2020,9,NA,NA,0.5
+"1991","Sycamore Twp.",2020,10,NA,NA,0.75
+"1992","Sycamore Twp.",2020,11,NA,NA,0.75
+"1993","Sycamore Twp.",2020,12,NA,NA,0.67
+"1994","Sycamore Twp.",2020,13,NA,NA,0
+"1995","Sycamore Twp.",2020,14,6,NA,0.67
+"1996","Sycamore Twp.",2020,15,NA,NA,0.67
+"1997","Sycamore Twp.",2020,16,NA,NA,0.33
+"1998","Sycamore Twp.",2020,17,NA,NA,0.67
+"1999","Sycamore Twp.",2020,18,NA,NA,1
+"2000","Sycamore Twp.",2020,19,NA,NA,1
+"2001","Sycamore Twp.",2020,20,NA,NA,0.33
+"2002","Sycamore Twp.",2020,21,NA,NA,0.5
+"2003","Sycamore Twp.",2020,23,NA,NA,0.75
+"2004","Sycamore Twp.",2020,25,NA,NA,0.5
+"2005","Sycamore Twp.",2020,26,NA,NA,0.5
+"2006","Sycamore Twp.",2020,27,NA,NA,1
+"2007","Sycamore Twp.",2020,28,NA,NA,0.5
+"2008","Sycamore Twp.",2020,29,NA,NA,0
+"2009","Sycamore Twp.",2020,30,NA,NA,1
+"2010","Sycamore Twp.",2020,31,NA,NA,0.25
+"2011","Sycamore Twp.",2020,32,NA,NA,0
+"2012","Sycamore Twp.",2020,34,NA,NA,0.5
+"2013","Sycamore Twp.",2020,35,NA,NA,0.67
+"2014","Sycamore Twp.",2020,36,NA,NA,1
+"2015","Sycamore Twp.",2020,37,NA,NA,1
+"2016","Sycamore Twp.",2020,38,NA,NA,0.5
+"2017","Sycamore Twp.",2020,39,NA,NA,1
+"2018","Sycamore Twp.",2020,40,NA,NA,0
+"2019","Sycamore Twp.",2020,41,NA,NA,1
+"2020","Sycamore Twp.",2020,42,NA,NA,1
+"2021","Sycamore Twp.",2020,43,NA,NA,1
+"2022","Sycamore Twp.",2020,44,NA,NA,0.5
+"2023","Sycamore Twp.",2020,46,NA,NA,0.5
+"2024","Sycamore Twp.",2020,47,NA,NA,0.67
+"2025","Sycamore Twp.",2020,48,NA,NA,1
+"2026","Sycamore Twp.",2020,49,NA,NA,1
+"2027","Sycamore Twp.",2020,50,NA,NA,1
+"2028","Sycamore Twp.",2020,51,NA,NA,0
+"2029","Sycamore Twp.",2020,52,NA,NA,0.33
+"2030","Symmes Twp.",2020,1,NA,NA,1
+"2031","Symmes Twp.",2020,2,NA,NA,1
+"2032","Symmes Twp.",2020,3,NA,NA,0.5
+"2033","Symmes Twp.",2020,5,NA,NA,0
+"2034","Symmes Twp.",2020,7,NA,NA,1
+"2035","Symmes Twp.",2020,8,NA,NA,1
+"2036","Symmes Twp.",2020,9,NA,NA,0.5
+"2037","Symmes Twp.",2020,12,NA,NA,0.5
+"2038","Symmes Twp.",2020,13,NA,NA,0.33
+"2039","Symmes Twp.",2020,14,NA,NA,0.67
+"2040","Symmes Twp.",2020,15,NA,NA,1
+"2041","Symmes Twp.",2020,17,NA,NA,1
+"2042","Symmes Twp.",2020,18,NA,NA,1
+"2043","Symmes Twp.",2020,19,NA,NA,0.33
+"2044","Symmes Twp.",2020,20,NA,NA,0.67
+"2045","Symmes Twp.",2020,21,NA,NA,0.5
+"2046","Symmes Twp.",2020,23,NA,NA,1
+"2047","Symmes Twp.",2020,24,NA,NA,1
+"2048","Symmes Twp.",2020,25,NA,NA,0.67
+"2049","Symmes Twp.",2020,26,NA,NA,0.5
+"2050","Symmes Twp.",2020,27,NA,NA,0.25
+"2051","Symmes Twp.",2020,29,NA,NA,0.33
+"2052","Symmes Twp.",2020,30,NA,NA,1
+"2053","Symmes Twp.",2020,31,NA,NA,1
+"2054","Symmes Twp.",2020,33,NA,NA,0
+"2055","Symmes Twp.",2020,34,NA,NA,0
+"2056","Symmes Twp.",2020,35,NA,NA,1
+"2057","Symmes Twp.",2020,36,NA,NA,0
+"2058","Symmes Twp.",2020,37,NA,NA,1
+"2059","Symmes Twp.",2020,38,NA,NA,1
+"2060","Symmes Twp.",2020,39,NA,NA,0.5
+"2061","Symmes Twp.",2020,40,NA,NA,0
+"2062","Symmes Twp.",2020,41,NA,NA,0.75
+"2063","Symmes Twp.",2020,42,NA,NA,0.75
+"2064","Symmes Twp.",2020,43,NA,NA,0
+"2065","Symmes Twp.",2020,44,NA,NA,0
+"2066","Symmes Twp.",2020,45,NA,NA,0.67
+"2067","Symmes Twp.",2020,46,NA,NA,0.67
+"2068","Symmes Twp.",2020,48,NA,NA,1
+"2069","Symmes Twp.",2020,49,NA,NA,0
+"2070","Symmes Twp.",2020,51,NA,NA,0.67
+"2071","Symmes Twp.",2020,52,NA,NA,0.5
+"2072","Terrace Park",2020,5,NA,NA,1
+"2073","Terrace Park",2020,8,NA,NA,0.5
+"2074","Terrace Park",2020,9,NA,NA,1
+"2075","Terrace Park",2020,11,NA,NA,0
+"2076","Terrace Park",2020,12,NA,NA,0
+"2077","Terrace Park",2020,13,NA,NA,0.33
+"2078","Terrace Park",2020,14,NA,NA,1
+"2079","Terrace Park",2020,17,NA,NA,0
+"2080","Terrace Park",2020,19,NA,NA,1
+"2081","Terrace Park",2020,22,NA,NA,1
+"2082","Terrace Park",2020,30,NA,NA,0.33
+"2083","Terrace Park",2020,32,NA,NA,1
+"2084","Terrace Park",2020,34,NA,NA,0.5
+"2085","Terrace Park",2020,39,NA,NA,1
+"2086","Terrace Park",2020,47,NA,NA,1
+"2087","Terrace Park",2020,49,NA,NA,1
+"2088","W. Price Hill",2020,1,NA,NA,1
+"2089","W. Price Hill",2020,2,NA,NA,0.33
+"2090","W. Price Hill",2020,3,NA,NA,0
+"2091","W. Price Hill",2020,4,NA,NA,0.5
+"2092","W. Price Hill",2020,7,NA,NA,0
+"2093","W. Price Hill",2020,8,NA,NA,1
+"2094","W. Price Hill",2020,9,NA,NA,0.5
+"2095","W. Price Hill",2020,10,NA,NA,0.5
+"2096","W. Price Hill",2020,11,NA,NA,0
+"2097","W. Price Hill",2020,13,NA,NA,0
+"2098","W. Price Hill",2020,14,NA,NA,0
+"2099","W. Price Hill",2020,15,NA,NA,0.5
+"2100","W. Price Hill",2020,16,NA,NA,0.67
+"2101","W. Price Hill",2020,17,NA,NA,1
+"2102","W. Price Hill",2020,18,NA,NA,0.33
+"2103","W. Price Hill",2020,19,NA,NA,0
+"2104","W. Price Hill",2020,20,NA,NA,0.5
+"2105","W. Price Hill",2020,21,NA,NA,1
+"2106","W. Price Hill",2020,22,NA,NA,1
+"2107","W. Price Hill",2020,23,NA,NA,0
+"2108","W. Price Hill",2020,24,NA,NA,0.75
+"2109","W. Price Hill",2020,25,NA,NA,1
+"2110","W. Price Hill",2020,26,NA,NA,1
+"2111","W. Price Hill",2020,27,NA,NA,0
+"2112","W. Price Hill",2020,28,5,NA,0.4
+"2113","W. Price Hill",2020,29,NA,NA,1
+"2114","W. Price Hill",2020,30,NA,NA,0.75
+"2115","W. Price Hill",2020,31,NA,NA,0.5
+"2116","W. Price Hill",2020,32,NA,NA,0.5
+"2117","W. Price Hill",2020,33,NA,NA,0.67
+"2118","W. Price Hill",2020,34,NA,NA,0
+"2119","W. Price Hill",2020,35,NA,NA,0.67
+"2120","W. Price Hill",2020,36,NA,NA,0.75
+"2121","W. Price Hill",2020,37,NA,NA,1
+"2122","W. Price Hill",2020,39,NA,NA,0
+"2123","W. Price Hill",2020,40,NA,NA,1
+"2124","W. Price Hill",2020,41,NA,NA,0.5
+"2125","W. Price Hill",2020,42,NA,NA,0.67
+"2126","W. Price Hill",2020,43,NA,NA,1
+"2127","W. Price Hill",2020,44,NA,NA,0
+"2128","W. Price Hill",2020,45,NA,NA,1
+"2129","W. Price Hill",2020,46,NA,NA,1
+"2130","W. Price Hill",2020,47,NA,NA,1
+"2131","W. Price Hill",2020,48,NA,NA,0.5
+"2132","W. Price Hill",2020,50,NA,NA,1
+"2133","W. Price Hill",2020,51,NA,NA,0.33
+"2134","W. Price Hill",2020,52,NA,NA,0.67
+"2135","W. Price Hill",2020,53,NA,NA,0
+"2136","Walnut Hills",2020,8,NA,NA,0.33
+"2137","Walnut Hills",2020,9,NA,NA,0
+"2138","Walnut Hills",2020,10,NA,NA,1
+"2139","Walnut Hills",2020,12,NA,NA,0
+"2140","Walnut Hills",2020,13,NA,NA,1
+"2141","Walnut Hills",2020,16,NA,NA,0
+"2142","Walnut Hills",2020,19,NA,NA,1
+"2143","Walnut Hills",2020,20,NA,NA,0
+"2144","Walnut Hills",2020,22,NA,NA,0.33
+"2145","Walnut Hills",2020,23,NA,NA,1
+"2146","Walnut Hills",2020,27,NA,NA,1
+"2147","Walnut Hills",2020,28,NA,NA,0
+"2148","Walnut Hills",2020,29,NA,NA,0.5
+"2149","Walnut Hills",2020,31,NA,NA,1
+"2150","Walnut Hills",2020,32,NA,NA,1
+"2151","Walnut Hills",2020,33,NA,NA,1
+"2152","Walnut Hills",2020,35,NA,NA,1
+"2153","Walnut Hills",2020,36,NA,NA,1
+"2154","Walnut Hills",2020,38,NA,NA,1
+"2155","Walnut Hills",2020,41,NA,NA,0
+"2156","Walnut Hills",2020,52,NA,NA,1
+"2157","West End",2020,9,NA,NA,0
+"2158","West End",2020,10,NA,NA,1
+"2159","West End",2020,11,NA,NA,0
+"2160","West End",2020,12,NA,NA,1
+"2161","West End",2020,13,NA,NA,1
+"2162","West End",2020,17,NA,NA,1
+"2163","West End",2020,28,NA,NA,0.5
+"2164","West End",2020,34,NA,NA,1
+"2165","West End",2020,36,NA,NA,0
+"2166","Westwood",2020,1,NA,NA,1
+"2167","Westwood",2020,2,5,NA,0.6
+"2168","Westwood",2020,3,NA,NA,0
+"2169","Westwood",2020,4,NA,NA,0.5
+"2170","Westwood",2020,5,NA,NA,0.33
+"2171","Westwood",2020,6,NA,NA,0.67
+"2172","Westwood",2020,7,NA,NA,1
+"2173","Westwood",2020,8,NA,NA,1
+"2174","Westwood",2020,9,NA,NA,0.5
+"2175","Westwood",2020,10,NA,NA,0.25
+"2176","Westwood",2020,11,NA,NA,0
+"2177","Westwood",2020,12,6,NA,0.67
+"2178","Westwood",2020,13,NA,NA,1
+"2179","Westwood",2020,14,NA,NA,0.25
+"2180","Westwood",2020,15,NA,NA,0.5
+"2181","Westwood",2020,16,NA,NA,1
+"2182","Westwood",2020,17,NA,NA,0.5
+"2183","Westwood",2020,18,NA,NA,0.5
+"2184","Westwood",2020,19,NA,NA,1
+"2185","Westwood",2020,20,NA,NA,0
+"2186","Westwood",2020,21,NA,NA,0
+"2187","Westwood",2020,22,6,NA,0.33
+"2188","Westwood",2020,23,6,5,0.83
+"2189","Westwood",2020,24,NA,NA,0.33
+"2190","Westwood",2020,25,NA,NA,0
+"2191","Westwood",2020,26,NA,NA,0.5
+"2192","Westwood",2020,27,5,NA,0.4
+"2193","Westwood",2020,28,NA,NA,0.67
+"2194","Westwood",2020,29,5,NA,0.8
+"2195","Westwood",2020,30,8,5,0.62
+"2196","Westwood",2020,31,6,NA,0.67
+"2197","Westwood",2020,32,NA,NA,1
+"2198","Westwood",2020,33,NA,NA,1
+"2199","Westwood",2020,35,NA,NA,0.5
+"2200","Westwood",2020,36,NA,NA,0.5
+"2201","Westwood",2020,37,5,NA,0.4
+"2202","Westwood",2020,38,NA,NA,0.25
+"2203","Westwood",2020,39,NA,NA,0.5
+"2204","Westwood",2020,40,NA,NA,0.33
+"2205","Westwood",2020,41,NA,NA,0.5
+"2206","Westwood",2020,42,NA,NA,0.67
+"2207","Westwood",2020,43,NA,NA,0.5
+"2208","Westwood",2020,44,8,NA,0.38
+"2209","Westwood",2020,45,NA,NA,0.67
+"2210","Westwood",2020,46,7,5,0.71
+"2211","Westwood",2020,47,NA,NA,0.5
+"2212","Westwood",2020,48,5,NA,0.6
+"2213","Westwood",2020,49,5,NA,0.6
+"2214","Westwood",2020,50,NA,NA,0.5
+"2215","Westwood",2020,51,NA,NA,0.5
+"2216","Westwood",2020,52,NA,NA,0.67
+"2217","Whitewater Twp.",2020,1,NA,NA,1
+"2218","Whitewater Twp.",2020,2,NA,NA,1
+"2219","Whitewater Twp.",2020,3,NA,NA,1
+"2220","Whitewater Twp.",2020,4,NA,NA,0
+"2221","Whitewater Twp.",2020,10,NA,NA,1
+"2222","Whitewater Twp.",2020,16,NA,NA,1
+"2223","Whitewater Twp.",2020,19,NA,NA,1
+"2224","Whitewater Twp.",2020,20,NA,NA,0
+"2225","Whitewater Twp.",2020,21,NA,NA,1
+"2226","Whitewater Twp.",2020,24,NA,NA,1
+"2227","Whitewater Twp.",2020,25,NA,NA,0
+"2228","Whitewater Twp.",2020,29,NA,NA,1
+"2229","Whitewater Twp.",2020,33,NA,NA,0.5
+"2230","Whitewater Twp.",2020,37,NA,NA,1
+"2231","Winton Hills",2020,51,NA,NA,1
+"2232","Woodlawn",2020,1,NA,NA,1
+"2233","Woodlawn",2020,7,NA,NA,0
+"2234","Woodlawn",2020,11,NA,NA,1
+"2235","Woodlawn",2020,15,NA,NA,0
+"2236","Woodlawn",2020,17,NA,NA,1
+"2237","Woodlawn",2020,20,NA,NA,0
+"2238","Woodlawn",2020,22,NA,NA,0
+"2239","Woodlawn",2020,24,NA,NA,1
+"2240","Woodlawn",2020,27,NA,NA,0
+"2241","Woodlawn",2020,30,NA,NA,0.5
+"2242","Woodlawn",2020,34,NA,NA,1
+"2243","Woodlawn",2020,38,NA,NA,0
+"2244","Woodlawn",2020,43,NA,NA,1
+"2245","Woodlawn",2020,44,NA,NA,1
+"2246","Woodlawn",2020,45,NA,NA,0
+"2247","Woodlawn",2020,47,NA,NA,1
+"2248","Woodlawn",2020,48,NA,NA,1
+"2249","Woodlawn",2020,49,NA,NA,0.5
+"2250","Woodlawn",2020,52,NA,NA,0
+"2251","Woodlawn",2020,53,NA,NA,1
+"2252","Wyoming",2020,1,NA,NA,0
+"2253","Wyoming",2020,2,NA,NA,1
+"2254","Wyoming",2020,3,NA,NA,0.67
+"2255","Wyoming",2020,4,NA,NA,1
+"2256","Wyoming",2020,7,NA,NA,0.5
+"2257","Wyoming",2020,9,NA,NA,0.33
+"2258","Wyoming",2020,11,NA,NA,0.75
+"2259","Wyoming",2020,13,NA,NA,1
+"2260","Wyoming",2020,15,NA,NA,0
+"2261","Wyoming",2020,16,NA,NA,1
+"2262","Wyoming",2020,17,NA,NA,0.5
+"2263","Wyoming",2020,19,NA,NA,1
+"2264","Wyoming",2020,20,NA,NA,0.5
+"2265","Wyoming",2020,21,NA,NA,0.67
+"2266","Wyoming",2020,22,NA,NA,1
+"2267","Wyoming",2020,24,NA,NA,0.5
+"2268","Wyoming",2020,25,NA,NA,0
+"2269","Wyoming",2020,26,NA,NA,1
+"2270","Wyoming",2020,27,NA,NA,0
+"2271","Wyoming",2020,28,NA,NA,0.5
+"2272","Wyoming",2020,31,NA,NA,0.5
+"2273","Wyoming",2020,32,NA,NA,1
+"2274","Wyoming",2020,33,NA,NA,1
+"2275","Wyoming",2020,34,NA,NA,1
+"2276","Wyoming",2020,35,NA,NA,0.5
+"2277","Wyoming",2020,36,NA,NA,0.67
+"2278","Wyoming",2020,37,NA,NA,1
+"2279","Wyoming",2020,38,NA,NA,0.5
+"2280","Wyoming",2020,41,NA,NA,1
+"2281","Wyoming",2020,42,NA,NA,0.5
+"2282","Wyoming",2020,43,NA,NA,0
+"2283","Wyoming",2020,44,NA,NA,0
+"2284","Wyoming",2020,45,NA,NA,0.75
+"2285","Wyoming",2020,47,NA,NA,0.5
+"2286","Wyoming",2020,48,NA,NA,0
+"2287","Wyoming",2020,49,NA,NA,1
+"2288","Wyoming",2020,50,NA,NA,1
+"2289","Wyoming",2020,52,NA,NA,0
+"2290",NA,2020,9,NA,NA,0.5
+"2291",NA,2020,13,NA,NA,1
+"2292",NA,2020,15,NA,NA,1
+"2293",NA,2020,19,NA,NA,1
+"2294",NA,2020,22,NA,NA,1
+"2295",NA,2020,24,NA,NA,1
+"2296",NA,2020,30,NA,NA,1
+"2297",NA,2020,31,NA,NA,0
+"2298",NA,2020,35,NA,NA,1
+"2299",NA,2020,39,NA,NA,1
+"2300",NA,2020,46,NA,NA,1
+"2301",NA,2020,49,NA,NA,1
