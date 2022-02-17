@@ -50,49 +50,17 @@ d <- read_csv(args$file_name,
               ))
 
 ###
-#d_test <- read.csv('test/simulated_jfs_data_geocoded.csv')
+#d_test <- read.csv('test/simulated_jfs_data_geocoded_all_years.csv')
 #d <- d_test
 ###
 d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
-# rmarkdown::render(input = '/app/aggregate_data_report.rmd',
-#                   params = list(d = d),
-#                   envir = new.env())
-
-
 tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
 neighborhood_shp <- readRDS('/app/ham_neighborhoods_dep_index_shp.rds')
-
-# # Overall Summary
-# date_min <- min(d$DECISION_DATE)
-# date_max <- max(d$DECISION_DATE)
 
 # consider 'SCREENED IN AR' same as 'SCREENED IN'
 d <- d %>%
   mutate(screened_in = SCREENING_DECISION %in% c("SCREENED IN", "SCREENED IN AR"))
-
-##Address cleanup - use child if no allegation
-
-d_missing_alleg_add <- d %>%
- filter(address_type == 'ALLEGATION_ADDRESS',
-        is.na(address)) %>%
- select(PERSON_ID:address_type)
-
-d_fill_in_address <- d %>%
- filter(PERSON_ID %in% d_missing_alleg_add$PERSON_ID,
-        address_type == 'CHILD_ADDRESS') %>%
- group_by(PERSON_ID) %>%
- arrange(desc(ADDRESS_START)) %>%
- slice(1) %>%
- select(INTAKE_ID:DECISION_DATE, address:screened_in)
-
-d_missing_alleg_add <- left_join(d_missing_alleg_add, d_fill_in_address, by = 'PERSON_ID')
-
-d <- d %>%
-  filter(address_type == 'ALLEGATION_ADDRESS' & !is.na(address) |
-           address_type == 'CHILD_ADDRESS') %>%
-  bind_rows(d_missing_alleg_add) %>%
-  filter(address_type == 'ALLEGATION_ADDRESS')
 
 d <- d %>%
   filter(!duplicated(INTAKE_ID)) %>%
@@ -120,12 +88,12 @@ screen_neighborhood <- d_neigh %>%
 ##
 
 d_csv <- screen_neighborhood %>%
-  select(`Neighborhood` = neighborhood,
-         `Year` = year,
-         `Week` = week,
-         `Number of Calls` = n_calls,
-         `Number of Calls Screened In` = n_screened_in,
-         `Screen-In Rate` = screen_in_rate)
+  select(`neighborhood` = neighborhood,
+         `year` = year,
+         `week` = week,
+         `number_of_calls` = n_calls,
+         `number_of_calls_screened_in` = n_screened_in,
+         `screen_in_rate` = screen_in_rate)
 
 path <- "/tmp/"
 write.csv(d_csv, paste(path,"weekly_report.csv", sep = ''))
