@@ -65,5 +65,5 @@ d_csv <- screen_neighborhood %>%
          screen_in_rate = screen_in_rate)
 
 path <- "/tmp/"
-write.csv(d_csv, paste(path, "weekly_report_v4.0.1.csv", sep = ''))
+write.csv(d_csv, paste(path, "weekly_report_v4.0.2.csv", sep = ''))
 

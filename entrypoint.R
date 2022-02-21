@@ -19,7 +19,7 @@ suppressPackageStartupMessages(library(tidyverse))
 d <- read_csv(args$file_name,
               col_types = cols(INTAKE_ID = col_character(),
                                SCREENING_DECISION = col_character(),
-                               DECISION_DATE = col_character(),
+                               DECISION_DATE = col_date(format = "%m/%d/%Y"),
                                PERSON_ID = col_character(),
                                RACE = col_character(),
                                ADDRESS_START = col_date(),
@@ -45,8 +45,8 @@ d <- read_csv(args$file_name,
                                ))
 
 
-d <- d %>%
-  mutate(DECISION_DATE = lubridate::parse_date_time(DECISION_DATE, c("%Y-%m-%d", "%m/%d/%Y")))
+# d <- d %>%
+#   mutate(DECISION_DATE = lubridate::parse_date_time(DECISION_DATE, c("%Y-%m-%d", "%m/%d/%Y")))
 
 #d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
