@@ -19,7 +19,7 @@ suppressPackageStartupMessages(library(tidyverse))
 d <- read_csv(args$file_name,
               col_types = cols(INTAKE_ID = col_character(),
                                SCREENING_DECISION = col_character(),
-                               DECISION_DATE = col_character(),
+                               DECISION_DATE = col_date(format = "%m/%d/%Y"),
                                PERSON_ID = col_character(),
                                RACE = col_character(),
                                ADDRESS_START = col_date(),
@@ -43,7 +43,8 @@ d <- read_csv(args$file_name,
                                fraction_vacant_housing = col_double(),
                                dep_index = col_double()
                                ))
-d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
+
+#d <- dplyr::mutate(d, DECISION_DATE = dht::check_dates(DECISION_DATE))
 
 tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
 
