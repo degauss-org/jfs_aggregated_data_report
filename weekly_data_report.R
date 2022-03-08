@@ -1,8 +1,9 @@
 #test file
-# d <- read_csv('test/simulated_jfs_data_geocoded_all_years.csv',
+# d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger.csv',
 #               col_types = cols(INTAKE_ID = col_character(),
 #                                SCREENING_DECISION = col_character(),
-#                                DECISION_DATE = col_character(),
+#                                #DECISION_DATE = col_character(),
+#                                DECISION_DATE = col_date(format = "%m/%d/%Y"),
 #                                PERSON_ID = col_character(),
 #                                RACE = col_character(),
 #                                ADDRESS_START = col_date(),
@@ -26,8 +27,6 @@
 #                                fraction_vacant_housing = col_double(),
 #                                dep_index = col_double()
 #               ))
-# ##
-
 
 # consider 'SCREENED IN AR' same as 'SCREENED IN'
 d <- d %>%
@@ -39,6 +38,13 @@ d <- d %>%
   mutate(week = lubridate::week(DECISION_DATE),
          year = lubridate::year(DECISION_DATE))
 
+##Annual counts
+d_yearly <- d %>%
+  group_by(year) %>%
+  summarize(num_year = n())
+
+print(knitr::kable(d_yearly))
+
 ### Weekly Counts
 d_neigh <- d  %>%
   mutate(fips_tract_id = as.character(fips_tract_id)) %>%
@@ -48,10 +54,18 @@ d_neigh <- d  %>%
 d_neigh <- d_neigh %>%
   mutate(neighborhood = ifelse(is.na(lat), 'Missing', neighborhood))
 
+
 screen_neighborhood <- d_neigh %>%
   group_by(neighborhood, year, week) %>%
   summarize(n_screened_in = sum(screened_in == TRUE, na.rm = TRUE),
             n_calls = n(), .groups = "drop")  %>%
+  ungroup() %>% 
+  group_by(year, week) %>%
+  bind_rows(summarize(., across(where(is.numeric), sum),
+                      across(where(is.character), ~"Total")))
+
+screen_neighborhood <- screen_neighborhood %>%
+  group_by(neighborhood, year, week) %>%
   mutate(screen_in_rate = round(n_screened_in/n_calls,2)) %>%
   mutate_at(vars(n_screened_in, n_calls),
             ~ifelse(.x < 5, NA, .x))
@@ -65,5 +79,5 @@ d_csv <- screen_neighborhood %>%
          screen_in_rate = screen_in_rate)
 
 path <- "/tmp/"
-write.csv(d_csv, paste(path, "weekly_report_v4.0.2.csv", sep = ''))
+write.csv(d_csv, paste(path, "weekly_report_v4.0.3.csv", sep = ''))
 
