@@ -28,3 +28,4 @@ COPY entrypoint.R .
 WORKDIR /tmp
 
 ENTRYPOINT ["/app/entrypoint.R"]
+
