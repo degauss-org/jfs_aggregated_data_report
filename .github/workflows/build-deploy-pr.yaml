@@ -5,7 +5,7 @@ jobs:
   deploy-images:
     runs-on: ubuntu-latest
     env:
-      registry: dockerhub
+      registry: docker
       username: degauss-org
       repository: jfs_aggreggated_data_report
     strategy:
