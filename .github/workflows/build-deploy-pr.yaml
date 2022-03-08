@@ -34,7 +34,3 @@ jobs:
           registry: ${{ env.registry }}
           username: ${{ env.username }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: deploy pull request container
-        run: |
-          docker tag ${{ env.container }} ${{ env.versioned }}
-          docker push ${{ env.versioned }}
