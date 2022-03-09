@@ -28,6 +28,8 @@
 #                                dep_index = col_double()
 #               ))
 
+options(dplyr.summarise.inform = FALSE)
+
 # consider 'SCREENED IN AR' same as 'SCREENED IN'
 d <- d %>%
   mutate(screened_in = SCREENING_DECISION %in% c("SCREENED IN", "SCREENED IN AR"))
