@@ -10,10 +10,10 @@
 If `my_address_file_geocoded.csv` is a file in the current working directory with coordinate columns named `lat` and `lon`, then
 
 ```sh
-docker run --rm -v ${pwd}:/tmp degauss/jfs_aggregated_data_report:4.0.2 my_address_file_geocoded.csv
+docker run --rm -v ${pwd}:/tmp degauss/jfs_aggregated_data_report:4.0.3 my_address_file_geocoded.csv
 ```
 
-will produce once CSV file: `weekly_report_v4.0.2.csv`
+will produce once CSV file: `weekly_report_v4.0.3.csv`
 
 ## Dataset Notes
 
