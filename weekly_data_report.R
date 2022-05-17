@@ -1,32 +1,32 @@
-#test file
-# d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger.csv',
-#               col_types = cols(INTAKE_ID = col_character(),
-#                                SCREENING_DECISION = col_character(),
-#                                #DECISION_DATE = col_character(),
-#                                DECISION_DATE = col_date(format = "%m/%d/%Y"),
-#                                PERSON_ID = col_character(),
-#                                RACE = col_character(),
-#                                ADDRESS_START = col_date(),
-#                                MANDATED_REPORTER = col_character(),
-#                                #  REPORTER_PERSON_ID = col_character(),
-#                                address_type = col_character(),
-#                                address = col_character(),
-#                                bad_address = col_logical(),
-#                                PO = col_logical(),
-#                                lat = col_double(),
-#                                lon = col_double(),
-#                                score = col_double(),
-#                                precision = col_character(),
-#                                precise_geocode = col_logical(),
-#                                fips_tract_id = col_character(),
-#                                fraction_assisted_income = col_double(),
-#                                fraction_high_school_edu = col_double(),
-#                                median_income = col_double(),
-#                                fraction_no_health_ins = col_double(),
-#                                fraction_poverty = col_double(),
-#                                fraction_vacant_housing = col_double(),
-#                                dep_index = col_double()
-#               ))
+# #test file
+d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger.csv',
+              col_types = cols(INTAKE_ID = col_character(),
+                               SCREENING_DECISION = col_character(),
+                               #DECISION_DATE = col_character(),
+                               DECISION_DATE = col_date(format = "%m/%d/%Y"),
+                               PERSON_ID = col_character(),
+                               RACE = col_character(),
+                               ADDRESS_START = col_date(),
+                               MANDATED_REPORTER = col_character(),
+                               #  REPORTER_PERSON_ID = col_character(),
+                               address_type = col_character(),
+                               address = col_character(),
+                               bad_address = col_logical(),
+                               PO = col_logical(),
+                               lat = col_double(),
+                               lon = col_double(),
+                               score = col_double(),
+                               precision = col_character(),
+                               precise_geocode = col_logical(),
+                               fips_tract_id = col_character(),
+                               fraction_assisted_income = col_double(),
+                               fraction_high_school_edu = col_double(),
+                               median_income = col_double(),
+                               fraction_no_health_ins = col_double(),
+                               fraction_poverty = col_double(),
+                               fraction_vacant_housing = col_double(),
+                               dep_index = col_double()
+              ))
 
 options(dplyr.summarise.inform = FALSE)
 
@@ -34,11 +34,20 @@ options(dplyr.summarise.inform = FALSE)
 d <- d %>%
   mutate(screened_in = SCREENING_DECISION %in% c("SCREENED IN", "SCREENED IN AR"))
 
+# two_weeks <- seq(as.Date("2017-01-01"), by = "14 days", length.out = 130) %>%
+#   as_tibble() %>%
+#   mutate(two_week_num = seq(1, 130, by = 1)) %>%
+#   rename( "two_week_date" = value)
+
 d <- d %>%
   filter(!duplicated(INTAKE_ID)) %>%
   select( -ADDRESS_START, -address_type) %>%
   mutate(week = lubridate::week(DECISION_DATE),
-         year = lubridate::year(DECISION_DATE))
+         two_week = findInterval(DECISION_DATE, two_weeks$two_week_date),
+         year = lubridate::year(DECISION_DATE)) %>%
+  left_join(two_weeks, by = c("two_week" = "two_week_num"))
+
+
 
 ##Annual counts
 d_yearly <- d %>%
@@ -58,16 +67,16 @@ d_neigh <- d_neigh %>%
 
 
 screen_neighborhood <- d_neigh %>%
-  group_by(neighborhood, year, week) %>%
+  group_by(neighborhood, year, two_week) %>%
   summarize(n_screened_in = sum(screened_in == TRUE, na.rm = TRUE),
             n_calls = n(), .groups = "drop")  %>%
   ungroup() %>% 
-  group_by(year, week) %>%
+  group_by(year, two_week) %>%
   bind_rows(summarize(., across(where(is.numeric), sum),
                       across(where(is.character), ~"Total")))
 
 screen_neighborhood <- screen_neighborhood %>%
-  group_by(neighborhood, year, week) %>%
+  group_by(neighborhood, year, two_week) %>%
   mutate(screen_in_rate = round(n_screened_in/n_calls,2)) %>%
   mutate_at(vars(n_screened_in, n_calls),
             ~ifelse(.x < 5, NA, .x))
