@@ -11,6 +11,14 @@ d <- d %>%
                                nrow(.), replace = T)) %>%
   mutate(DECISION_DATE = format(DECISION_DATE, "%m/%d/%Y"))
 
-
-
 write_csv(d, 'simulated_jfs_data_geocoded_all_years_bigger.csv')
+
+#Add in birth dates
+d2 <- read_csv('simulated_jfs_data_geocoded_all_years_bigger.csv')
+
+d2 <- d2 %>%
+  mutate(BIRTH_DATE = sample(seq(as.Date('2003-01-01'), as.Date('2021-12-31'), by = "day"), 
+                             nrow(.), replace = T)) %>%
+  mutate(BIRTH_DATE = format(BIRTH_DATE, "%m/%d/%Y"))
+
+write_csv(d2, 'simulated_jfs_data_geocoded_all_years_bigger_2.csv')
