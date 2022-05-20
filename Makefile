@@ -9,7 +9,7 @@ build:
 	docker build -t $(IMAGE) .
 
 test:
-	docker run --rm -v "${PWD}/test":/tmp $(IMAGE) simulated_jfs_data_geocoded_all_years_bigger.csv
+	docker run --rm -v "${PWD}/test":/tmp $(IMAGE) simulated_jfs_data_geocoded_all_years_bigger_2.csv
 
 shell:
 	docker run --rm -it --entrypoint=/bin/bash -v "${PWD}/test":/tmp $(IMAGE)
