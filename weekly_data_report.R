@@ -73,8 +73,8 @@ print(knitr::kable(d_yearly))
 
 ### Weekly Counts
 d_neigh <- d  %>%
-  #mutate(fips_tract_id = as.character(fips_tract_id)) %>% #comment these out when testing with concentrated data
-  #left_join(tract_to_neighborhood, by='fips_tract_id') %>%
+  mutate(fips_tract_id = as.character(fips_tract_id)) %>% #comment these out when testing with concentrated data
+  left_join(tract_to_neighborhood, by='fips_tract_id') %>%
   filter(!is.na(DECISION_DATE))
 
 d_neigh <- d_neigh %>%
