@@ -71,7 +71,7 @@ print(knitr::kable(d_yearly))
 
 ##
 
-### Weekly Counts
+### Bi-Weekly Counts
 d_neigh <- d  %>%
   mutate(fips_tract_id = as.character(fips_tract_id)) %>% #comment these out when testing with concentrated data
   left_join(tract_to_neighborhood, by='fips_tract_id') %>%
@@ -80,54 +80,81 @@ d_neigh <- d  %>%
 d_neigh <- d_neigh %>%
   mutate(neighborhood = ifelse(is.na(lat), 'Missing', neighborhood))
 
-screen_neighborhood <- d_neigh %>%
-  group_by(neighborhood, year, two_week) %>%
-  summarise(n_screened_in_all = sum(screened_in == TRUE, na.rm = TRUE),
-            n_calls_all = n(),
-            n_screened_in_less_5 = sum(screened_in == TRUE & age_grp == 'zero_five', na.rm = TRUE),
-            n_calls_less_5 = length(INTAKE_ID[age_grp == 'zero_five']),
-            n_screened_in_greater_5 = sum(screened_in == TRUE & age_grp == 'five_plus', na.rm = TRUE),
-            n_calls_greater_5 = length(INTAKE_ID[age_grp == 'five_plus']),
-            n_screened_in_no_bd = sum(screened_in == TRUE & age_grp == 'no_birth_date', na.rm = TRUE),
-            n_calls_no_bd = length(INTAKE_ID[age_grp == 'no_birth_date']),
-            n_screened_in_MR = sum(screened_in == TRUE & MANDATED_REPORTER == 'Yes', na.rm = TRUE),
-            n_calls_MR = length(INTAKE_ID[MANDATED_REPORTER == 'Yes']),
-            n_screened_in_NON_MR = sum(screened_in == TRUE & MANDATED_REPORTER == 'No', na.rm = TRUE),
-            n_calls_NON_MR = length(INTAKE_ID[MANDATED_REPORTER == 'No']),
+screen_neighborhood_age <- d_neigh %>%
+  group_by(neighborhood, year, two_week, age_grp) %>%
+  summarise(n_screened_in = sum(screened_in == TRUE, na.rm = TRUE),
+            n_calls = n(),
             .groups = "keep"
             ) %>%
   ungroup() %>% 
   group_by(year, two_week) %>%
   bind_rows(summarize(., across(where(is.numeric), sum),
                       across(where(is.character), ~"Total"), .groups = "keep"))
-  
+
+screen_neighborhood_age <- screen_neighborhood_age %>%
+  rename(group = "age_grp")
+
+
+screen_neighborhood_MR <- d_neigh %>%
+  group_by(neighborhood, year, two_week, MANDATED_REPORTER) %>%
+  summarise(n_screened_in = sum(screened_in == TRUE, na.rm = TRUE),
+            n_calls = n(),
+            .groups = "keep"
+  ) %>%
+  ungroup() 
+
+screen_neighborhood_MR <- screen_neighborhood_MR %>%
+  mutate(MANDATED_REPORTER = recode_factor(MANDATED_REPORTER, Yes = "MR", No = "Non_MR")) %>%
+  rename(group = "MANDATED_REPORTER")
+
+screen_neighborhood <- rbind(screen_neighborhood_age, screen_neighborhood_MR) %>%
+  arrange(neighborhood, year, two_week)
+
+
+###---- Produces wide data format
+#   summarise(n_screened_in_all = sum(screened_in == TRUE, na.rm = TRUE),
+#             n_calls_all = n(),
+#             n_screened_in_less_5 = sum(screened_in == TRUE & age_grp == 'zero_five', na.rm = TRUE),
+#             n_calls_less_5 = length(INTAKE_ID[age_grp == 'zero_five']),
+#             n_screened_in_greater_5 = sum(screened_in == TRUE & age_grp == 'five_plus', na.rm = TRUE),
+#             n_calls_greater_5 = length(INTAKE_ID[age_grp == 'five_plus']),
+#             n_screened_in_no_bd = sum(screened_in == TRUE & age_grp == 'no_birth_date', na.rm = TRUE),
+#             n_calls_no_bd = length(INTAKE_ID[age_grp == 'no_birth_date']),
+#             n_screened_in_MR = sum(screened_in == TRUE & MANDATED_REPORTER == 'Yes', na.rm = TRUE),
+#             n_calls_MR = length(INTAKE_ID[MANDATED_REPORTER == 'Yes']),
+#             n_screened_in_NON_MR = sum(screened_in == TRUE & MANDATED_REPORTER == 'No', na.rm = TRUE),
+#             n_calls_NON_MR = length(INTAKE_ID[MANDATED_REPORTER == 'No']),
+#             .groups = "keep"
+#             ) %>%
+#   ungroup() %>% 
+#   group_by(year, two_week) %>%
+#   bind_rows(summarize(., across(where(is.numeric), sum),
+#                       across(where(is.character), ~"Total"), .groups = "keep"))
+#   
+# 
+# screen_neighborhood_rate <- screen_neighborhood %>%
+#   group_by(neighborhood, year, two_week) %>%
+#   mutate(screen_in_rate_all = round(n_screened_in_all/n_calls_all,2),
+#          screen_in_rate_less_5 = round(n_screened_in_less_5/n_calls_less_5,2),
+#          screen_in_rate_greater_5 = round(n_screened_in_greater_5/n_calls_greater_5,2),
+#          screen_in_rate_no_bd = round(n_screened_in_no_bd/n_calls_no_bd,2),
+#          screen_in_rate_MR = round(n_screened_in_MR/n_calls_MR,2),
+#          screen_in_rate_NON_MR = round(n_screened_in_NON_MR/n_calls_NON_MR,2)
+#          ) %>%
+#   mutate(across(starts_with('n_'),
+#             ~ifelse(.x < 5, NA, .x)))
+##---
 
 screen_neighborhood_rate <- screen_neighborhood %>%
-  group_by(neighborhood, year, two_week) %>%
-  mutate(screen_in_rate_all = round(n_screened_in_all/n_calls_all,2),
-         screen_in_rate_less_5 = round(n_screened_in_less_5/n_calls_less_5,2),
-         screen_in_rate_greater_5 = round(n_screened_in_greater_5/n_calls_greater_5,2),
-         screen_in_rate_no_bd = round(n_screened_in_no_bd/n_calls_no_bd,2),
-         screen_in_rate_MR = round(n_screened_in_MR/n_calls_MR,2),
-         screen_in_rate_NON_MR = round(n_screened_in_NON_MR/n_calls_NON_MR,2)
-         ) %>%
+  rowwise() %>%
+  mutate(screen_in_rate = round(n_screened_in / n_calls, 2)) %>%
   mutate(across(starts_with('n_'),
-            ~ifelse(.x < 5, NA, .x)))
+                ~ifelse(.x < 5, NA, .x)))
+
+
 
 ##
-d_csv <- screen_neighborhood_rate 
-#%>%
-  # pivot_longer(cols = c(starts_with("n_"),
-  #                       starts_with("screen")), 
-  #              values_to = "val", 
-  #              names_to = "grouping") %>%
-  # 
-  # pivot_longer(cols = starts_with("screen"), values_to = "screen_in_rate", names_to = "rate_grouping")# %>%
-  # mutate(grouping = str_replace(grouping, "n_calls_", ""),
-  #        grouping = str_replace(grouping, "n_screened_in_", ""),
-  #        rate_grouping = str_replace(rate_grouping, "screen_in_rate_", ""))
-
-
+d_csv <- screen_neighborhood_rate
 
 # d_csv <- screen_neighborhood_rate %>%
 #   select(neighborhood, year, two_week,
