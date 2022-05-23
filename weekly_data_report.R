@@ -1,4 +1,4 @@
-# #test file
+# # #test file
 # d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger_2.csv',
 #               col_types = cols(INTAKE_ID = col_character(),
 #                                SCREENING_DECISION = col_character(),
@@ -65,7 +65,7 @@ d <- d %>%
 ##Annual counts
 d_yearly <- d %>%
   group_by(year) %>%
-  summarize(num_year = n())
+  summarize(num_year = n(), .groups = "keep")
 
 print(knitr::kable(d_yearly))
 
@@ -93,12 +93,13 @@ screen_neighborhood <- d_neigh %>%
             n_screened_in_MR = sum(screened_in == TRUE & MANDATED_REPORTER == 'Yes', na.rm = TRUE),
             n_calls_MR = length(INTAKE_ID[MANDATED_REPORTER == 'Yes']),
             n_screened_in_NON_MR = sum(screened_in == TRUE & MANDATED_REPORTER == 'No', na.rm = TRUE),
-            n_calls_NON_MR = length(INTAKE_ID[MANDATED_REPORTER == 'No'])
+            n_calls_NON_MR = length(INTAKE_ID[MANDATED_REPORTER == 'No']),
+            .groups = "keep"
             ) %>%
   ungroup() %>% 
   group_by(year, two_week) %>%
   bind_rows(summarize(., across(where(is.numeric), sum),
-                      across(where(is.character), ~"Total")))
+                      across(where(is.character), ~"Total"), .groups = "keep"))
   
 
 screen_neighborhood_rate <- screen_neighborhood %>%
@@ -114,7 +115,20 @@ screen_neighborhood_rate <- screen_neighborhood %>%
             ~ifelse(.x < 5, NA, .x)))
 
 ##
-d_csv <- screen_neighborhood_rate
+d_csv <- screen_neighborhood_rate 
+#%>%
+  # pivot_longer(cols = c(starts_with("n_"),
+  #                       starts_with("screen")), 
+  #              values_to = "val", 
+  #              names_to = "grouping") %>%
+  # 
+  # pivot_longer(cols = starts_with("screen"), values_to = "screen_in_rate", names_to = "rate_grouping")# %>%
+  # mutate(grouping = str_replace(grouping, "n_calls_", ""),
+  #        grouping = str_replace(grouping, "n_screened_in_", ""),
+  #        rate_grouping = str_replace(rate_grouping, "screen_in_rate_", ""))
+
+
+
 # d_csv <- screen_neighborhood_rate %>%
 #   select(neighborhood, year, two_week,
 #          number_of_calls = n_calls,
