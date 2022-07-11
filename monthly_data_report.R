@@ -1,33 +1,33 @@
 # # #test file
-d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger_2.csv',
-              col_types = cols(INTAKE_ID = col_character(),
-                               SCREENING_DECISION = col_character(),
-                               #DECISION_DATE = col_character(),
-                               DECISION_DATE = col_date(format = "%m/%d/%Y"),
-                               BIRTH_DATE = col_date(format = "%m/%d/%Y"),
-                               PERSON_ID = col_character(),
-                               RACE = col_character(),
-                               ADDRESS_START = col_date(),
-                               MANDATED_REPORTER = col_character(),
-                               #  REPORTER_PERSON_ID = col_character(),
-                               address_type = col_character(),
-                               address = col_character(),
-                               bad_address = col_logical(),
-                               PO = col_logical(),
-                               lat = col_double(),
-                               lon = col_double(),
-                               score = col_double(),
-                               precision = col_character(),
-                               precise_geocode = col_logical(),
-                               fips_tract_id = col_character(),
-                               fraction_assisted_income = col_double(),
-                               fraction_high_school_edu = col_double(),
-                               median_income = col_double(),
-                               fraction_no_health_ins = col_double(),
-                               fraction_poverty = col_double(),
-                               fraction_vacant_housing = col_double(),
-                               dep_index = col_double()
-              ))
+# d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger_2.csv',
+#               col_types = cols(INTAKE_ID = col_character(),
+#                                SCREENING_DECISION = col_character(),
+#                                #DECISION_DATE = col_character(),
+#                                DECISION_DATE = col_date(format = "%m/%d/%Y"),
+#                                BIRTH_DATE = col_date(format = "%m/%d/%Y"),
+#                                PERSON_ID = col_character(),
+#                                RACE = col_character(),
+#                                ADDRESS_START = col_date(),
+#                                MANDATED_REPORTER = col_character(),
+#                                #  REPORTER_PERSON_ID = col_character(),
+#                                address_type = col_character(),
+#                                address = col_character(),
+#                                bad_address = col_logical(),
+#                                PO = col_logical(),
+#                                lat = col_double(),
+#                                lon = col_double(),
+#                                score = col_double(),
+#                                precision = col_character(),
+#                                precise_geocode = col_logical(),
+#                                fips_tract_id = col_character(),
+#                                fraction_assisted_income = col_double(),
+#                                fraction_high_school_edu = col_double(),
+#                                median_income = col_double(),
+#                                fraction_no_health_ins = col_double(),
+#                                fraction_poverty = col_double(),
+#                                fraction_vacant_housing = col_double(),
+#                                dep_index = col_double()
+#               ))
 
 options(dplyr.summarise.inform = FALSE)
 
@@ -177,5 +177,5 @@ d_csv <- screen_neighborhood_rate
 #          screen_in_rate = screen_in_rate)
 
 path <- "/tmp/"
-write.csv(d_csv, paste(path, "weekly_report_v4.1.0.csv", sep = ''))
+write.csv(d_csv, paste(path, "weekly_report_v4.1.1.csv", sep = ''))
 
