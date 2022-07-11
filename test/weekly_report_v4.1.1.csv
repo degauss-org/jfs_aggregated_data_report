@@ -1,0 +1,3166 @@
+"","neighborhood","year","month","group","n_screened_in","n_calls","screen_in_rate"
+"1","Amberley",2017,11,"zero_five",NA,NA,1
+"2","Amberley",2017,11,"MR",NA,NA,1
+"3","Amberley",2017,11,"Total",NA,NA,1
+"4","Amberley",2018,2,"no_birth_date",NA,NA,1
+"5","Amberley",2018,2,"MR",NA,NA,1
+"6","Amberley",2018,2,"Total",NA,NA,1
+"7","Amberley",2018,3,"five_plus",NA,NA,1
+"8","Amberley",2018,3,"MR",NA,NA,1
+"9","Amberley",2018,3,"Total",NA,NA,1
+"10","Amberley",2018,11,"five_plus",NA,NA,1
+"11","Amberley",2018,11,"MR",NA,NA,1
+"12","Amberley",2018,11,"Total",NA,NA,1
+"13","Amberley",2018,12,"five_plus",NA,NA,1
+"14","Amberley",2018,12,"MR",NA,NA,1
+"15","Amberley",2018,12,"Total",NA,NA,1
+"16","Amberley",2020,2,"five_plus",NA,NA,1
+"17","Amberley",2020,2,"MR",NA,NA,1
+"18","Amberley",2020,2,"Total",NA,NA,1
+"19","Anderson Twp.-Newtown",2017,1,"zero_five",NA,NA,1
+"20","Anderson Twp.-Newtown",2017,1,"Non_MR",NA,NA,1
+"21","Anderson Twp.-Newtown",2017,1,"Total",NA,NA,1
+"22","Anderson Twp.-Newtown",2017,3,"five_plus",NA,NA,1
+"23","Anderson Twp.-Newtown",2017,3,"Non_MR",NA,NA,1
+"24","Anderson Twp.-Newtown",2017,3,"Total",NA,NA,1
+"25","Anderson Twp.-Newtown",2017,4,"five_plus",NA,NA,0
+"26","Anderson Twp.-Newtown",2017,4,"zero_five",NA,NA,0
+"27","Anderson Twp.-Newtown",2017,4,"MR",NA,NA,0
+"28","Anderson Twp.-Newtown",2017,4,"Total",NA,6,0
+"29","Anderson Twp.-Newtown",2017,5,"five_plus",NA,NA,1
+"30","Anderson Twp.-Newtown",2017,5,"Non_MR",NA,NA,1
+"31","Anderson Twp.-Newtown",2017,5,"Total",NA,NA,1
+"32","Anderson Twp.-Newtown",2017,6,"five_plus",NA,NA,0
+"33","Anderson Twp.-Newtown",2017,6,"MR",NA,NA,0
+"34","Anderson Twp.-Newtown",2017,6,"Total",NA,NA,0
+"35","Anderson Twp.-Newtown",2017,7,"five_plus",NA,NA,0.5
+"36","Anderson Twp.-Newtown",2017,7,"Non_MR",NA,NA,0.5
+"37","Anderson Twp.-Newtown",2017,7,"Total",NA,NA,0.5
+"38","Anderson Twp.-Newtown",2017,8,"zero_five",NA,NA,1
+"39","Anderson Twp.-Newtown",2017,8,"Non_MR",NA,NA,1
+"40","Anderson Twp.-Newtown",2017,8,"Total",NA,NA,1
+"41","Anderson Twp.-Newtown",2017,11,"five_plus",NA,NA,0
+"42","Anderson Twp.-Newtown",2017,11,"MR",NA,NA,0
+"43","Anderson Twp.-Newtown",2017,11,"Total",NA,NA,0
+"44","Anderson Twp.-Newtown",2018,2,"five_plus",NA,NA,0
+"45","Anderson Twp.-Newtown",2018,2,"zero_five",NA,NA,0.5
+"46","Anderson Twp.-Newtown",2018,2,"Non_MR",NA,NA,0
+"47","Anderson Twp.-Newtown",2018,2,"MR",NA,NA,0.5
+"48","Anderson Twp.-Newtown",2018,2,"Total",NA,6,0.33
+"49","Anderson Twp.-Newtown",2018,3,"zero_five",NA,NA,0
+"50","Anderson Twp.-Newtown",2018,3,"Non_MR",NA,NA,0
+"51","Anderson Twp.-Newtown",2018,3,"MR",NA,NA,0
+"52","Anderson Twp.-Newtown",2018,3,"Total",NA,6,0
+"53","Anderson Twp.-Newtown",2018,5,"five_plus",NA,NA,0.5
+"54","Anderson Twp.-Newtown",2018,5,"Non_MR",NA,NA,1
+"55","Anderson Twp.-Newtown",2018,5,"MR",NA,NA,0
+"56","Anderson Twp.-Newtown",2018,5,"Total",NA,NA,0.5
+"57","Anderson Twp.-Newtown",2018,6,"five_plus",NA,NA,1
+"58","Anderson Twp.-Newtown",2018,6,"no_birth_date",NA,NA,0
+"59","Anderson Twp.-Newtown",2018,6,"zero_five",NA,NA,0
+"60","Anderson Twp.-Newtown",2018,6,"Non_MR",NA,NA,0
+"61","Anderson Twp.-Newtown",2018,6,"MR",NA,NA,0.5
+"62","Anderson Twp.-Newtown",2018,6,"Total",NA,6,0.33
+"63","Anderson Twp.-Newtown",2018,8,"no_birth_date",NA,NA,0
+"64","Anderson Twp.-Newtown",2018,8,"Non_MR",NA,NA,0
+"65","Anderson Twp.-Newtown",2018,8,"Total",NA,NA,0
+"66","Anderson Twp.-Newtown",2018,9,"five_plus",NA,NA,0.5
+"67","Anderson Twp.-Newtown",2018,9,"Non_MR",NA,NA,0.5
+"68","Anderson Twp.-Newtown",2018,9,"Total",NA,NA,0.5
+"69","Anderson Twp.-Newtown",2018,10,"five_plus",NA,NA,1
+"70","Anderson Twp.-Newtown",2018,10,"zero_five",NA,NA,1
+"71","Anderson Twp.-Newtown",2018,10,"Non_MR",NA,NA,1
+"72","Anderson Twp.-Newtown",2018,10,"MR",NA,NA,1
+"73","Anderson Twp.-Newtown",2018,10,"Total",NA,NA,1
+"74","Anderson Twp.-Newtown",2018,11,"five_plus",NA,NA,0
+"75","Anderson Twp.-Newtown",2018,11,"Non_MR",NA,NA,0
+"76","Anderson Twp.-Newtown",2018,11,"Total",NA,NA,0
+"77","Anderson Twp.-Newtown",2018,12,"five_plus",NA,NA,0
+"78","Anderson Twp.-Newtown",2018,12,"zero_five",NA,NA,1
+"79","Anderson Twp.-Newtown",2018,12,"MR",NA,NA,0.5
+"80","Anderson Twp.-Newtown",2018,12,"Total",NA,NA,0.5
+"81","Anderson Twp.-Newtown",2019,3,"five_plus",NA,NA,1
+"82","Anderson Twp.-Newtown",2019,3,"zero_five",NA,NA,0
+"83","Anderson Twp.-Newtown",2019,3,"Non_MR",NA,NA,1
+"84","Anderson Twp.-Newtown",2019,3,"MR",NA,NA,0
+"85","Anderson Twp.-Newtown",2019,3,"Total",NA,6,0.67
+"86","Anderson Twp.-Newtown",2019,4,"five_plus",NA,NA,0
+"87","Anderson Twp.-Newtown",2019,4,"Non_MR",NA,NA,0
+"88","Anderson Twp.-Newtown",2019,4,"Total",NA,NA,0
+"89","Anderson Twp.-Newtown",2019,5,"five_plus",NA,NA,0.5
+"90","Anderson Twp.-Newtown",2019,5,"Non_MR",NA,NA,1
+"91","Anderson Twp.-Newtown",2019,5,"MR",NA,NA,0
+"92","Anderson Twp.-Newtown",2019,5,"Total",NA,NA,0.5
+"93","Anderson Twp.-Newtown",2019,6,"five_plus",NA,NA,0.5
+"94","Anderson Twp.-Newtown",2019,6,"Non_MR",NA,NA,0
+"95","Anderson Twp.-Newtown",2019,6,"MR",NA,NA,1
+"96","Anderson Twp.-Newtown",2019,6,"Total",NA,NA,0.5
+"97","Anderson Twp.-Newtown",2019,7,"five_plus",NA,NA,0
+"98","Anderson Twp.-Newtown",2019,7,"no_birth_date",NA,NA,0
+"99","Anderson Twp.-Newtown",2019,7,"zero_five",NA,NA,0.5
+"100","Anderson Twp.-Newtown",2019,7,"Non_MR",NA,NA,0.33
+"101","Anderson Twp.-Newtown",2019,7,"MR",NA,NA,0
+"102","Anderson Twp.-Newtown",2019,7,"Total",NA,10,0.2
+"103","Anderson Twp.-Newtown",2019,8,"five_plus",NA,NA,0
+"104","Anderson Twp.-Newtown",2019,8,"zero_five",NA,NA,1
+"105","Anderson Twp.-Newtown",2019,8,"Non_MR",NA,NA,1
+"106","Anderson Twp.-Newtown",2019,8,"MR",NA,NA,0
+"107","Anderson Twp.-Newtown",2019,8,"Total",NA,NA,0.5
+"108","Anderson Twp.-Newtown",2019,9,"zero_five",NA,NA,1
+"109","Anderson Twp.-Newtown",2019,9,"Non_MR",NA,NA,1
+"110","Anderson Twp.-Newtown",2019,9,"Total",NA,NA,1
+"111","Anderson Twp.-Newtown",2019,10,"zero_five",NA,NA,0.5
+"112","Anderson Twp.-Newtown",2019,10,"Non_MR",NA,NA,0
+"113","Anderson Twp.-Newtown",2019,10,"MR",NA,NA,1
+"114","Anderson Twp.-Newtown",2019,10,"Total",NA,NA,0.5
+"115","Anderson Twp.-Newtown",2019,11,"five_plus",NA,NA,1
+"116","Anderson Twp.-Newtown",2019,11,"MR",NA,NA,1
+"117","Anderson Twp.-Newtown",2019,11,"Total",NA,NA,1
+"118","Anderson Twp.-Newtown",2019,12,"five_plus",NA,NA,0.5
+"119","Anderson Twp.-Newtown",2019,12,"Non_MR",NA,NA,1
+"120","Anderson Twp.-Newtown",2019,12,"MR",NA,NA,0
+"121","Anderson Twp.-Newtown",2019,12,"Total",NA,NA,0.5
+"122","Anderson Twp.-Newtown",2020,1,"zero_five",NA,NA,1
+"123","Anderson Twp.-Newtown",2020,1,"Non_MR",NA,NA,1
+"124","Anderson Twp.-Newtown",2020,1,"MR",NA,NA,1
+"125","Anderson Twp.-Newtown",2020,1,"Total",NA,NA,1
+"126","Anderson Twp.-Newtown",2020,2,"five_plus",NA,NA,0
+"127","Anderson Twp.-Newtown",2020,2,"Non_MR",NA,NA,0
+"128","Anderson Twp.-Newtown",2020,2,"Total",NA,NA,0
+"129","Anderson Twp.-Newtown",2020,3,"zero_five",NA,NA,1
+"130","Anderson Twp.-Newtown",2020,3,"Non_MR",NA,NA,1
+"131","Anderson Twp.-Newtown",2020,3,"Total",NA,NA,1
+"132","Anderson Twp.-Newtown",2020,4,"five_plus",NA,NA,0
+"133","Anderson Twp.-Newtown",2020,4,"MR",NA,NA,0
+"134","Anderson Twp.-Newtown",2020,4,"Total",NA,NA,0
+"135","Anderson Twp.-Newtown",2020,6,"five_plus",NA,NA,1
+"136","Anderson Twp.-Newtown",2020,6,"Non_MR",NA,NA,1
+"137","Anderson Twp.-Newtown",2020,6,"Total",NA,NA,1
+"138","Anderson Twp.-Newtown",2020,7,"zero_five",NA,NA,1
+"139","Anderson Twp.-Newtown",2020,7,"Non_MR",NA,NA,1
+"140","Anderson Twp.-Newtown",2020,7,"Total",NA,NA,1
+"141","Anderson Twp.-Newtown",2020,9,"five_plus",NA,NA,0
+"142","Anderson Twp.-Newtown",2020,9,"zero_five",NA,NA,0
+"143","Anderson Twp.-Newtown",2020,9,"MR",NA,NA,0
+"144","Anderson Twp.-Newtown",2020,9,"Total",NA,NA,0
+"145","Anderson Twp.-Newtown",2020,10,"zero_five",NA,NA,1
+"146","Anderson Twp.-Newtown",2020,10,"Non_MR",NA,NA,1
+"147","Anderson Twp.-Newtown",2020,10,"Total",NA,NA,1
+"148","Anderson Twp.-Newtown",2020,11,"five_plus",NA,NA,1
+"149","Anderson Twp.-Newtown",2020,11,"Non_MR",NA,NA,1
+"150","Anderson Twp.-Newtown",2020,11,"MR",NA,NA,1
+"151","Anderson Twp.-Newtown",2020,11,"Total",NA,NA,1
+"152","Anderson Twp.-Newtown",2020,12,"five_plus",NA,NA,0
+"153","Anderson Twp.-Newtown",2020,12,"zero_five",NA,NA,1
+"154","Anderson Twp.-Newtown",2020,12,"Non_MR",NA,NA,1
+"155","Anderson Twp.-Newtown",2020,12,"MR",NA,NA,0
+"156","Anderson Twp.-Newtown",2020,12,"Total",NA,6,0.67
+"157","Anderson Twp.-Newtown",2021,1,"five_plus",NA,NA,1
+"158","Anderson Twp.-Newtown",2021,1,"zero_five",NA,NA,0
+"159","Anderson Twp.-Newtown",2021,1,"Non_MR",NA,NA,0.5
+"160","Anderson Twp.-Newtown",2021,1,"Total",NA,8,0.5
+"161","Anderson Twp.-Newtown",2021,2,"five_plus",NA,NA,0
+"162","Anderson Twp.-Newtown",2021,2,"zero_five",NA,NA,1
+"163","Anderson Twp.-Newtown",2021,2,"Non_MR",NA,NA,1
+"164","Anderson Twp.-Newtown",2021,2,"MR",NA,NA,0
+"165","Anderson Twp.-Newtown",2021,2,"Total",NA,NA,0.5
+"166","Anderson Twp.-Newtown",2021,3,"zero_five",NA,NA,1
+"167","Anderson Twp.-Newtown",2021,3,"Non_MR",NA,NA,1
+"168","Anderson Twp.-Newtown",2021,3,"Total",NA,NA,1
+"169","Anderson Twp.-Newtown",2021,4,"five_plus",NA,NA,0.5
+"170","Anderson Twp.-Newtown",2021,4,"Non_MR",NA,NA,0
+"171","Anderson Twp.-Newtown",2021,4,"MR",NA,NA,1
+"172","Anderson Twp.-Newtown",2021,4,"Total",NA,NA,0.5
+"173","Anderson Twp.-Newtown",2021,6,"five_plus",NA,NA,1
+"174","Anderson Twp.-Newtown",2021,6,"zero_five",NA,NA,0
+"175","Anderson Twp.-Newtown",2021,6,"Non_MR",NA,NA,1
+"176","Anderson Twp.-Newtown",2021,6,"MR",NA,NA,0
+"177","Anderson Twp.-Newtown",2021,6,"Total",NA,NA,0.5
+"178","Anderson Twp.-Newtown",2021,8,"five_plus",NA,NA,0
+"179","Anderson Twp.-Newtown",2021,8,"Non_MR",NA,NA,0
+"180","Anderson Twp.-Newtown",2021,8,"Total",NA,NA,0
+"181","Anderson Twp.-Newtown",2021,9,"five_plus",NA,NA,1
+"182","Anderson Twp.-Newtown",2021,9,"zero_five",NA,NA,1
+"183","Anderson Twp.-Newtown",2021,9,"MR",NA,NA,1
+"184","Anderson Twp.-Newtown",2021,9,"Total",NA,NA,1
+"185","Anderson Twp.-Newtown",2021,10,"five_plus",NA,NA,1
+"186","Anderson Twp.-Newtown",2021,10,"Non_MR",NA,NA,1
+"187","Anderson Twp.-Newtown",2021,10,"Total",NA,NA,1
+"188","Anderson Twp.-Newtown",2021,11,"zero_five",NA,NA,0
+"189","Anderson Twp.-Newtown",2021,11,"Non_MR",NA,NA,0
+"190","Anderson Twp.-Newtown",2021,11,"Total",NA,NA,0
+"191","Avondale",2017,1,"zero_five",NA,NA,0
+"192","Avondale",2017,1,"Non_MR",NA,NA,0
+"193","Avondale",2017,1,"Total",NA,NA,0
+"194","Avondale",2017,3,"five_plus",NA,NA,1
+"195","Avondale",2017,3,"zero_five",NA,NA,0
+"196","Avondale",2017,3,"Non_MR",NA,NA,0
+"197","Avondale",2017,3,"MR",NA,NA,1
+"198","Avondale",2017,3,"Total",NA,NA,0.5
+"199","Avondale",2017,9,"zero_five",NA,NA,0
+"200","Avondale",2017,9,"MR",NA,NA,0
+"201","Avondale",2017,9,"Total",NA,NA,0
+"202","Avondale",2017,10,"zero_five",NA,NA,0
+"203","Avondale",2017,10,"Non_MR",NA,NA,0
+"204","Avondale",2017,10,"Total",NA,NA,0
+"205","Avondale",2018,2,"no_birth_date",NA,NA,1
+"206","Avondale",2018,2,"MR",NA,NA,1
+"207","Avondale",2018,2,"Total",NA,NA,1
+"208","Avondale",2018,5,"five_plus",NA,NA,0
+"209","Avondale",2018,5,"Non_MR",NA,NA,0
+"210","Avondale",2018,5,"Total",NA,NA,0
+"211","Avondale",2018,11,"five_plus",NA,NA,1
+"212","Avondale",2018,11,"MR",NA,NA,1
+"213","Avondale",2018,11,"Total",NA,NA,1
+"214","Avondale",2019,11,"no_birth_date",NA,NA,1
+"215","Avondale",2019,11,"MR",NA,NA,1
+"216","Avondale",2019,11,"Total",NA,NA,1
+"217","Avondale",2019,12,"no_birth_date",NA,NA,0
+"218","Avondale",2019,12,"Non_MR",NA,NA,0
+"219","Avondale",2019,12,"Total",NA,NA,0
+"220","Avondale",2020,2,"zero_five",NA,NA,0
+"221","Avondale",2020,2,"MR",NA,NA,0
+"222","Avondale",2020,2,"Total",NA,NA,0
+"223","Avondale",2020,4,"zero_five",NA,NA,1
+"224","Avondale",2020,4,"MR",NA,NA,1
+"225","Avondale",2020,4,"Total",NA,NA,1
+"226","Avondale",2020,5,"five_plus",NA,NA,0
+"227","Avondale",2020,5,"MR",NA,NA,0
+"228","Avondale",2020,5,"Total",NA,NA,0
+"229","Avondale",2020,12,"five_plus",NA,NA,0
+"230","Avondale",2020,12,"Non_MR",NA,NA,0
+"231","Avondale",2020,12,"MR",NA,NA,0
+"232","Avondale",2020,12,"Total",NA,NA,0
+"233","Avondale",2021,1,"no_birth_date",NA,NA,0
+"234","Avondale",2021,1,"MR",NA,NA,0
+"235","Avondale",2021,1,"Total",NA,NA,0
+"236","Avondale",2021,8,"five_plus",NA,NA,0
+"237","Avondale",2021,8,"MR",NA,NA,0
+"238","Avondale",2021,8,"Total",NA,NA,0
+"239","Blue Ash",2017,4,"five_plus",NA,NA,1
+"240","Blue Ash",2017,4,"Non_MR",NA,NA,1
+"241","Blue Ash",2017,4,"Total",NA,NA,1
+"242","Blue Ash",2017,8,"five_plus",NA,NA,1
+"243","Blue Ash",2017,8,"zero_five",NA,NA,1
+"244","Blue Ash",2017,8,"Non_MR",NA,NA,1
+"245","Blue Ash",2017,8,"Total",NA,NA,1
+"246","Blue Ash",2018,1,"zero_five",NA,NA,0
+"247","Blue Ash",2018,1,"MR",NA,NA,0
+"248","Blue Ash",2018,1,"Total",NA,NA,0
+"249","Blue Ash",2018,6,"five_plus",NA,NA,1
+"250","Blue Ash",2018,6,"Non_MR",NA,NA,1
+"251","Blue Ash",2018,6,"Total",NA,NA,1
+"252","Blue Ash",2018,7,"five_plus",NA,NA,0
+"253","Blue Ash",2018,7,"zero_five",NA,NA,1
+"254","Blue Ash",2018,7,"Non_MR",NA,NA,1
+"255","Blue Ash",2018,7,"MR",NA,NA,0
+"256","Blue Ash",2018,7,"Total",NA,NA,0.5
+"257","Blue Ash",2019,9,"five_plus",NA,NA,1
+"258","Blue Ash",2019,9,"Non_MR",NA,NA,1
+"259","Blue Ash",2019,9,"Total",NA,NA,1
+"260","Blue Ash",2019,11,"five_plus",NA,NA,0
+"261","Blue Ash",2019,11,"MR",NA,NA,0
+"262","Blue Ash",2019,11,"Total",NA,NA,0
+"263","Blue Ash",2020,9,"five_plus",NA,NA,0
+"264","Blue Ash",2020,9,"MR",NA,NA,0
+"265","Blue Ash",2020,9,"Total",NA,NA,0
+"266","Blue Ash",2021,4,"no_birth_date",NA,NA,0
+"267","Blue Ash",2021,4,"MR",NA,NA,0
+"268","Blue Ash",2021,4,"Total",NA,NA,0
+"269","Blue Ash",2021,9,"zero_five",NA,NA,0
+"270","Blue Ash",2021,9,"MR",NA,NA,0
+"271","Blue Ash",2021,9,"Total",NA,NA,0
+"272","Bond Hill",2017,1,"zero_five",NA,NA,1
+"273","Bond Hill",2017,1,"Non_MR",NA,NA,1
+"274","Bond Hill",2017,1,"Total",NA,NA,1
+"275","Bond Hill",2017,2,"zero_five",NA,NA,1
+"276","Bond Hill",2017,2,"Non_MR",NA,NA,1
+"277","Bond Hill",2017,2,"Total",NA,NA,1
+"278","Bond Hill",2017,3,"five_plus",NA,NA,1
+"279","Bond Hill",2017,3,"Non_MR",NA,NA,1
+"280","Bond Hill",2017,3,"Total",NA,NA,1
+"281","Bond Hill",2017,7,"zero_five",NA,NA,1
+"282","Bond Hill",2017,7,"Non_MR",NA,NA,1
+"283","Bond Hill",2017,7,"Total",NA,NA,1
+"284","Bond Hill",2018,2,"zero_five",NA,NA,1
+"285","Bond Hill",2018,2,"Non_MR",NA,NA,1
+"286","Bond Hill",2018,2,"Total",NA,NA,1
+"287","Bond Hill",2019,10,"five_plus",NA,NA,1
+"288","Bond Hill",2019,10,"Non_MR",NA,NA,1
+"289","Bond Hill",2019,10,"Total",NA,NA,1
+"290","Cheviot",2017,4,"zero_five",NA,NA,1
+"291","Cheviot",2017,4,"Non_MR",NA,NA,1
+"292","Cheviot",2017,4,"Total",NA,NA,1
+"293","Cheviot",2017,7,"zero_five",NA,NA,1
+"294","Cheviot",2017,7,"Non_MR",NA,NA,1
+"295","Cheviot",2017,7,"Total",NA,NA,1
+"296","Cheviot",2017,9,"five_plus",NA,NA,1
+"297","Cheviot",2017,9,"MR",NA,NA,1
+"298","Cheviot",2017,9,"Total",NA,NA,1
+"299","Cheviot",2017,11,"zero_five",NA,NA,1
+"300","Cheviot",2017,11,"Non_MR",NA,NA,1
+"301","Cheviot",2017,11,"Total",NA,NA,1
+"302","Cheviot",2018,5,"five_plus",NA,NA,1
+"303","Cheviot",2018,5,"zero_five",NA,NA,1
+"304","Cheviot",2018,5,"Non_MR",NA,NA,1
+"305","Cheviot",2018,5,"MR",NA,NA,1
+"306","Cheviot",2018,5,"Total",NA,NA,1
+"307","Cheviot",2018,6,"zero_five",NA,NA,1
+"308","Cheviot",2018,6,"Non_MR",NA,NA,1
+"309","Cheviot",2018,6,"Total",NA,NA,1
+"310","Cheviot",2018,7,"five_plus",NA,NA,1
+"311","Cheviot",2018,7,"no_birth_date",NA,NA,1
+"312","Cheviot",2018,7,"zero_five",NA,NA,1
+"313","Cheviot",2018,7,"Non_MR",NA,NA,1
+"314","Cheviot",2018,7,"MR",NA,NA,1
+"315","Cheviot",2018,7,"Total",6,6,1
+"316","Cheviot",2018,9,"five_plus",NA,NA,1
+"317","Cheviot",2018,9,"zero_five",NA,NA,1
+"318","Cheviot",2018,9,"Non_MR",NA,NA,1
+"319","Cheviot",2018,9,"Total",NA,NA,1
+"320","Cheviot",2019,10,"no_birth_date",NA,NA,1
+"321","Cheviot",2019,10,"zero_five",NA,NA,1
+"322","Cheviot",2019,10,"Non_MR",NA,NA,1
+"323","Cheviot",2019,10,"Total",NA,NA,1
+"324","Cheviot",2020,5,"zero_five",NA,NA,1
+"325","Cheviot",2020,5,"Non_MR",NA,NA,1
+"326","Cheviot",2020,5,"Total",NA,NA,1
+"327","Cheviot",2020,8,"zero_five",NA,NA,1
+"328","Cheviot",2020,8,"MR",NA,NA,1
+"329","Cheviot",2020,8,"Total",NA,NA,1
+"330","Cheviot",2020,12,"five_plus",NA,NA,1
+"331","Cheviot",2020,12,"MR",NA,NA,1
+"332","Cheviot",2020,12,"Total",NA,NA,1
+"333","Cheviot",2021,1,"five_plus",NA,NA,1
+"334","Cheviot",2021,1,"no_birth_date",NA,NA,1
+"335","Cheviot",2021,1,"Non_MR",NA,NA,1
+"336","Cheviot",2021,1,"Total",NA,NA,1
+"337","Cheviot",2021,3,"five_plus",NA,NA,1
+"338","Cheviot",2021,3,"zero_five",NA,NA,1
+"339","Cheviot",2021,3,"Non_MR",NA,NA,1
+"340","Cheviot",2021,3,"MR",NA,NA,1
+"341","Cheviot",2021,3,"Total",NA,NA,1
+"342","Cheviot",2021,4,"five_plus",NA,NA,1
+"343","Cheviot",2021,4,"Non_MR",NA,NA,1
+"344","Cheviot",2021,4,"Total",NA,NA,1
+"345","Cheviot",2021,8,"five_plus",NA,NA,1
+"346","Cheviot",2021,8,"Non_MR",NA,NA,1
+"347","Cheviot",2021,8,"Total",NA,NA,1
+"348","Cheviot",2021,9,"five_plus",NA,NA,1
+"349","Cheviot",2021,9,"Non_MR",NA,NA,1
+"350","Cheviot",2021,9,"Total",NA,NA,1
+"351","Cheviot",2021,10,"five_plus",NA,NA,1
+"352","Cheviot",2021,10,"Non_MR",NA,NA,1
+"353","Cheviot",2021,10,"Total",NA,NA,1
+"354","Cheviot",2021,11,"five_plus",NA,NA,1
+"355","Cheviot",2021,11,"Non_MR",NA,NA,1
+"356","Cheviot",2021,11,"Total",NA,NA,1
+"357","Cheviot",2021,12,"five_plus",NA,NA,1
+"358","Cheviot",2021,12,"Non_MR",NA,NA,1
+"359","Cheviot",2021,12,"Total",NA,NA,1
+"360","Clifton",2017,7,"zero_five",NA,NA,0
+"361","Clifton",2017,7,"MR",NA,NA,0
+"362","Clifton",2017,7,"Total",NA,NA,0
+"363","Clifton",2017,9,"zero_five",NA,NA,0
+"364","Clifton",2017,9,"MR",NA,NA,0
+"365","Clifton",2017,9,"Total",NA,NA,0
+"366","Clifton",2018,6,"five_plus",NA,NA,0
+"367","Clifton",2018,6,"MR",NA,NA,0
+"368","Clifton",2018,6,"Total",NA,NA,0
+"369","Clifton",2019,5,"zero_five",NA,NA,0
+"370","Clifton",2019,5,"MR",NA,NA,0
+"371","Clifton",2019,5,"Total",NA,NA,0
+"372","Clifton",2019,9,"five_plus",NA,NA,0
+"373","Clifton",2019,9,"MR",NA,NA,0
+"374","Clifton",2019,9,"Total",NA,NA,0
+"375","Clifton",2021,6,"no_birth_date",NA,NA,0
+"376","Clifton",2021,6,"MR",NA,NA,0
+"377","Clifton",2021,6,"Total",NA,NA,0
+"378","Colerain Twp.",2017,2,"five_plus",NA,NA,0
+"379","Colerain Twp.",2017,2,"zero_five",NA,NA,0
+"380","Colerain Twp.",2017,2,"MR",NA,NA,0
+"381","Colerain Twp.",2017,2,"Total",NA,NA,0
+"382","Colerain Twp.",2017,3,"five_plus",NA,NA,0.5
+"383","Colerain Twp.",2017,3,"Non_MR",NA,NA,0.5
+"384","Colerain Twp.",2017,3,"Total",NA,NA,0.5
+"385","Colerain Twp.",2017,4,"five_plus",NA,NA,1
+"386","Colerain Twp.",2017,4,"Non_MR",NA,NA,1
+"387","Colerain Twp.",2017,4,"Total",NA,NA,1
+"388","Colerain Twp.",2017,7,"five_plus",NA,NA,0
+"389","Colerain Twp.",2017,7,"MR",NA,NA,0
+"390","Colerain Twp.",2017,7,"Total",NA,NA,0
+"391","Colerain Twp.",2017,8,"zero_five",NA,NA,0.5
+"392","Colerain Twp.",2017,8,"Non_MR",NA,NA,1
+"393","Colerain Twp.",2017,8,"MR",NA,NA,0
+"394","Colerain Twp.",2017,8,"Total",NA,NA,0.5
+"395","Colerain Twp.",2017,9,"five_plus",NA,NA,0
+"396","Colerain Twp.",2017,9,"MR",NA,NA,0
+"397","Colerain Twp.",2017,9,"Total",NA,NA,0
+"398","Colerain Twp.",2017,10,"zero_five",NA,NA,0
+"399","Colerain Twp.",2017,10,"Non_MR",NA,NA,0
+"400","Colerain Twp.",2017,10,"Total",NA,NA,0
+"401","Colerain Twp.",2017,11,"five_plus",NA,NA,1
+"402","Colerain Twp.",2017,11,"MR",NA,NA,1
+"403","Colerain Twp.",2017,11,"Total",NA,NA,1
+"404","Colerain Twp.",2018,1,"five_plus",NA,NA,1
+"405","Colerain Twp.",2018,1,"MR",NA,NA,1
+"406","Colerain Twp.",2018,1,"Total",NA,NA,1
+"407","Colerain Twp.",2018,2,"zero_five",NA,NA,1
+"408","Colerain Twp.",2018,2,"MR",NA,NA,1
+"409","Colerain Twp.",2018,2,"Total",NA,NA,1
+"410","Colerain Twp.",2018,3,"five_plus",NA,NA,0.5
+"411","Colerain Twp.",2018,3,"zero_five",NA,NA,0.5
+"412","Colerain Twp.",2018,3,"Non_MR",NA,NA,1
+"413","Colerain Twp.",2018,3,"MR",NA,NA,0
+"414","Colerain Twp.",2018,3,"Total",NA,8,0.5
+"415","Colerain Twp.",2018,4,"five_plus",NA,NA,1
+"416","Colerain Twp.",2018,4,"no_birth_date",NA,NA,1
+"417","Colerain Twp.",2018,4,"zero_five",NA,NA,0.5
+"418","Colerain Twp.",2018,4,"Non_MR",NA,NA,1
+"419","Colerain Twp.",2018,4,"MR",NA,NA,0.5
+"420","Colerain Twp.",2018,4,"Total",6,8,0.75
+"421","Colerain Twp.",2018,5,"five_plus",NA,NA,1
+"422","Colerain Twp.",2018,5,"zero_five",NA,NA,0.5
+"423","Colerain Twp.",2018,5,"MR",NA,NA,0.67
+"424","Colerain Twp.",2018,5,"Total",NA,6,0.67
+"425","Colerain Twp.",2018,6,"five_plus",NA,NA,0
+"426","Colerain Twp.",2018,6,"MR",NA,NA,0
+"427","Colerain Twp.",2018,6,"Total",NA,NA,0
+"428","Colerain Twp.",2018,7,"five_plus",NA,NA,0
+"429","Colerain Twp.",2018,7,"MR",NA,NA,0
+"430","Colerain Twp.",2018,7,"Total",NA,NA,0
+"431","Colerain Twp.",2018,9,"no_birth_date",NA,NA,1
+"432","Colerain Twp.",2018,9,"Non_MR",NA,NA,1
+"433","Colerain Twp.",2018,9,"Total",NA,NA,1
+"434","Colerain Twp.",2018,10,"five_plus",NA,NA,0
+"435","Colerain Twp.",2018,10,"Non_MR",NA,NA,0
+"436","Colerain Twp.",2018,10,"Total",NA,NA,0
+"437","Colerain Twp.",2019,1,"five_plus",NA,NA,0.5
+"438","Colerain Twp.",2019,1,"zero_five",NA,NA,0.5
+"439","Colerain Twp.",2019,1,"Non_MR",NA,NA,1
+"440","Colerain Twp.",2019,1,"MR",NA,NA,0.33
+"441","Colerain Twp.",2019,1,"Total",NA,8,0.5
+"442","Colerain Twp.",2019,2,"five_plus",NA,NA,0
+"443","Colerain Twp.",2019,2,"zero_five",NA,NA,1
+"444","Colerain Twp.",2019,2,"MR",NA,NA,0.5
+"445","Colerain Twp.",2019,2,"Total",NA,NA,0.5
+"446","Colerain Twp.",2019,3,"no_birth_date",NA,NA,1
+"447","Colerain Twp.",2019,3,"Non_MR",NA,NA,1
+"448","Colerain Twp.",2019,3,"Total",NA,NA,1
+"449","Colerain Twp.",2019,4,"zero_five",NA,NA,1
+"450","Colerain Twp.",2019,4,"Non_MR",NA,NA,1
+"451","Colerain Twp.",2019,4,"Total",NA,NA,1
+"452","Colerain Twp.",2019,5,"zero_five",NA,NA,0.5
+"453","Colerain Twp.",2019,5,"Non_MR",NA,NA,1
+"454","Colerain Twp.",2019,5,"MR",NA,NA,0
+"455","Colerain Twp.",2019,5,"Total",NA,NA,0.5
+"456","Colerain Twp.",2019,6,"zero_five",NA,NA,1
+"457","Colerain Twp.",2019,6,"MR",NA,NA,1
+"458","Colerain Twp.",2019,6,"Total",NA,NA,1
+"459","Colerain Twp.",2019,8,"five_plus",NA,NA,1
+"460","Colerain Twp.",2019,8,"Non_MR",NA,NA,1
+"461","Colerain Twp.",2019,8,"Total",NA,NA,1
+"462","Colerain Twp.",2019,9,"five_plus",NA,NA,0.5
+"463","Colerain Twp.",2019,9,"MR",NA,NA,0.5
+"464","Colerain Twp.",2019,9,"Total",NA,NA,0.5
+"465","Colerain Twp.",2019,10,"five_plus",NA,NA,1
+"466","Colerain Twp.",2019,10,"MR",NA,NA,1
+"467","Colerain Twp.",2019,10,"Total",NA,NA,1
+"468","Colerain Twp.",2019,11,"five_plus",NA,NA,0
+"469","Colerain Twp.",2019,11,"MR",NA,NA,0
+"470","Colerain Twp.",2019,11,"Total",NA,NA,0
+"471","Colerain Twp.",2019,12,"zero_five",NA,NA,0
+"472","Colerain Twp.",2019,12,"MR",NA,NA,0
+"473","Colerain Twp.",2019,12,"Total",NA,NA,0
+"474","Colerain Twp.",2020,1,"five_plus",NA,NA,1
+"475","Colerain Twp.",2020,1,"Non_MR",NA,NA,1
+"476","Colerain Twp.",2020,1,"Total",NA,NA,1
+"477","Colerain Twp.",2020,2,"five_plus",NA,NA,1
+"478","Colerain Twp.",2020,2,"no_birth_date",NA,NA,0
+"479","Colerain Twp.",2020,2,"Non_MR",NA,NA,0
+"480","Colerain Twp.",2020,2,"MR",NA,NA,1
+"481","Colerain Twp.",2020,2,"Total",NA,6,0.67
+"482","Colerain Twp.",2020,3,"five_plus",NA,NA,0
+"483","Colerain Twp.",2020,3,"no_birth_date",NA,NA,1
+"484","Colerain Twp.",2020,3,"Non_MR",NA,NA,1
+"485","Colerain Twp.",2020,3,"MR",NA,NA,0
+"486","Colerain Twp.",2020,3,"Total",NA,NA,0.5
+"487","Colerain Twp.",2020,5,"five_plus",NA,NA,1
+"488","Colerain Twp.",2020,5,"zero_five",NA,NA,1
+"489","Colerain Twp.",2020,5,"Non_MR",NA,NA,1
+"490","Colerain Twp.",2020,5,"Total",NA,NA,1
+"491","Colerain Twp.",2020,6,"zero_five",NA,NA,0
+"492","Colerain Twp.",2020,6,"MR",NA,NA,0
+"493","Colerain Twp.",2020,6,"Total",NA,NA,0
+"494","Colerain Twp.",2020,7,"five_plus",NA,NA,1
+"495","Colerain Twp.",2020,7,"Non_MR",NA,NA,1
+"496","Colerain Twp.",2020,7,"MR",NA,NA,1
+"497","Colerain Twp.",2020,7,"Total",NA,NA,1
+"498","Colerain Twp.",2020,8,"five_plus",NA,NA,1
+"499","Colerain Twp.",2020,8,"Non_MR",NA,NA,1
+"500","Colerain Twp.",2020,8,"MR",NA,NA,1
+"501","Colerain Twp.",2020,8,"Total",NA,NA,1
+"502","Colerain Twp.",2020,9,"five_plus",NA,NA,0
+"503","Colerain Twp.",2020,9,"MR",NA,NA,0
+"504","Colerain Twp.",2020,9,"Total",NA,NA,0
+"505","Colerain Twp.",2020,10,"no_birth_date",NA,NA,1
+"506","Colerain Twp.",2020,10,"zero_five",NA,NA,0.5
+"507","Colerain Twp.",2020,10,"Non_MR",NA,NA,1
+"508","Colerain Twp.",2020,10,"MR",NA,NA,0.5
+"509","Colerain Twp.",2020,10,"Total",NA,6,0.67
+"510","Colerain Twp.",2020,11,"zero_five",NA,NA,1
+"511","Colerain Twp.",2020,11,"MR",NA,NA,1
+"512","Colerain Twp.",2020,11,"Total",NA,NA,1
+"513","Colerain Twp.",2020,12,"five_plus",NA,NA,1
+"514","Colerain Twp.",2020,12,"Non_MR",NA,NA,1
+"515","Colerain Twp.",2020,12,"Total",NA,NA,1
+"516","Colerain Twp.",2021,1,"five_plus",NA,NA,0.67
+"517","Colerain Twp.",2021,1,"Non_MR",NA,NA,1
+"518","Colerain Twp.",2021,1,"MR",NA,NA,0.5
+"519","Colerain Twp.",2021,1,"Total",NA,6,0.67
+"520","Colerain Twp.",2021,3,"five_plus",NA,NA,1
+"521","Colerain Twp.",2021,3,"MR",NA,NA,1
+"522","Colerain Twp.",2021,3,"Total",NA,NA,1
+"523","Colerain Twp.",2021,4,"five_plus",NA,NA,1
+"524","Colerain Twp.",2021,4,"zero_five",NA,NA,1
+"525","Colerain Twp.",2021,4,"MR",NA,NA,1
+"526","Colerain Twp.",2021,4,"Total",NA,NA,1
+"527","Colerain Twp.",2021,5,"five_plus",NA,NA,1
+"528","Colerain Twp.",2021,5,"no_birth_date",NA,NA,1
+"529","Colerain Twp.",2021,5,"zero_five",NA,NA,1
+"530","Colerain Twp.",2021,5,"MR",NA,NA,1
+"531","Colerain Twp.",2021,5,"Total",6,6,1
+"532","Colerain Twp.",2021,6,"five_plus",NA,NA,0
+"533","Colerain Twp.",2021,6,"Non_MR",NA,NA,0
+"534","Colerain Twp.",2021,6,"Total",NA,NA,0
+"535","Colerain Twp.",2021,7,"five_plus",NA,NA,0
+"536","Colerain Twp.",2021,7,"MR",NA,NA,0
+"537","Colerain Twp.",2021,7,"Total",NA,NA,0
+"538","Colerain Twp.",2021,8,"five_plus",NA,NA,1
+"539","Colerain Twp.",2021,8,"no_birth_date",NA,NA,0
+"540","Colerain Twp.",2021,8,"Non_MR",NA,NA,0
+"541","Colerain Twp.",2021,8,"MR",NA,NA,1
+"542","Colerain Twp.",2021,8,"Total",NA,NA,0.5
+"543","Colerain Twp.",2021,9,"five_plus",NA,NA,0
+"544","Colerain Twp.",2021,9,"zero_five",NA,NA,0.67
+"545","Colerain Twp.",2021,9,"Non_MR",NA,NA,1
+"546","Colerain Twp.",2021,9,"MR",NA,NA,0.33
+"547","Colerain Twp.",2021,9,"Total",NA,8,0.5
+"548","Colerain Twp.",2021,10,"zero_five",NA,NA,1
+"549","Colerain Twp.",2021,10,"MR",NA,NA,1
+"550","Colerain Twp.",2021,10,"Total",NA,NA,1
+"551","Colerain Twp.",2021,11,"five_plus",NA,NA,0.33
+"552","Colerain Twp.",2021,11,"MR",NA,NA,0.33
+"553","Colerain Twp.",2021,11,"Total",NA,6,0.33
+"554","College Hill",2017,2,"five_plus",NA,NA,0
+"555","College Hill",2017,2,"Non_MR",NA,NA,0
+"556","College Hill",2017,2,"Total",NA,NA,0
+"557","College Hill",2017,3,"five_plus",NA,NA,0
+"558","College Hill",2017,3,"Non_MR",NA,NA,0
+"559","College Hill",2017,3,"Total",NA,NA,0
+"560","College Hill",2017,4,"five_plus",NA,NA,0
+"561","College Hill",2017,4,"Non_MR",NA,NA,0
+"562","College Hill",2017,4,"Total",NA,NA,0
+"563","College Hill",2017,10,"zero_five",NA,NA,0
+"564","College Hill",2017,10,"Non_MR",NA,NA,0
+"565","College Hill",2017,10,"Total",NA,NA,0
+"566","College Hill",2019,7,"five_plus",NA,NA,0
+"567","College Hill",2019,7,"Non_MR",NA,NA,0
+"568","College Hill",2019,7,"Total",NA,NA,0
+"569","College Hill",2020,2,"no_birth_date",NA,NA,0
+"570","College Hill",2020,2,"Non_MR",NA,NA,0
+"571","College Hill",2020,2,"Total",NA,NA,0
+"572","CUF",2017,2,"five_plus",NA,NA,1
+"573","CUF",2017,2,"Non_MR",NA,NA,1
+"574","CUF",2017,2,"Total",NA,NA,1
+"575","CUF",2017,6,"zero_five",NA,NA,1
+"576","CUF",2017,6,"Non_MR",NA,NA,1
+"577","CUF",2017,6,"Total",NA,NA,1
+"578","CUF",2018,5,"zero_five",NA,NA,1
+"579","CUF",2018,5,"Non_MR",NA,NA,1
+"580","CUF",2018,5,"Total",NA,NA,1
+"581","CUF",2018,8,"five_plus",NA,NA,1
+"582","CUF",2018,8,"Non_MR",NA,NA,1
+"583","CUF",2018,8,"Total",NA,NA,1
+"584","CUF",2018,11,"five_plus",NA,NA,1
+"585","CUF",2018,11,"Non_MR",NA,NA,1
+"586","CUF",2018,11,"Total",NA,NA,1
+"587","CUF",2020,7,"five_plus",NA,NA,1
+"588","CUF",2020,7,"Non_MR",NA,NA,1
+"589","CUF",2020,7,"Total",NA,NA,1
+"590","CUF",2020,8,"zero_five",NA,NA,1
+"591","CUF",2020,8,"Non_MR",NA,NA,1
+"592","CUF",2020,8,"Total",NA,NA,1
+"593","CUF",2021,6,"five_plus",NA,NA,1
+"594","CUF",2021,6,"Non_MR",NA,NA,1
+"595","CUF",2021,6,"Total",NA,NA,1
+"596","CUF",2021,9,"five_plus",NA,NA,1
+"597","CUF",2021,9,"Non_MR",NA,NA,1
+"598","CUF",2021,9,"Total",NA,NA,1
+"599","CUF",2021,11,"five_plus",NA,NA,1
+"600","CUF",2021,11,"Non_MR",NA,NA,1
+"601","CUF",2021,11,"Total",NA,NA,1
+"602","Deer Park",2017,1,"zero_five",NA,NA,1
+"603","Deer Park",2017,1,"Non_MR",NA,NA,1
+"604","Deer Park",2017,1,"Total",NA,NA,1
+"605","Deer Park",2018,2,"zero_five",NA,NA,1
+"606","Deer Park",2018,2,"Non_MR",NA,NA,1
+"607","Deer Park",2018,2,"Total",NA,NA,1
+"608","Deer Park",2018,4,"five_plus",NA,NA,1
+"609","Deer Park",2018,4,"Non_MR",NA,NA,1
+"610","Deer Park",2018,4,"Total",NA,NA,1
+"611","Deer Park",2018,5,"zero_five",NA,NA,1
+"612","Deer Park",2018,5,"Non_MR",NA,NA,1
+"613","Deer Park",2018,5,"Total",NA,NA,1
+"614","Deer Park",2018,7,"five_plus",NA,NA,1
+"615","Deer Park",2018,7,"Non_MR",NA,NA,1
+"616","Deer Park",2018,7,"Total",NA,NA,1
+"617","Deer Park",2020,5,"zero_five",NA,NA,1
+"618","Deer Park",2020,5,"Non_MR",NA,NA,1
+"619","Deer Park",2020,5,"Total",NA,NA,1
+"620","Delhi Twp.",2017,3,"zero_five",NA,NA,1
+"621","Delhi Twp.",2017,3,"MR",NA,NA,1
+"622","Delhi Twp.",2017,3,"Total",NA,NA,1
+"623","Delhi Twp.",2017,7,"zero_five",NA,NA,1
+"624","Delhi Twp.",2017,7,"Non_MR",NA,NA,1
+"625","Delhi Twp.",2017,7,"Total",NA,NA,1
+"626","Delhi Twp.",2017,8,"five_plus",NA,NA,0
+"627","Delhi Twp.",2017,8,"MR",NA,NA,0
+"628","Delhi Twp.",2017,8,"Total",NA,NA,0
+"629","Delhi Twp.",2017,9,"zero_five",NA,NA,1
+"630","Delhi Twp.",2017,9,"MR",NA,NA,1
+"631","Delhi Twp.",2017,9,"Total",NA,NA,1
+"632","Delhi Twp.",2017,10,"five_plus",NA,NA,0
+"633","Delhi Twp.",2017,10,"MR",NA,NA,0
+"634","Delhi Twp.",2017,10,"Total",NA,NA,0
+"635","Delhi Twp.",2017,11,"zero_five",NA,NA,1
+"636","Delhi Twp.",2017,11,"Non_MR",NA,NA,1
+"637","Delhi Twp.",2017,11,"Total",NA,NA,1
+"638","Delhi Twp.",2018,1,"zero_five",NA,NA,1
+"639","Delhi Twp.",2018,1,"MR",NA,NA,1
+"640","Delhi Twp.",2018,1,"Total",NA,NA,1
+"641","Delhi Twp.",2018,3,"five_plus",NA,NA,1
+"642","Delhi Twp.",2018,3,"Non_MR",NA,NA,1
+"643","Delhi Twp.",2018,3,"Total",NA,NA,1
+"644","Delhi Twp.",2018,4,"zero_five",NA,NA,1
+"645","Delhi Twp.",2018,4,"MR",NA,NA,1
+"646","Delhi Twp.",2018,4,"Total",NA,NA,1
+"647","Delhi Twp.",2018,9,"five_plus",NA,NA,0
+"648","Delhi Twp.",2018,9,"zero_five",NA,NA,1
+"649","Delhi Twp.",2018,9,"Non_MR",NA,NA,1
+"650","Delhi Twp.",2018,9,"MR",NA,NA,0
+"651","Delhi Twp.",2018,9,"Total",NA,NA,0.5
+"652","Delhi Twp.",2018,10,"no_birth_date",NA,NA,0
+"653","Delhi Twp.",2018,10,"Non_MR",NA,NA,0
+"654","Delhi Twp.",2018,10,"Total",NA,NA,0
+"655","Delhi Twp.",2018,11,"zero_five",NA,NA,1
+"656","Delhi Twp.",2018,11,"Non_MR",NA,NA,1
+"657","Delhi Twp.",2018,11,"Total",NA,NA,1
+"658","Delhi Twp.",2019,1,"five_plus",NA,NA,1
+"659","Delhi Twp.",2019,1,"MR",NA,NA,1
+"660","Delhi Twp.",2019,1,"Total",NA,NA,1
+"661","Delhi Twp.",2019,2,"no_birth_date",NA,NA,0
+"662","Delhi Twp.",2019,2,"zero_five",NA,NA,1
+"663","Delhi Twp.",2019,2,"Non_MR",NA,NA,0
+"664","Delhi Twp.",2019,2,"MR",NA,NA,1
+"665","Delhi Twp.",2019,2,"Total",NA,NA,0.5
+"666","Delhi Twp.",2019,5,"five_plus",NA,NA,1
+"667","Delhi Twp.",2019,5,"MR",NA,NA,1
+"668","Delhi Twp.",2019,5,"Total",NA,NA,1
+"669","Delhi Twp.",2019,7,"zero_five",NA,NA,0
+"670","Delhi Twp.",2019,7,"Non_MR",NA,NA,0
+"671","Delhi Twp.",2019,7,"Total",NA,NA,0
+"672","Delhi Twp.",2019,8,"five_plus",NA,NA,1
+"673","Delhi Twp.",2019,8,"MR",NA,NA,1
+"674","Delhi Twp.",2019,8,"Total",NA,NA,1
+"675","Delhi Twp.",2019,9,"zero_five",NA,NA,1
+"676","Delhi Twp.",2019,9,"Non_MR",NA,NA,1
+"677","Delhi Twp.",2019,9,"Total",NA,NA,1
+"678","Delhi Twp.",2019,12,"zero_five",NA,NA,0
+"679","Delhi Twp.",2019,12,"MR",NA,NA,0
+"680","Delhi Twp.",2019,12,"Total",NA,NA,0
+"681","Delhi Twp.",2020,1,"no_birth_date",NA,NA,1
+"682","Delhi Twp.",2020,1,"Non_MR",NA,NA,1
+"683","Delhi Twp.",2020,1,"Total",NA,NA,1
+"684","Delhi Twp.",2020,3,"five_plus",NA,NA,1
+"685","Delhi Twp.",2020,3,"MR",NA,NA,1
+"686","Delhi Twp.",2020,3,"Total",NA,NA,1
+"687","Delhi Twp.",2020,9,"zero_five",NA,NA,0
+"688","Delhi Twp.",2020,9,"Non_MR",NA,NA,0
+"689","Delhi Twp.",2020,9,"Total",NA,NA,0
+"690","Delhi Twp.",2020,11,"zero_five",NA,NA,0
+"691","Delhi Twp.",2020,11,"Non_MR",NA,NA,0
+"692","Delhi Twp.",2020,11,"Total",NA,NA,0
+"693","Delhi Twp.",2021,1,"five_plus",NA,NA,1
+"694","Delhi Twp.",2021,1,"zero_five",NA,NA,0
+"695","Delhi Twp.",2021,1,"Non_MR",NA,NA,0
+"696","Delhi Twp.",2021,1,"MR",NA,NA,1
+"697","Delhi Twp.",2021,1,"Total",NA,NA,0.5
+"698","Delhi Twp.",2021,2,"zero_five",NA,NA,1
+"699","Delhi Twp.",2021,2,"MR",NA,NA,1
+"700","Delhi Twp.",2021,2,"Total",NA,NA,1
+"701","Delhi Twp.",2021,4,"five_plus",NA,NA,1
+"702","Delhi Twp.",2021,4,"Non_MR",NA,NA,1
+"703","Delhi Twp.",2021,4,"Total",NA,NA,1
+"704","Delhi Twp.",2021,6,"five_plus",NA,NA,0.5
+"705","Delhi Twp.",2021,6,"Non_MR",NA,NA,1
+"706","Delhi Twp.",2021,6,"MR",NA,NA,0
+"707","Delhi Twp.",2021,6,"Total",NA,NA,0.5
+"708","Delhi Twp.",2021,7,"five_plus",NA,NA,0
+"709","Delhi Twp.",2021,7,"MR",NA,NA,0
+"710","Delhi Twp.",2021,7,"Total",NA,NA,0
+"711","Delhi Twp.",2021,8,"five_plus",NA,NA,1
+"712","Delhi Twp.",2021,8,"Non_MR",NA,NA,1
+"713","Delhi Twp.",2021,8,"Total",NA,NA,1
+"714","Delhi Twp.",2021,10,"five_plus",NA,NA,1
+"715","Delhi Twp.",2021,10,"Non_MR",NA,NA,1
+"716","Delhi Twp.",2021,10,"Total",NA,NA,1
+"717","Delhi Twp.",2021,11,"five_plus",NA,NA,1
+"718","Delhi Twp.",2021,11,"MR",NA,NA,1
+"719","Delhi Twp.",2021,11,"Total",NA,NA,1
+"720","Delhi Twp.",2021,12,"five_plus",NA,NA,1
+"721","Delhi Twp.",2021,12,"Non_MR",NA,NA,1
+"722","Delhi Twp.",2021,12,"Total",NA,NA,1
+"723","E. Price Hill",2017,3,"five_plus",NA,NA,1
+"724","E. Price Hill",2017,3,"MR",NA,NA,1
+"725","E. Price Hill",2017,3,"Total",NA,NA,1
+"726","E. Price Hill",2017,4,"zero_five",NA,NA,1
+"727","E. Price Hill",2017,4,"MR",NA,NA,1
+"728","E. Price Hill",2017,4,"Total",NA,NA,1
+"729","E. Price Hill",2017,11,"five_plus",NA,NA,0
+"730","E. Price Hill",2017,11,"Non_MR",NA,NA,0
+"731","E. Price Hill",2017,11,"Total",NA,NA,0
+"732","E. Price Hill",2017,12,"zero_five",NA,NA,0
+"733","E. Price Hill",2017,12,"Non_MR",NA,NA,0
+"734","E. Price Hill",2017,12,"Total",NA,NA,0
+"735","E. Price Hill",2018,1,"zero_five",NA,NA,1
+"736","E. Price Hill",2018,1,"MR",NA,NA,1
+"737","E. Price Hill",2018,1,"Total",NA,NA,1
+"738","E. Price Hill",2018,3,"five_plus",NA,NA,1
+"739","E. Price Hill",2018,3,"MR",NA,NA,1
+"740","E. Price Hill",2018,3,"Total",NA,NA,1
+"741","E. Price Hill",2018,8,"five_plus",NA,NA,0
+"742","E. Price Hill",2018,8,"Non_MR",NA,NA,0
+"743","E. Price Hill",2018,8,"Total",NA,NA,0
+"744","E. Price Hill",2019,2,"zero_five",NA,NA,0
+"745","E. Price Hill",2019,2,"Non_MR",NA,NA,0
+"746","E. Price Hill",2019,2,"Total",NA,NA,0
+"747","E. Price Hill",2019,4,"five_plus",NA,NA,0
+"748","E. Price Hill",2019,4,"Non_MR",NA,NA,0
+"749","E. Price Hill",2019,4,"Total",NA,NA,0
+"750","E. Price Hill",2019,9,"zero_five",NA,NA,0
+"751","E. Price Hill",2019,9,"Non_MR",NA,NA,0
+"752","E. Price Hill",2019,9,"Total",NA,NA,0
+"753","E. Price Hill",2020,4,"five_plus",NA,NA,0
+"754","E. Price Hill",2020,4,"Non_MR",NA,NA,0
+"755","E. Price Hill",2020,4,"Total",NA,NA,0
+"756","E. Price Hill",2020,6,"five_plus",NA,NA,0
+"757","E. Price Hill",2020,6,"zero_five",NA,NA,1
+"758","E. Price Hill",2020,6,"Non_MR",NA,NA,0
+"759","E. Price Hill",2020,6,"MR",NA,NA,1
+"760","E. Price Hill",2020,6,"Total",NA,6,0.67
+"761","E. Price Hill",2021,6,"zero_five",NA,NA,0
+"762","E. Price Hill",2021,6,"Non_MR",NA,NA,0
+"763","E. Price Hill",2021,6,"Total",NA,NA,0
+"764","E. Price Hill",2021,7,"five_plus",NA,NA,0
+"765","E. Price Hill",2021,7,"Non_MR",NA,NA,0
+"766","E. Price Hill",2021,7,"Total",NA,NA,0
+"767","E. Price Hill",2021,9,"zero_five",NA,NA,0
+"768","E. Price Hill",2021,9,"Non_MR",NA,NA,0
+"769","E. Price Hill",2021,9,"Total",NA,NA,0
+"770","East End-Linwood",2017,2,"zero_five",NA,NA,1
+"771","East End-Linwood",2017,2,"MR",NA,NA,1
+"772","East End-Linwood",2017,2,"Total",NA,NA,1
+"773","East End-Linwood",2017,6,"zero_five",NA,NA,1
+"774","East End-Linwood",2017,6,"MR",NA,NA,1
+"775","East End-Linwood",2017,6,"Total",NA,NA,1
+"776","East End-Linwood",2018,1,"zero_five",NA,NA,1
+"777","East End-Linwood",2018,1,"MR",NA,NA,1
+"778","East End-Linwood",2018,1,"Total",NA,NA,1
+"779","East End-Linwood",2018,7,"zero_five",NA,NA,1
+"780","East End-Linwood",2018,7,"MR",NA,NA,1
+"781","East End-Linwood",2018,7,"Total",NA,NA,1
+"782","East End-Linwood",2019,12,"zero_five",NA,NA,1
+"783","East End-Linwood",2019,12,"MR",NA,NA,1
+"784","East End-Linwood",2019,12,"Total",NA,NA,1
+"785","East End-Linwood",2020,12,"five_plus",NA,NA,1
+"786","East End-Linwood",2020,12,"MR",NA,NA,1
+"787","East End-Linwood",2020,12,"Total",NA,NA,1
+"788","Elmwood",2017,12,"five_plus",NA,NA,0
+"789","Elmwood",2017,12,"MR",NA,NA,0
+"790","Elmwood",2017,12,"Total",NA,NA,0
+"791","Elmwood",2018,3,"five_plus",NA,NA,0
+"792","Elmwood",2018,3,"MR",NA,NA,0
+"793","Elmwood",2018,3,"Total",NA,NA,0
+"794","Elmwood",2019,7,"five_plus",NA,NA,0
+"795","Elmwood",2019,7,"MR",NA,NA,0
+"796","Elmwood",2019,7,"Total",NA,NA,0
+"797","Elmwood",2019,10,"zero_five",NA,NA,0
+"798","Elmwood",2019,10,"MR",NA,NA,0
+"799","Elmwood",2019,10,"Total",NA,NA,0
+"800","Elmwood",2020,2,"zero_five",NA,NA,0
+"801","Elmwood",2020,2,"MR",NA,NA,0
+"802","Elmwood",2020,2,"Total",NA,NA,0
+"803","Elmwood",2020,6,"five_plus",NA,NA,0
+"804","Elmwood",2020,6,"MR",NA,NA,0
+"805","Elmwood",2020,6,"Total",NA,NA,0
+"806","Elmwood",2020,10,"no_birth_date",NA,NA,0
+"807","Elmwood",2020,10,"MR",NA,NA,0
+"808","Elmwood",2020,10,"Total",NA,NA,0
+"809","Elmwood",2020,12,"five_plus",NA,NA,0
+"810","Elmwood",2020,12,"MR",NA,NA,0
+"811","Elmwood",2020,12,"Total",NA,NA,0
+"812","Elmwood",2021,1,"zero_five",NA,NA,0
+"813","Elmwood",2021,1,"MR",NA,NA,0
+"814","Elmwood",2021,1,"Total",NA,NA,0
+"815","Elmwood",2021,3,"five_plus",NA,NA,0
+"816","Elmwood",2021,3,"MR",NA,NA,0
+"817","Elmwood",2021,3,"Total",NA,NA,0
+"818","Elmwood",2021,11,"five_plus",NA,NA,0
+"819","Elmwood",2021,11,"MR",NA,NA,0
+"820","Elmwood",2021,11,"Total",NA,NA,0
+"821","Evanston",2017,3,"zero_five",NA,NA,1
+"822","Evanston",2017,3,"Non_MR",NA,NA,1
+"823","Evanston",2017,3,"Total",NA,NA,1
+"824","Evanston",2017,6,"zero_five",NA,NA,1
+"825","Evanston",2017,6,"MR",NA,NA,1
+"826","Evanston",2017,6,"Total",NA,NA,1
+"827","Evanston",2017,7,"five_plus",NA,NA,1
+"828","Evanston",2017,7,"MR",NA,NA,1
+"829","Evanston",2017,7,"Total",NA,NA,1
+"830","Evanston",2018,2,"five_plus",NA,NA,0
+"831","Evanston",2018,2,"MR",NA,NA,0
+"832","Evanston",2018,2,"Total",NA,NA,0
+"833","Evanston",2018,6,"five_plus",NA,NA,1
+"834","Evanston",2018,6,"Non_MR",NA,NA,1
+"835","Evanston",2018,6,"MR",NA,NA,1
+"836","Evanston",2018,6,"Total",NA,NA,1
+"837","Evanston",2018,10,"five_plus",NA,NA,1
+"838","Evanston",2018,10,"Non_MR",NA,NA,1
+"839","Evanston",2018,10,"Total",NA,NA,1
+"840","Evanston",2019,9,"five_plus",NA,NA,0
+"841","Evanston",2019,9,"MR",NA,NA,0
+"842","Evanston",2019,9,"Total",NA,NA,0
+"843","Evanston",2019,12,"zero_five",NA,NA,1
+"844","Evanston",2019,12,"Non_MR",NA,NA,1
+"845","Evanston",2019,12,"Total",NA,NA,1
+"846","Evanston",2020,1,"five_plus",NA,NA,0
+"847","Evanston",2020,1,"MR",NA,NA,0
+"848","Evanston",2020,1,"Total",NA,NA,0
+"849","Evanston",2020,2,"zero_five",NA,NA,1
+"850","Evanston",2020,2,"MR",NA,NA,1
+"851","Evanston",2020,2,"Total",NA,NA,1
+"852","Evanston",2020,4,"zero_five",NA,NA,0
+"853","Evanston",2020,4,"MR",NA,NA,0
+"854","Evanston",2020,4,"Total",NA,NA,0
+"855","Evanston",2020,5,"five_plus",NA,NA,0.5
+"856","Evanston",2020,5,"MR",NA,NA,0.5
+"857","Evanston",2020,5,"Total",NA,NA,0.5
+"858","Evanston",2021,2,"zero_five",NA,NA,0
+"859","Evanston",2021,2,"MR",NA,NA,0
+"860","Evanston",2021,2,"Total",NA,NA,0
+"861","Evanston",2021,6,"five_plus",NA,NA,1
+"862","Evanston",2021,6,"MR",NA,NA,1
+"863","Evanston",2021,6,"Total",NA,NA,1
+"864","Evanston",2021,11,"five_plus",NA,NA,1
+"865","Evanston",2021,11,"Non_MR",NA,NA,1
+"866","Evanston",2021,11,"Total",NA,NA,1
+"867","Evendale",2017,1,"zero_five",NA,NA,1
+"868","Evendale",2017,1,"MR",NA,NA,1
+"869","Evendale",2017,1,"Total",NA,NA,1
+"870","Evendale",2017,9,"zero_five",NA,NA,1
+"871","Evendale",2017,9,"MR",NA,NA,1
+"872","Evendale",2017,9,"Total",NA,NA,1
+"873","Evendale",2017,10,"zero_five",NA,NA,0
+"874","Evendale",2017,10,"MR",NA,NA,0
+"875","Evendale",2017,10,"Total",NA,NA,0
+"876","Evendale",2017,11,"five_plus",NA,NA,1
+"877","Evendale",2017,11,"MR",NA,NA,1
+"878","Evendale",2017,11,"Total",NA,NA,1
+"879","Evendale",2018,4,"zero_five",NA,NA,1
+"880","Evendale",2018,4,"MR",NA,NA,1
+"881","Evendale",2018,4,"Total",NA,NA,1
+"882","Evendale",2018,5,"five_plus",NA,NA,0
+"883","Evendale",2018,5,"MR",NA,NA,0
+"884","Evendale",2018,5,"Total",NA,NA,0
+"885","Evendale",2018,7,"five_plus",NA,NA,1
+"886","Evendale",2018,7,"MR",NA,NA,1
+"887","Evendale",2018,7,"Total",NA,NA,1
+"888","Evendale",2018,9,"five_plus",NA,NA,0
+"889","Evendale",2018,9,"MR",NA,NA,0
+"890","Evendale",2018,9,"Total",NA,NA,0
+"891","Evendale",2018,11,"five_plus",NA,NA,1
+"892","Evendale",2018,11,"MR",NA,NA,1
+"893","Evendale",2018,11,"Total",NA,NA,1
+"894","Evendale",2019,1,"no_birth_date",NA,NA,1
+"895","Evendale",2019,1,"MR",NA,NA,1
+"896","Evendale",2019,1,"Total",NA,NA,1
+"897","Evendale",2019,3,"five_plus",NA,NA,1
+"898","Evendale",2019,3,"zero_five",NA,NA,1
+"899","Evendale",2019,3,"MR",NA,NA,1
+"900","Evendale",2019,3,"Total",NA,NA,1
+"901","Evendale",2019,4,"zero_five",NA,NA,1
+"902","Evendale",2019,4,"MR",NA,NA,1
+"903","Evendale",2019,4,"Total",NA,NA,1
+"904","Evendale",2019,6,"five_plus",NA,NA,0.5
+"905","Evendale",2019,6,"MR",NA,NA,0.5
+"906","Evendale",2019,6,"Total",NA,NA,0.5
+"907","Evendale",2019,11,"five_plus",NA,NA,1
+"908","Evendale",2019,11,"MR",NA,NA,1
+"909","Evendale",2019,11,"Total",NA,NA,1
+"910","Evendale",2020,3,"five_plus",NA,NA,1
+"911","Evendale",2020,3,"MR",NA,NA,1
+"912","Evendale",2020,3,"Total",NA,NA,1
+"913","Evendale",2020,4,"five_plus",NA,NA,0
+"914","Evendale",2020,4,"MR",NA,NA,0
+"915","Evendale",2020,4,"Total",NA,NA,0
+"916","Evendale",2020,7,"zero_five",NA,NA,1
+"917","Evendale",2020,7,"MR",NA,NA,1
+"918","Evendale",2020,7,"Total",NA,NA,1
+"919","Evendale",2020,8,"five_plus",NA,NA,1
+"920","Evendale",2020,8,"MR",NA,NA,1
+"921","Evendale",2020,8,"Total",NA,NA,1
+"922","Evendale",2021,5,"five_plus",NA,NA,1
+"923","Evendale",2021,5,"zero_five",NA,NA,0
+"924","Evendale",2021,5,"MR",NA,NA,0.5
+"925","Evendale",2021,5,"Total",NA,NA,0.5
+"926","Evendale",2021,7,"zero_five",NA,NA,1
+"927","Evendale",2021,7,"MR",NA,NA,1
+"928","Evendale",2021,7,"Total",NA,NA,1
+"929","Forest Park",2017,1,"five_plus",NA,NA,1
+"930","Forest Park",2017,1,"zero_five",NA,NA,1
+"931","Forest Park",2017,1,"Non_MR",NA,NA,1
+"932","Forest Park",2017,1,"Total",NA,NA,1
+"933","Forest Park",2017,3,"no_birth_date",NA,NA,1
+"934","Forest Park",2017,3,"zero_five",NA,NA,0
+"935","Forest Park",2017,3,"MR",NA,NA,0.5
+"936","Forest Park",2017,3,"Total",NA,NA,0.5
+"937","Forest Park",2017,4,"zero_five",NA,NA,1
+"938","Forest Park",2017,4,"Non_MR",NA,NA,1
+"939","Forest Park",2017,4,"Total",NA,NA,1
+"940","Forest Park",2017,5,"zero_five",NA,NA,1
+"941","Forest Park",2017,5,"MR",NA,NA,1
+"942","Forest Park",2017,5,"Total",NA,NA,1
+"943","Forest Park",2017,6,"five_plus",NA,NA,1
+"944","Forest Park",2017,6,"zero_five",NA,NA,1
+"945","Forest Park",2017,6,"MR",NA,NA,1
+"946","Forest Park",2017,6,"Total",8,8,1
+"947","Forest Park",2017,8,"five_plus",NA,NA,1
+"948","Forest Park",2017,8,"zero_five",NA,NA,0
+"949","Forest Park",2017,8,"MR",NA,NA,0.5
+"950","Forest Park",2017,8,"Total",NA,NA,0.5
+"951","Forest Park",2017,10,"five_plus",NA,NA,1
+"952","Forest Park",2017,10,"MR",NA,NA,1
+"953","Forest Park",2017,10,"Total",NA,NA,1
+"954","Forest Park",2017,11,"zero_five",NA,NA,1
+"955","Forest Park",2017,11,"Non_MR",NA,NA,1
+"956","Forest Park",2017,11,"Total",NA,NA,1
+"957","Forest Park",2017,12,"five_plus",NA,NA,0
+"958","Forest Park",2017,12,"MR",NA,NA,0
+"959","Forest Park",2017,12,"Total",NA,NA,0
+"960","Forest Park",2018,2,"five_plus",NA,NA,1
+"961","Forest Park",2018,2,"Non_MR",NA,NA,1
+"962","Forest Park",2018,2,"Total",NA,NA,1
+"963","Forest Park",2018,4,"zero_five",NA,NA,0
+"964","Forest Park",2018,4,"MR",NA,NA,0
+"965","Forest Park",2018,4,"Total",NA,NA,0
+"966","Forest Park",2018,7,"zero_five",NA,NA,1
+"967","Forest Park",2018,7,"MR",NA,NA,1
+"968","Forest Park",2018,7,"Total",NA,NA,1
+"969","Forest Park",2018,8,"zero_five",NA,NA,0
+"970","Forest Park",2018,8,"MR",NA,NA,0
+"971","Forest Park",2018,8,"Total",NA,NA,0
+"972","Forest Park",2018,10,"five_plus",NA,NA,1
+"973","Forest Park",2018,10,"MR",NA,NA,1
+"974","Forest Park",2018,10,"Total",NA,NA,1
+"975","Forest Park",2018,11,"five_plus",NA,NA,0
+"976","Forest Park",2018,11,"MR",NA,NA,0
+"977","Forest Park",2018,11,"Total",NA,NA,0
+"978","Forest Park",2018,12,"five_plus",NA,NA,1
+"979","Forest Park",2018,12,"zero_five",NA,NA,1
+"980","Forest Park",2018,12,"Non_MR",NA,NA,1
+"981","Forest Park",2018,12,"MR",NA,NA,1
+"982","Forest Park",2018,12,"Total",NA,NA,1
+"983","Forest Park",2019,6,"no_birth_date",NA,NA,1
+"984","Forest Park",2019,6,"Non_MR",NA,NA,1
+"985","Forest Park",2019,6,"Total",NA,NA,1
+"986","Forest Park",2019,8,"five_plus",NA,NA,1
+"987","Forest Park",2019,8,"zero_five",NA,NA,1
+"988","Forest Park",2019,8,"Non_MR",NA,NA,1
+"989","Forest Park",2019,8,"MR",NA,NA,1
+"990","Forest Park",2019,8,"Total",NA,NA,1
+"991","Forest Park",2019,9,"five_plus",NA,NA,1
+"992","Forest Park",2019,9,"MR",NA,NA,1
+"993","Forest Park",2019,9,"Total",NA,NA,1
+"994","Forest Park",2019,10,"zero_five",NA,NA,1
+"995","Forest Park",2019,10,"MR",NA,NA,1
+"996","Forest Park",2019,10,"Total",NA,NA,1
+"997","Forest Park",2019,11,"five_plus",NA,NA,1
+"998","Forest Park",2019,11,"MR",NA,NA,1
+"999","Forest Park",2019,11,"Total",NA,NA,1
+"1000","Forest Park",2020,2,"five_plus",NA,NA,1
+"1001","Forest Park",2020,2,"MR",NA,NA,1
+"1002","Forest Park",2020,2,"Total",NA,NA,1
+"1003","Forest Park",2020,3,"five_plus",NA,NA,1
+"1004","Forest Park",2020,3,"Non_MR",NA,NA,1
+"1005","Forest Park",2020,3,"Total",NA,NA,1
+"1006","Forest Park",2020,5,"five_plus",NA,NA,1
+"1007","Forest Park",2020,5,"Non_MR",NA,NA,1
+"1008","Forest Park",2020,5,"Total",NA,NA,1
+"1009","Forest Park",2020,7,"zero_five",NA,NA,0
+"1010","Forest Park",2020,7,"MR",NA,NA,0
+"1011","Forest Park",2020,7,"Total",NA,NA,0
+"1012","Forest Park",2020,8,"five_plus",NA,NA,0.33
+"1013","Forest Park",2020,8,"MR",NA,NA,0.33
+"1014","Forest Park",2020,8,"Total",NA,6,0.33
+"1015","Forest Park",2020,9,"zero_five",NA,NA,1
+"1016","Forest Park",2020,9,"MR",NA,NA,1
+"1017","Forest Park",2020,9,"Total",NA,NA,1
+"1018","Forest Park",2020,11,"five_plus",NA,NA,1
+"1019","Forest Park",2020,11,"zero_five",NA,NA,0
+"1020","Forest Park",2020,11,"Non_MR",NA,NA,1
+"1021","Forest Park",2020,11,"MR",NA,NA,0
+"1022","Forest Park",2020,11,"Total",NA,NA,0.5
+"1023","Forest Park",2020,12,"zero_five",NA,NA,0
+"1024","Forest Park",2020,12,"MR",NA,NA,0
+"1025","Forest Park",2020,12,"Total",NA,NA,0
+"1026","Forest Park",2021,1,"five_plus",NA,NA,1
+"1027","Forest Park",2021,1,"MR",NA,NA,1
+"1028","Forest Park",2021,1,"Total",NA,NA,1
+"1029","Forest Park",2021,3,"five_plus",NA,NA,1
+"1030","Forest Park",2021,3,"MR",NA,NA,1
+"1031","Forest Park",2021,3,"Total",NA,NA,1
+"1032","Forest Park",2021,7,"five_plus",NA,NA,1
+"1033","Forest Park",2021,7,"MR",NA,NA,1
+"1034","Forest Park",2021,7,"Total",NA,NA,1
+"1035","Forest Park",2021,9,"five_plus",NA,NA,0
+"1036","Forest Park",2021,9,"zero_five",NA,NA,1
+"1037","Forest Park",2021,9,"MR",NA,NA,0.5
+"1038","Forest Park",2021,9,"Total",NA,NA,0.5
+"1039","Forest Park",2021,11,"five_plus",NA,NA,1
+"1040","Forest Park",2021,11,"zero_five",NA,NA,1
+"1041","Forest Park",2021,11,"MR",NA,NA,1
+"1042","Forest Park",2021,11,"Total",NA,NA,1
+"1043","Glendale",2017,2,"five_plus",NA,NA,0
+"1044","Glendale",2017,2,"MR",NA,NA,0
+"1045","Glendale",2017,2,"Total",NA,NA,0
+"1046","Glendale",2017,5,"zero_five",NA,NA,0
+"1047","Glendale",2017,5,"MR",NA,NA,0
+"1048","Glendale",2017,5,"Total",NA,NA,0
+"1049","Glendale",2017,6,"zero_five",NA,NA,0
+"1050","Glendale",2017,6,"MR",NA,NA,0
+"1051","Glendale",2017,6,"Total",NA,NA,0
+"1052","Glendale",2018,2,"five_plus",NA,NA,0
+"1053","Glendale",2018,2,"MR",NA,NA,0
+"1054","Glendale",2018,2,"Total",NA,NA,0
+"1055","Glendale",2019,6,"five_plus",NA,NA,0
+"1056","Glendale",2019,6,"MR",NA,NA,0
+"1057","Glendale",2019,6,"Total",NA,NA,0
+"1058","Glendale",2021,6,"five_plus",NA,NA,0
+"1059","Glendale",2021,6,"MR",NA,NA,0
+"1060","Glendale",2021,6,"Total",NA,NA,0
+"1061","Green Twp.",2017,1,"five_plus",NA,NA,1
+"1062","Green Twp.",2017,1,"Non_MR",NA,NA,1
+"1063","Green Twp.",2017,1,"Total",NA,NA,1
+"1064","Green Twp.",2017,2,"five_plus",NA,NA,1
+"1065","Green Twp.",2017,2,"MR",NA,NA,1
+"1066","Green Twp.",2017,2,"Total",NA,NA,1
+"1067","Green Twp.",2017,3,"five_plus",NA,NA,1
+"1068","Green Twp.",2017,3,"MR",NA,NA,1
+"1069","Green Twp.",2017,3,"Total",NA,NA,1
+"1070","Green Twp.",2017,5,"five_plus",NA,NA,1
+"1071","Green Twp.",2017,5,"MR",NA,NA,1
+"1072","Green Twp.",2017,5,"Total",NA,NA,1
+"1073","Green Twp.",2017,6,"five_plus",NA,NA,1
+"1074","Green Twp.",2017,6,"Non_MR",NA,NA,1
+"1075","Green Twp.",2017,6,"Total",NA,NA,1
+"1076","Green Twp.",2017,7,"no_birth_date",NA,NA,1
+"1077","Green Twp.",2017,7,"Non_MR",NA,NA,1
+"1078","Green Twp.",2017,7,"Total",NA,NA,1
+"1079","Green Twp.",2017,8,"five_plus",NA,NA,1
+"1080","Green Twp.",2017,8,"Non_MR",NA,NA,1
+"1081","Green Twp.",2017,8,"MR",NA,NA,1
+"1082","Green Twp.",2017,8,"Total",NA,NA,1
+"1083","Green Twp.",2017,9,"five_plus",NA,NA,1
+"1084","Green Twp.",2017,9,"no_birth_date",NA,NA,1
+"1085","Green Twp.",2017,9,"zero_five",NA,NA,1
+"1086","Green Twp.",2017,9,"Non_MR",NA,NA,1
+"1087","Green Twp.",2017,9,"MR",NA,NA,1
+"1088","Green Twp.",2017,9,"Total",6,6,1
+"1089","Green Twp.",2017,10,"five_plus",NA,NA,0
+"1090","Green Twp.",2017,10,"MR",NA,NA,0
+"1091","Green Twp.",2017,10,"Total",NA,NA,0
+"1092","Green Twp.",2017,11,"five_plus",NA,NA,1
+"1093","Green Twp.",2017,11,"zero_five",NA,NA,1
+"1094","Green Twp.",2017,11,"Non_MR",NA,NA,1
+"1095","Green Twp.",2017,11,"Total",6,6,1
+"1096","Green Twp.",2017,12,"no_birth_date",NA,NA,0
+"1097","Green Twp.",2017,12,"zero_five",NA,NA,0
+"1098","Green Twp.",2017,12,"Non_MR",NA,NA,0
+"1099","Green Twp.",2017,12,"MR",NA,NA,0
+"1100","Green Twp.",2017,12,"Total",NA,NA,0
+"1101","Green Twp.",2018,1,"five_plus",NA,NA,1
+"1102","Green Twp.",2018,1,"MR",NA,NA,1
+"1103","Green Twp.",2018,1,"Total",NA,NA,1
+"1104","Green Twp.",2018,2,"five_plus",NA,NA,1
+"1105","Green Twp.",2018,2,"zero_five",NA,NA,1
+"1106","Green Twp.",2018,2,"Non_MR",NA,NA,1
+"1107","Green Twp.",2018,2,"MR",NA,NA,1
+"1108","Green Twp.",2018,2,"Total",NA,NA,1
+"1109","Green Twp.",2018,5,"five_plus",NA,NA,0.67
+"1110","Green Twp.",2018,5,"MR",NA,NA,0.67
+"1111","Green Twp.",2018,5,"Total",NA,6,0.67
+"1112","Green Twp.",2018,6,"five_plus",NA,NA,0
+"1113","Green Twp.",2018,6,"MR",NA,NA,0
+"1114","Green Twp.",2018,6,"Total",NA,NA,0
+"1115","Green Twp.",2018,10,"zero_five",NA,NA,0
+"1116","Green Twp.",2018,10,"Non_MR",NA,NA,0
+"1117","Green Twp.",2018,10,"Total",NA,NA,0
+"1118","Green Twp.",2018,11,"zero_five",NA,NA,1
+"1119","Green Twp.",2018,11,"MR",NA,NA,1
+"1120","Green Twp.",2018,11,"Total",NA,NA,1
+"1121","Green Twp.",2019,1,"five_plus",NA,NA,0.67
+"1122","Green Twp.",2019,1,"Non_MR",NA,NA,0.5
+"1123","Green Twp.",2019,1,"MR",NA,NA,1
+"1124","Green Twp.",2019,1,"Total",NA,6,0.67
+"1125","Green Twp.",2019,2,"five_plus",NA,NA,1
+"1126","Green Twp.",2019,2,"MR",NA,NA,1
+"1127","Green Twp.",2019,2,"Total",NA,NA,1
+"1128","Green Twp.",2019,3,"five_plus",NA,NA,0.5
+"1129","Green Twp.",2019,3,"MR",NA,NA,0.5
+"1130","Green Twp.",2019,3,"Total",NA,NA,0.5
+"1131","Green Twp.",2019,4,"no_birth_date",NA,NA,0
+"1132","Green Twp.",2019,4,"Non_MR",NA,NA,0
+"1133","Green Twp.",2019,4,"Total",NA,NA,0
+"1134","Green Twp.",2019,5,"five_plus",NA,NA,1
+"1135","Green Twp.",2019,5,"Non_MR",NA,NA,1
+"1136","Green Twp.",2019,5,"MR",NA,NA,1
+"1137","Green Twp.",2019,5,"Total",6,6,1
+"1138","Green Twp.",2019,6,"five_plus",NA,NA,0.5
+"1139","Green Twp.",2019,6,"Non_MR",NA,NA,1
+"1140","Green Twp.",2019,6,"MR",NA,NA,0
+"1141","Green Twp.",2019,6,"Total",NA,NA,0.5
+"1142","Green Twp.",2019,7,"five_plus",NA,NA,1
+"1143","Green Twp.",2019,7,"MR",NA,NA,1
+"1144","Green Twp.",2019,7,"Total",NA,NA,1
+"1145","Green Twp.",2019,8,"no_birth_date",NA,NA,1
+"1146","Green Twp.",2019,8,"zero_five",NA,NA,1
+"1147","Green Twp.",2019,8,"Non_MR",NA,NA,1
+"1148","Green Twp.",2019,8,"MR",NA,NA,1
+"1149","Green Twp.",2019,8,"Total",NA,NA,1
+"1150","Green Twp.",2019,9,"five_plus",NA,NA,1
+"1151","Green Twp.",2019,9,"zero_five",NA,NA,1
+"1152","Green Twp.",2019,9,"MR",NA,NA,1
+"1153","Green Twp.",2019,9,"Total",NA,NA,1
+"1154","Green Twp.",2019,11,"five_plus",NA,NA,1
+"1155","Green Twp.",2019,11,"zero_five",NA,NA,1
+"1156","Green Twp.",2019,11,"Non_MR",NA,NA,1
+"1157","Green Twp.",2019,11,"Total",NA,NA,1
+"1158","Green Twp.",2019,12,"five_plus",NA,NA,1
+"1159","Green Twp.",2019,12,"Non_MR",NA,NA,1
+"1160","Green Twp.",2019,12,"Total",NA,NA,1
+"1161","Green Twp.",2020,1,"five_plus",NA,NA,0
+"1162","Green Twp.",2020,1,"MR",NA,NA,0
+"1163","Green Twp.",2020,1,"Total",NA,NA,0
+"1164","Green Twp.",2020,5,"five_plus",NA,NA,1
+"1165","Green Twp.",2020,5,"Non_MR",NA,NA,1
+"1166","Green Twp.",2020,5,"Total",NA,NA,1
+"1167","Green Twp.",2020,8,"five_plus",NA,NA,0
+"1168","Green Twp.",2020,8,"zero_five",NA,NA,1
+"1169","Green Twp.",2020,8,"Non_MR",NA,NA,1
+"1170","Green Twp.",2020,8,"MR",NA,NA,0
+"1171","Green Twp.",2020,8,"Total",NA,NA,0.5
+"1172","Green Twp.",2020,9,"five_plus",NA,NA,1
+"1173","Green Twp.",2020,9,"no_birth_date",NA,NA,0
+"1174","Green Twp.",2020,9,"Non_MR",NA,NA,1
+"1175","Green Twp.",2020,9,"MR",NA,NA,0
+"1176","Green Twp.",2020,9,"Total",6,8,0.75
+"1177","Green Twp.",2020,10,"five_plus",NA,NA,1
+"1178","Green Twp.",2020,10,"MR",NA,NA,1
+"1179","Green Twp.",2020,10,"Total",NA,NA,1
+"1180","Green Twp.",2020,11,"five_plus",NA,NA,0
+"1181","Green Twp.",2020,11,"zero_five",NA,NA,1
+"1182","Green Twp.",2020,11,"Non_MR",NA,NA,0.5
+"1183","Green Twp.",2020,11,"Total",NA,NA,0.5
+"1184","Green Twp.",2020,12,"zero_five",NA,NA,0
+"1185","Green Twp.",2020,12,"MR",NA,NA,0
+"1186","Green Twp.",2020,12,"Total",NA,NA,0
+"1187","Green Twp.",2021,1,"five_plus",NA,NA,1
+"1188","Green Twp.",2021,1,"MR",NA,NA,1
+"1189","Green Twp.",2021,1,"Total",NA,NA,1
+"1190","Green Twp.",2021,4,"five_plus",NA,NA,1
+"1191","Green Twp.",2021,4,"MR",NA,NA,1
+"1192","Green Twp.",2021,4,"Total",NA,NA,1
+"1193","Green Twp.",2021,6,"five_plus",NA,NA,1
+"1194","Green Twp.",2021,6,"MR",NA,NA,1
+"1195","Green Twp.",2021,6,"Total",NA,NA,1
+"1196","Green Twp.",2021,7,"five_plus",NA,NA,1
+"1197","Green Twp.",2021,7,"zero_five",NA,NA,1
+"1198","Green Twp.",2021,7,"MR",NA,NA,1
+"1199","Green Twp.",2021,7,"Total",NA,NA,1
+"1200","Green Twp.",2021,10,"no_birth_date",NA,NA,0
+"1201","Green Twp.",2021,10,"MR",NA,NA,0
+"1202","Green Twp.",2021,10,"Total",NA,NA,0
+"1203","Green Twp.",2021,11,"five_plus",NA,NA,0
+"1204","Green Twp.",2021,11,"MR",NA,NA,0
+"1205","Green Twp.",2021,11,"Total",NA,NA,0
+"1206","Green Twp.",2021,12,"five_plus",NA,NA,0.75
+"1207","Green Twp.",2021,12,"no_birth_date",NA,NA,1
+"1208","Green Twp.",2021,12,"Non_MR",NA,NA,0.5
+"1209","Green Twp.",2021,12,"MR",NA,NA,1
+"1210","Green Twp.",2021,12,"Total",8,10,0.8
+"1211","Harrison",2017,1,"five_plus",NA,NA,1
+"1212","Harrison",2017,1,"zero_five",NA,NA,1
+"1213","Harrison",2017,1,"Non_MR",NA,NA,1
+"1214","Harrison",2017,1,"MR",NA,NA,1
+"1215","Harrison",2017,1,"Total",NA,NA,1
+"1216","Harrison",2017,8,"five_plus",NA,NA,1
+"1217","Harrison",2017,8,"Non_MR",NA,NA,1
+"1218","Harrison",2017,8,"Total",NA,NA,1
+"1219","Harrison",2018,2,"five_plus",NA,NA,1
+"1220","Harrison",2018,2,"MR",NA,NA,1
+"1221","Harrison",2018,2,"Total",NA,NA,1
+"1222","Harrison",2018,3,"five_plus",NA,NA,1
+"1223","Harrison",2018,3,"Non_MR",NA,NA,1
+"1224","Harrison",2018,3,"Total",NA,NA,1
+"1225","Harrison",2019,1,"five_plus",NA,NA,1
+"1226","Harrison",2019,1,"MR",NA,NA,1
+"1227","Harrison",2019,1,"Total",NA,NA,1
+"1228","Harrison",2019,3,"no_birth_date",NA,NA,1
+"1229","Harrison",2019,3,"Non_MR",NA,NA,1
+"1230","Harrison",2019,3,"Total",NA,NA,1
+"1231","Harrison",2019,4,"five_plus",NA,NA,1
+"1232","Harrison",2019,4,"Non_MR",NA,NA,1
+"1233","Harrison",2019,4,"MR",NA,NA,1
+"1234","Harrison",2019,4,"Total",NA,NA,1
+"1235","Harrison",2019,6,"five_plus",NA,NA,1
+"1236","Harrison",2019,6,"Non_MR",NA,NA,1
+"1237","Harrison",2019,6,"Total",NA,NA,1
+"1238","Harrison",2020,2,"five_plus",NA,NA,1
+"1239","Harrison",2020,2,"MR",NA,NA,1
+"1240","Harrison",2020,2,"Total",NA,NA,1
+"1241","Harrison",2020,3,"five_plus",NA,NA,1
+"1242","Harrison",2020,3,"zero_five",NA,NA,1
+"1243","Harrison",2020,3,"Non_MR",NA,NA,1
+"1244","Harrison",2020,3,"MR",NA,NA,1
+"1245","Harrison",2020,3,"Total",NA,NA,1
+"1246","Harrison",2020,7,"five_plus",NA,NA,1
+"1247","Harrison",2020,7,"Non_MR",NA,NA,1
+"1248","Harrison",2020,7,"Total",NA,NA,1
+"1249","Harrison",2020,8,"five_plus",NA,NA,1
+"1250","Harrison",2020,8,"MR",NA,NA,1
+"1251","Harrison",2020,8,"Total",NA,NA,1
+"1252","Harrison",2020,10,"five_plus",NA,NA,1
+"1253","Harrison",2020,10,"Non_MR",NA,NA,1
+"1254","Harrison",2020,10,"Total",NA,NA,1
+"1255","Harrison",2020,12,"zero_five",NA,NA,1
+"1256","Harrison",2020,12,"Non_MR",NA,NA,1
+"1257","Harrison",2020,12,"Total",NA,NA,1
+"1258","Harrison",2021,1,"no_birth_date",NA,NA,1
+"1259","Harrison",2021,1,"MR",NA,NA,1
+"1260","Harrison",2021,1,"Total",NA,NA,1
+"1261","Harrison",2021,7,"no_birth_date",NA,NA,1
+"1262","Harrison",2021,7,"zero_five",NA,NA,1
+"1263","Harrison",2021,7,"MR",NA,NA,1
+"1264","Harrison",2021,7,"Total",NA,NA,1
+"1265","Harrison",2021,8,"no_birth_date",NA,NA,1
+"1266","Harrison",2021,8,"Non_MR",NA,NA,1
+"1267","Harrison",2021,8,"Total",NA,NA,1
+"1268","Harrison",2021,9,"no_birth_date",NA,NA,1
+"1269","Harrison",2021,9,"Non_MR",NA,NA,1
+"1270","Harrison",2021,9,"Total",NA,NA,1
+"1271","Harrison",2021,11,"zero_five",NA,NA,1
+"1272","Harrison",2021,11,"MR",NA,NA,1
+"1273","Harrison",2021,11,"Total",NA,NA,1
+"1274","Harrison",2021,12,"five_plus",NA,NA,1
+"1275","Harrison",2021,12,"MR",NA,NA,1
+"1276","Harrison",2021,12,"Total",NA,NA,1
+"1277","Hartwell",2017,3,"five_plus",NA,NA,1
+"1278","Hartwell",2017,3,"Non_MR",NA,NA,1
+"1279","Hartwell",2017,3,"Total",NA,NA,1
+"1280","Hartwell",2017,8,"no_birth_date",NA,NA,1
+"1281","Hartwell",2017,8,"Non_MR",NA,NA,1
+"1282","Hartwell",2017,8,"Total",NA,NA,1
+"1283","Hartwell",2019,5,"zero_five",NA,NA,1
+"1284","Hartwell",2019,5,"Non_MR",NA,NA,1
+"1285","Hartwell",2019,5,"Total",NA,NA,1
+"1286","Hartwell",2020,5,"zero_five",NA,NA,1
+"1287","Hartwell",2020,5,"Non_MR",NA,NA,1
+"1288","Hartwell",2020,5,"Total",NA,NA,1
+"1289","Hartwell",2021,3,"five_plus",NA,NA,1
+"1290","Hartwell",2021,3,"Non_MR",NA,NA,1
+"1291","Hartwell",2021,3,"Total",NA,NA,1
+"1292","Hartwell",2021,11,"zero_five",NA,NA,1
+"1293","Hartwell",2021,11,"Non_MR",NA,NA,1
+"1294","Hartwell",2021,11,"Total",NA,NA,1
+"1295","Hyde Park",2017,1,"zero_five",NA,NA,0
+"1296","Hyde Park",2017,1,"MR",NA,NA,0
+"1297","Hyde Park",2017,1,"Total",NA,NA,0
+"1298","Hyde Park",2017,2,"five_plus",NA,NA,0
+"1299","Hyde Park",2017,2,"MR",NA,NA,0
+"1300","Hyde Park",2017,2,"Total",NA,NA,0
+"1301","Hyde Park",2017,3,"five_plus",NA,NA,0
+"1302","Hyde Park",2017,3,"MR",NA,NA,0
+"1303","Hyde Park",2017,3,"Total",NA,NA,0
+"1304","Hyde Park",2017,4,"five_plus",NA,NA,0
+"1305","Hyde Park",2017,4,"zero_five",NA,NA,0
+"1306","Hyde Park",2017,4,"MR",NA,NA,0
+"1307","Hyde Park",2017,4,"Total",NA,NA,0
+"1308","Hyde Park",2017,5,"zero_five",NA,NA,0
+"1309","Hyde Park",2017,5,"Non_MR",NA,NA,0
+"1310","Hyde Park",2017,5,"MR",NA,NA,0
+"1311","Hyde Park",2017,5,"Total",NA,NA,0
+"1312","Hyde Park",2017,6,"no_birth_date",NA,NA,0
+"1313","Hyde Park",2017,6,"zero_five",NA,NA,0
+"1314","Hyde Park",2017,6,"Non_MR",NA,NA,0
+"1315","Hyde Park",2017,6,"MR",NA,NA,0
+"1316","Hyde Park",2017,6,"Total",NA,NA,0
+"1317","Hyde Park",2017,9,"zero_five",NA,NA,0
+"1318","Hyde Park",2017,9,"MR",NA,NA,0
+"1319","Hyde Park",2017,9,"Total",NA,NA,0
+"1320","Hyde Park",2017,12,"five_plus",NA,NA,0
+"1321","Hyde Park",2017,12,"Non_MR",NA,NA,0
+"1322","Hyde Park",2017,12,"Total",NA,NA,0
+"1323","Hyde Park",2018,1,"five_plus",NA,NA,0
+"1324","Hyde Park",2018,1,"MR",NA,NA,0
+"1325","Hyde Park",2018,1,"Total",NA,NA,0
+"1326","Hyde Park",2018,4,"five_plus",NA,NA,0
+"1327","Hyde Park",2018,4,"MR",NA,NA,0
+"1328","Hyde Park",2018,4,"Total",NA,NA,0
+"1329","Hyde Park",2018,5,"zero_five",NA,NA,0
+"1330","Hyde Park",2018,5,"MR",NA,NA,0
+"1331","Hyde Park",2018,5,"Total",NA,NA,0
+"1332","Hyde Park",2018,6,"five_plus",NA,NA,0
+"1333","Hyde Park",2018,6,"MR",NA,NA,0
+"1334","Hyde Park",2018,6,"Total",NA,NA,0
+"1335","Hyde Park",2018,10,"zero_five",NA,NA,0
+"1336","Hyde Park",2018,10,"Non_MR",NA,NA,0
+"1337","Hyde Park",2018,10,"Total",NA,NA,0
+"1338","Hyde Park",2018,11,"no_birth_date",NA,NA,0
+"1339","Hyde Park",2018,11,"MR",NA,NA,0
+"1340","Hyde Park",2018,11,"Total",NA,NA,0
+"1341","Hyde Park",2019,7,"five_plus",NA,NA,0
+"1342","Hyde Park",2019,7,"zero_five",NA,NA,0
+"1343","Hyde Park",2019,7,"Non_MR",NA,NA,0
+"1344","Hyde Park",2019,7,"Total",NA,6,0
+"1345","Hyde Park",2019,10,"zero_five",NA,NA,0
+"1346","Hyde Park",2019,10,"MR",NA,NA,0
+"1347","Hyde Park",2019,10,"Total",NA,NA,0
+"1348","Hyde Park",2020,2,"five_plus",NA,NA,0
+"1349","Hyde Park",2020,2,"MR",NA,NA,0
+"1350","Hyde Park",2020,2,"Total",NA,NA,0
+"1351","Hyde Park",2020,3,"five_plus",NA,NA,0
+"1352","Hyde Park",2020,3,"Non_MR",NA,NA,0
+"1353","Hyde Park",2020,3,"Total",NA,NA,0
+"1354","Hyde Park",2020,5,"five_plus",NA,NA,0
+"1355","Hyde Park",2020,5,"zero_five",NA,NA,0
+"1356","Hyde Park",2020,5,"Non_MR",NA,NA,0
+"1357","Hyde Park",2020,5,"MR",NA,NA,0
+"1358","Hyde Park",2020,5,"Total",NA,6,0
+"1359","Hyde Park",2020,7,"five_plus",NA,NA,0
+"1360","Hyde Park",2020,7,"MR",NA,NA,0
+"1361","Hyde Park",2020,7,"Total",NA,NA,0
+"1362","Hyde Park",2020,8,"five_plus",NA,NA,0
+"1363","Hyde Park",2020,8,"MR",NA,NA,0
+"1364","Hyde Park",2020,8,"Total",NA,NA,0
+"1365","Hyde Park",2020,10,"zero_five",NA,NA,0
+"1366","Hyde Park",2020,10,"MR",NA,NA,0
+"1367","Hyde Park",2020,10,"Total",NA,NA,0
+"1368","Hyde Park",2020,11,"five_plus",NA,NA,0
+"1369","Hyde Park",2020,11,"zero_five",NA,NA,0
+"1370","Hyde Park",2020,11,"Non_MR",NA,NA,0
+"1371","Hyde Park",2020,11,"MR",NA,NA,0
+"1372","Hyde Park",2020,11,"Total",NA,6,0
+"1373","Hyde Park",2021,7,"five_plus",NA,NA,0
+"1374","Hyde Park",2021,7,"MR",NA,NA,0
+"1375","Hyde Park",2021,7,"Total",NA,NA,0
+"1376","Hyde Park",2021,8,"five_plus",NA,NA,0
+"1377","Hyde Park",2021,8,"zero_five",NA,NA,0
+"1378","Hyde Park",2021,8,"MR",NA,NA,0
+"1379","Hyde Park",2021,8,"Total",NA,NA,0
+"1380","Indian Hill",2017,1,"zero_five",NA,NA,0
+"1381","Indian Hill",2017,1,"MR",NA,NA,0
+"1382","Indian Hill",2017,1,"Total",NA,NA,0
+"1383","Indian Hill",2017,2,"zero_five",NA,NA,0
+"1384","Indian Hill",2017,2,"MR",NA,NA,0
+"1385","Indian Hill",2017,2,"Total",NA,NA,0
+"1386","Indian Hill",2017,6,"zero_five",NA,NA,0
+"1387","Indian Hill",2017,6,"MR",NA,NA,0
+"1388","Indian Hill",2017,6,"Total",NA,NA,0
+"1389","Indian Hill",2017,7,"zero_five",NA,NA,0
+"1390","Indian Hill",2017,7,"MR",NA,NA,0
+"1391","Indian Hill",2017,7,"Total",NA,NA,0
+"1392","Indian Hill",2018,7,"no_birth_date",NA,NA,0
+"1393","Indian Hill",2018,7,"MR",NA,NA,0
+"1394","Indian Hill",2018,7,"Total",NA,NA,0
+"1395","Indian Hill",2018,9,"no_birth_date",NA,NA,0
+"1396","Indian Hill",2018,9,"MR",NA,NA,0
+"1397","Indian Hill",2018,9,"Total",NA,NA,0
+"1398","Indian Hill",2019,3,"five_plus",NA,NA,0
+"1399","Indian Hill",2019,3,"MR",NA,NA,0
+"1400","Indian Hill",2019,3,"Total",NA,NA,0
+"1401","Indian Hill",2019,8,"zero_five",NA,NA,0
+"1402","Indian Hill",2019,8,"MR",NA,NA,0
+"1403","Indian Hill",2019,8,"Total",NA,NA,0
+"1404","Indian Hill",2019,10,"zero_five",NA,NA,0
+"1405","Indian Hill",2019,10,"MR",NA,NA,0
+"1406","Indian Hill",2019,10,"Total",NA,NA,0
+"1407","Indian Hill",2020,3,"zero_five",NA,NA,0
+"1408","Indian Hill",2020,3,"MR",NA,NA,0
+"1409","Indian Hill",2020,3,"Total",NA,NA,0
+"1410","Indian Hill",2020,9,"five_plus",NA,NA,0
+"1411","Indian Hill",2020,9,"MR",NA,NA,0
+"1412","Indian Hill",2020,9,"Total",NA,NA,0
+"1413","Indian Hill",2021,4,"zero_five",NA,NA,0
+"1414","Indian Hill",2021,4,"MR",NA,NA,0
+"1415","Indian Hill",2021,4,"Total",NA,NA,0
+"1416","Kennedy Hts.",2019,5,"zero_five",NA,NA,1
+"1417","Kennedy Hts.",2019,5,"Non_MR",NA,NA,1
+"1418","Kennedy Hts.",2019,5,"Total",NA,NA,1
+"1419","Kennedy Hts.",2019,7,"zero_five",NA,NA,1
+"1420","Kennedy Hts.",2019,7,"Non_MR",NA,NA,1
+"1421","Kennedy Hts.",2019,7,"Total",NA,NA,1
+"1422","Kennedy Hts.",2020,4,"five_plus",NA,NA,1
+"1423","Kennedy Hts.",2020,4,"Non_MR",NA,NA,1
+"1424","Kennedy Hts.",2020,4,"Total",NA,NA,1
+"1425","Kennedy Hts.",2020,10,"five_plus",NA,NA,1
+"1426","Kennedy Hts.",2020,10,"Non_MR",NA,NA,1
+"1427","Kennedy Hts.",2020,10,"Total",NA,NA,1
+"1428","Kennedy Hts.",2021,10,"zero_five",NA,NA,1
+"1429","Kennedy Hts.",2021,10,"Non_MR",NA,NA,1
+"1430","Kennedy Hts.",2021,10,"Total",NA,NA,1
+"1431","Kennedy Hts.",2021,12,"five_plus",NA,NA,1
+"1432","Kennedy Hts.",2021,12,"Non_MR",NA,NA,1
+"1433","Kennedy Hts.",2021,12,"Total",NA,NA,1
+"1434","Lincoln Hts.",2017,9,"zero_five",NA,NA,1
+"1435","Lincoln Hts.",2017,9,"Non_MR",NA,NA,1
+"1436","Lincoln Hts.",2017,9,"Total",NA,NA,1
+"1437","Lincoln Hts.",2017,10,"zero_five",NA,NA,1
+"1438","Lincoln Hts.",2017,10,"Non_MR",NA,NA,1
+"1439","Lincoln Hts.",2017,10,"Total",NA,NA,1
+"1440","Lincoln Hts.",2018,2,"five_plus",NA,NA,1
+"1441","Lincoln Hts.",2018,2,"Non_MR",NA,NA,1
+"1442","Lincoln Hts.",2018,2,"Total",NA,NA,1
+"1443","Lincoln Hts.",2018,7,"five_plus",NA,NA,1
+"1444","Lincoln Hts.",2018,7,"Non_MR",NA,NA,1
+"1445","Lincoln Hts.",2018,7,"Total",NA,NA,1
+"1446","Lincoln Hts.",2018,12,"five_plus",NA,NA,1
+"1447","Lincoln Hts.",2018,12,"Non_MR",NA,NA,1
+"1448","Lincoln Hts.",2018,12,"Total",NA,NA,1
+"1449","Lincoln Hts.",2021,4,"five_plus",NA,NA,1
+"1450","Lincoln Hts.",2021,4,"Non_MR",NA,NA,1
+"1451","Lincoln Hts.",2021,4,"Total",NA,NA,1
+"1452","Lower Price Hill-Queensgate",2019,8,"five_plus",NA,NA,1
+"1453","Lower Price Hill-Queensgate",2019,8,"Non_MR",NA,NA,1
+"1454","Lower Price Hill-Queensgate",2019,8,"Total",NA,NA,1
+"1455","Lower Price Hill-Queensgate",2019,11,"five_plus",NA,NA,1
+"1456","Lower Price Hill-Queensgate",2019,11,"Non_MR",NA,NA,1
+"1457","Lower Price Hill-Queensgate",2019,11,"Total",NA,NA,1
+"1458","Lower Price Hill-Queensgate",2020,1,"five_plus",NA,NA,1
+"1459","Lower Price Hill-Queensgate",2020,1,"Non_MR",NA,NA,1
+"1460","Lower Price Hill-Queensgate",2020,1,"Total",NA,NA,1
+"1461","Lower Price Hill-Queensgate",2020,2,"no_birth_date",NA,NA,1
+"1462","Lower Price Hill-Queensgate",2020,2,"Non_MR",NA,NA,1
+"1463","Lower Price Hill-Queensgate",2020,2,"Total",NA,NA,1
+"1464","Lower Price Hill-Queensgate",2021,4,"zero_five",NA,NA,1
+"1465","Lower Price Hill-Queensgate",2021,4,"Non_MR",NA,NA,1
+"1466","Lower Price Hill-Queensgate",2021,4,"Total",NA,NA,1
+"1467","Lower Price Hill-Queensgate",2021,10,"five_plus",NA,NA,1
+"1468","Lower Price Hill-Queensgate",2021,10,"Non_MR",NA,NA,1
+"1469","Lower Price Hill-Queensgate",2021,10,"Total",NA,NA,1
+"1470","Madeira",2019,6,"zero_five",NA,NA,1
+"1471","Madeira",2019,6,"Non_MR",NA,NA,1
+"1472","Madeira",2019,6,"Total",NA,NA,1
+"1473","Madeira",2019,8,"five_plus",NA,NA,1
+"1474","Madeira",2019,8,"Non_MR",NA,NA,1
+"1475","Madeira",2019,8,"Total",NA,NA,1
+"1476","Madeira",2019,12,"five_plus",NA,NA,1
+"1477","Madeira",2019,12,"Non_MR",NA,NA,1
+"1478","Madeira",2019,12,"Total",NA,NA,1
+"1479","Madeira",2020,12,"zero_five",NA,NA,1
+"1480","Madeira",2020,12,"Non_MR",NA,NA,1
+"1481","Madeira",2020,12,"Total",NA,NA,1
+"1482","Madeira",2021,4,"five_plus",NA,NA,1
+"1483","Madeira",2021,4,"Non_MR",NA,NA,1
+"1484","Madeira",2021,4,"Total",NA,NA,1
+"1485","Madeira",2021,7,"five_plus",NA,NA,1
+"1486","Madeira",2021,7,"Non_MR",NA,NA,1
+"1487","Madeira",2021,7,"Total",NA,NA,1
+"1488","Madisonville",2017,5,"no_birth_date",NA,NA,1
+"1489","Madisonville",2017,5,"Non_MR",NA,NA,1
+"1490","Madisonville",2017,5,"Total",NA,NA,1
+"1491","Madisonville",2017,10,"five_plus",NA,NA,1
+"1492","Madisonville",2017,10,"Non_MR",NA,NA,1
+"1493","Madisonville",2017,10,"Total",NA,NA,1
+"1494","Madisonville",2017,11,"zero_five",NA,NA,1
+"1495","Madisonville",2017,11,"Non_MR",NA,NA,1
+"1496","Madisonville",2017,11,"Total",NA,NA,1
+"1497","Madisonville",2018,1,"zero_five",NA,NA,1
+"1498","Madisonville",2018,1,"Non_MR",NA,NA,1
+"1499","Madisonville",2018,1,"Total",NA,NA,1
+"1500","Madisonville",2018,5,"zero_five",NA,NA,1
+"1501","Madisonville",2018,5,"Non_MR",NA,NA,1
+"1502","Madisonville",2018,5,"Total",NA,NA,1
+"1503","Madisonville",2019,3,"five_plus",NA,NA,1
+"1504","Madisonville",2019,3,"Non_MR",NA,NA,1
+"1505","Madisonville",2019,3,"Total",NA,NA,1
+"1506","Madisonville",2019,5,"zero_five",NA,NA,1
+"1507","Madisonville",2019,5,"Non_MR",NA,NA,1
+"1508","Madisonville",2019,5,"Total",NA,NA,1
+"1509","Madisonville",2020,2,"zero_five",NA,NA,1
+"1510","Madisonville",2020,2,"Non_MR",NA,NA,1
+"1511","Madisonville",2020,2,"Total",NA,NA,1
+"1512","Madisonville",2020,12,"zero_five",NA,NA,1
+"1513","Madisonville",2020,12,"Non_MR",NA,NA,1
+"1514","Madisonville",2020,12,"Total",NA,NA,1
+"1515","Madisonville",2021,3,"five_plus",NA,NA,1
+"1516","Madisonville",2021,3,"zero_five",NA,NA,1
+"1517","Madisonville",2021,3,"Non_MR",NA,NA,1
+"1518","Madisonville",2021,3,"Total",NA,NA,1
+"1519","Mariemont",2017,6,"zero_five",NA,NA,1
+"1520","Mariemont",2017,6,"MR",NA,NA,1
+"1521","Mariemont",2017,6,"Total",NA,NA,1
+"1522","Mariemont",2018,3,"zero_five",NA,NA,1
+"1523","Mariemont",2018,3,"MR",NA,NA,1
+"1524","Mariemont",2018,3,"Total",NA,NA,1
+"1525","Mariemont",2018,4,"zero_five",NA,NA,1
+"1526","Mariemont",2018,4,"MR",NA,NA,1
+"1527","Mariemont",2018,4,"Total",NA,NA,1
+"1528","Mariemont",2018,12,"zero_five",NA,NA,1
+"1529","Mariemont",2018,12,"MR",NA,NA,1
+"1530","Mariemont",2018,12,"Total",NA,NA,1
+"1531","Mariemont",2019,12,"no_birth_date",NA,NA,1
+"1532","Mariemont",2019,12,"MR",NA,NA,1
+"1533","Mariemont",2019,12,"Total",NA,NA,1
+"1534","Mariemont",2020,10,"five_plus",NA,NA,1
+"1535","Mariemont",2020,10,"MR",NA,NA,1
+"1536","Mariemont",2020,10,"Total",NA,NA,1
+"1537","Miami Twp.",2017,4,"five_plus",NA,NA,1
+"1538","Miami Twp.",2017,4,"MR",NA,NA,1
+"1539","Miami Twp.",2017,4,"Total",NA,NA,1
+"1540","Miami Twp.",2018,2,"five_plus",NA,NA,1
+"1541","Miami Twp.",2018,2,"MR",NA,NA,1
+"1542","Miami Twp.",2018,2,"Total",NA,NA,1
+"1543","Miami Twp.",2018,3,"zero_five",NA,NA,1
+"1544","Miami Twp.",2018,3,"Non_MR",NA,NA,1
+"1545","Miami Twp.",2018,3,"Total",NA,NA,1
+"1546","Miami Twp.",2018,7,"five_plus",NA,NA,1
+"1547","Miami Twp.",2018,7,"MR",NA,NA,1
+"1548","Miami Twp.",2018,7,"Total",NA,NA,1
+"1549","Miami Twp.",2019,9,"zero_five",NA,NA,1
+"1550","Miami Twp.",2019,9,"MR",NA,NA,1
+"1551","Miami Twp.",2019,9,"Total",NA,NA,1
+"1552","Miami Twp.",2020,3,"no_birth_date",NA,NA,1
+"1553","Miami Twp.",2020,3,"Non_MR",NA,NA,1
+"1554","Miami Twp.",2020,3,"Total",NA,NA,1
+"1555","Miami Twp.",2020,6,"five_plus",NA,NA,1
+"1556","Miami Twp.",2020,6,"MR",NA,NA,1
+"1557","Miami Twp.",2020,6,"Total",NA,NA,1
+"1558","Miami Twp.",2020,7,"five_plus",NA,NA,1
+"1559","Miami Twp.",2020,7,"Non_MR",NA,NA,1
+"1560","Miami Twp.",2020,7,"Total",NA,NA,1
+"1561","Miami Twp.",2021,6,"five_plus",NA,NA,1
+"1562","Miami Twp.",2021,6,"zero_five",NA,NA,1
+"1563","Miami Twp.",2021,6,"Non_MR",NA,NA,1
+"1564","Miami Twp.",2021,6,"Total",NA,NA,1
+"1565","Miami Twp.",2021,8,"five_plus",NA,NA,1
+"1566","Miami Twp.",2021,8,"MR",NA,NA,1
+"1567","Miami Twp.",2021,8,"Total",NA,NA,1
+"1568","Miami Twp.",2021,12,"no_birth_date",NA,NA,1
+"1569","Miami Twp.",2021,12,"Non_MR",NA,NA,1
+"1570","Miami Twp.",2021,12,"Total",NA,NA,1
+"1571","Missing",2017,1,"no_birth_date",NA,NA,0
+"1572","Missing",2017,1,"zero_five",NA,NA,0.5
+"1573","Missing",2017,1,"Non_MR",NA,NA,0
+"1574","Missing",2017,1,"MR",NA,NA,0.5
+"1575","Missing",2017,1,"Total",NA,6,0.33
+"1576","Missing",2017,2,"five_plus",NA,NA,1
+"1577","Missing",2017,2,"zero_five",NA,NA,1
+"1578","Missing",2017,2,"Non_MR",NA,NA,1
+"1579","Missing",2017,2,"MR",NA,NA,1
+"1580","Missing",2017,2,"Total",10,10,1
+"1581","Missing",2017,3,"zero_five",NA,NA,1
+"1582","Missing",2017,3,"MR",NA,NA,1
+"1583","Missing",2017,3,"Total",NA,NA,1
+"1584","Missing",2017,4,"five_plus",NA,NA,1
+"1585","Missing",2017,4,"no_birth_date",NA,NA,0
+"1586","Missing",2017,4,"zero_five",NA,NA,1
+"1587","Missing",2017,4,"Non_MR",NA,NA,0.5
+"1588","Missing",2017,4,"MR",NA,NA,1
+"1589","Missing",2017,4,"Total",6,8,0.75
+"1590","Missing",2017,5,"five_plus",NA,NA,0
+"1591","Missing",2017,5,"Non_MR",NA,NA,0
+"1592","Missing",2017,5,"Total",NA,NA,0
+"1593","Missing",2017,6,"five_plus",NA,NA,1
+"1594","Missing",2017,6,"zero_five",NA,NA,0.5
+"1595","Missing",2017,6,"Non_MR",NA,NA,0.5
+"1596","Missing",2017,6,"MR",NA,NA,0.67
+"1597","Missing",2017,6,"Total",6,10,0.6
+"1598","Missing",2017,7,"five_plus",NA,NA,1
+"1599","Missing",2017,7,"no_birth_date",NA,NA,1
+"1600","Missing",2017,7,"zero_five",NA,NA,0.5
+"1601","Missing",2017,7,"Non_MR",NA,NA,0.33
+"1602","Missing",2017,7,"MR",NA,NA,1
+"1603","Missing",2017,7,"Total",10,14,0.71
+"1604","Missing",2017,9,"five_plus",NA,NA,0
+"1605","Missing",2017,9,"zero_five",NA,NA,0
+"1606","Missing",2017,9,"Non_MR",NA,NA,0
+"1607","Missing",2017,9,"MR",NA,NA,0
+"1608","Missing",2017,9,"Total",NA,NA,0
+"1609","Missing",2017,10,"five_plus",NA,NA,1
+"1610","Missing",2017,10,"zero_five",NA,NA,0.67
+"1611","Missing",2017,10,"Non_MR",NA,NA,1
+"1612","Missing",2017,10,"MR",NA,NA,0.5
+"1613","Missing",2017,10,"Total",6,8,0.75
+"1614","Missing",2017,11,"five_plus",NA,NA,0.67
+"1615","Missing",2017,11,"zero_five",NA,NA,0
+"1616","Missing",2017,11,"Non_MR",NA,NA,0
+"1617","Missing",2017,11,"MR",NA,NA,0.67
+"1618","Missing",2017,11,"Total",NA,10,0.4
+"1619","Missing",2017,12,"five_plus",NA,NA,0.5
+"1620","Missing",2017,12,"Non_MR",NA,NA,1
+"1621","Missing",2017,12,"MR",NA,NA,0
+"1622","Missing",2017,12,"Total",NA,NA,0.5
+"1623","Missing",2018,1,"five_plus",NA,NA,1
+"1624","Missing",2018,1,"zero_five",NA,NA,0
+"1625","Missing",2018,1,"Non_MR",NA,NA,0
+"1626","Missing",2018,1,"MR",NA,NA,1
+"1627","Missing",2018,1,"Total",NA,NA,0.5
+"1628","Missing",2018,2,"five_plus",NA,NA,1
+"1629","Missing",2018,2,"Non_MR",NA,NA,1
+"1630","Missing",2018,2,"MR",NA,NA,1
+"1631","Missing",2018,2,"Total",NA,NA,1
+"1632","Missing",2018,3,"five_plus",NA,NA,0.5
+"1633","Missing",2018,3,"no_birth_date",NA,NA,1
+"1634","Missing",2018,3,"zero_five",NA,NA,0.67
+"1635","Missing",2018,3,"Non_MR",NA,NA,0.5
+"1636","Missing",2018,3,"MR",NA,NA,0.75
+"1637","Missing",2018,3,"Total",8,12,0.67
+"1638","Missing",2018,4,"five_plus",NA,NA,1
+"1639","Missing",2018,4,"no_birth_date",NA,NA,0
+"1640","Missing",2018,4,"Non_MR",NA,NA,0.5
+"1641","Missing",2018,4,"MR",NA,NA,1
+"1642","Missing",2018,4,"Total",NA,6,0.67
+"1643","Missing",2018,5,"five_plus",NA,NA,0.5
+"1644","Missing",2018,5,"Non_MR",NA,NA,0.5
+"1645","Missing",2018,5,"Total",NA,NA,0.5
+"1646","Missing",2018,6,"five_plus",NA,NA,1
+"1647","Missing",2018,6,"MR",NA,NA,1
+"1648","Missing",2018,6,"Total",NA,NA,1
+"1649","Missing",2018,7,"no_birth_date",NA,NA,1
+"1650","Missing",2018,7,"MR",NA,NA,1
+"1651","Missing",2018,7,"Total",NA,NA,1
+"1652","Missing",2018,8,"five_plus",NA,NA,1
+"1653","Missing",2018,8,"no_birth_date",NA,NA,1
+"1654","Missing",2018,8,"zero_five",NA,NA,0.5
+"1655","Missing",2018,8,"Non_MR",NA,NA,0.67
+"1656","Missing",2018,8,"MR",NA,NA,1
+"1657","Missing",2018,8,"Total",8,10,0.8
+"1658","Missing",2018,9,"no_birth_date",NA,NA,0
+"1659","Missing",2018,9,"Non_MR",NA,NA,0
+"1660","Missing",2018,9,"Total",NA,NA,0
+"1661","Missing",2018,10,"zero_five",NA,NA,0
+"1662","Missing",2018,10,"Non_MR",NA,NA,0
+"1663","Missing",2018,10,"Total",NA,NA,0
+"1664","Missing",2018,11,"no_birth_date",NA,NA,1
+"1665","Missing",2018,11,"zero_five",NA,NA,0.5
+"1666","Missing",2018,11,"Non_MR",NA,NA,1
+"1667","Missing",2018,11,"MR",NA,NA,0.67
+"1668","Missing",2018,11,"Total",6,8,0.75
+"1669","Missing",2018,12,"five_plus",NA,NA,0
+"1670","Missing",2018,12,"Non_MR",NA,NA,0
+"1671","Missing",2018,12,"MR",NA,NA,0
+"1672","Missing",2018,12,"Total",NA,NA,0
+"1673","Missing",2019,1,"five_plus",NA,NA,0
+"1674","Missing",2019,1,"no_birth_date",NA,NA,1
+"1675","Missing",2019,1,"Non_MR",NA,NA,0
+"1676","Missing",2019,1,"MR",NA,NA,1
+"1677","Missing",2019,1,"Total",NA,NA,0.5
+"1678","Missing",2019,2,"five_plus",NA,NA,1
+"1679","Missing",2019,2,"zero_five",NA,NA,0
+"1680","Missing",2019,2,"Non_MR",NA,NA,0
+"1681","Missing",2019,2,"MR",NA,NA,1
+"1682","Missing",2019,2,"Total",NA,6,0.33
+"1683","Missing",2019,3,"zero_five",NA,NA,1
+"1684","Missing",2019,3,"Non_MR",NA,NA,1
+"1685","Missing",2019,3,"Total",NA,NA,1
+"1686","Missing",2019,4,"five_plus",NA,5,0.2
+"1687","Missing",2019,4,"Non_MR",NA,5,0.2
+"1688","Missing",2019,4,"Total",NA,10,0.2
+"1689","Missing",2019,6,"five_plus",NA,NA,0.5
+"1690","Missing",2019,6,"zero_five",NA,NA,0
+"1691","Missing",2019,6,"Non_MR",NA,NA,0.5
+"1692","Missing",2019,6,"MR",NA,NA,0
+"1693","Missing",2019,6,"Total",NA,6,0.33
+"1694","Missing",2019,7,"five_plus",NA,NA,1
+"1695","Missing",2019,7,"Non_MR",NA,NA,1
+"1696","Missing",2019,7,"MR",NA,NA,1
+"1697","Missing",2019,7,"Total",6,6,1
+"1698","Missing",2019,8,"five_plus",NA,NA,0.5
+"1699","Missing",2019,8,"zero_five",NA,NA,0.5
+"1700","Missing",2019,8,"Non_MR",NA,NA,0.33
+"1701","Missing",2019,8,"MR",NA,NA,1
+"1702","Missing",2019,8,"Total",NA,8,0.5
+"1703","Missing",2019,9,"five_plus",NA,NA,1
+"1704","Missing",2019,9,"no_birth_date",NA,NA,1
+"1705","Missing",2019,9,"Non_MR",NA,NA,1
+"1706","Missing",2019,9,"MR",NA,NA,1
+"1707","Missing",2019,9,"Total",6,6,1
+"1708","Missing",2019,10,"five_plus",NA,NA,1
+"1709","Missing",2019,10,"zero_five",NA,NA,1
+"1710","Missing",2019,10,"Non_MR",NA,NA,1
+"1711","Missing",2019,10,"MR",NA,NA,1
+"1712","Missing",2019,10,"Total",6,6,1
+"1713","Missing",2019,11,"five_plus",NA,NA,0.5
+"1714","Missing",2019,11,"zero_five",NA,NA,1
+"1715","Missing",2019,11,"Non_MR",NA,NA,0.5
+"1716","Missing",2019,11,"MR",NA,NA,1
+"1717","Missing",2019,11,"Total",6,8,0.75
+"1718","Missing",2019,12,"five_plus",NA,NA,0.75
+"1719","Missing",2019,12,"Non_MR",NA,NA,0
+"1720","Missing",2019,12,"MR",NA,NA,1
+"1721","Missing",2019,12,"Total",6,8,0.75
+"1722","Missing",2020,1,"five_plus",NA,NA,1
+"1723","Missing",2020,1,"zero_five",NA,NA,1
+"1724","Missing",2020,1,"Non_MR",NA,NA,1
+"1725","Missing",2020,1,"MR",NA,NA,1
+"1726","Missing",2020,1,"Total",6,6,1
+"1727","Missing",2020,2,"five_plus",NA,NA,0.5
+"1728","Missing",2020,2,"zero_five",NA,NA,0.67
+"1729","Missing",2020,2,"Non_MR",NA,NA,0.33
+"1730","Missing",2020,2,"MR",NA,NA,1
+"1731","Missing",2020,2,"Total",6,10,0.6
+"1732","Missing",2020,3,"five_plus",NA,6,0.67
+"1733","Missing",2020,3,"Non_MR",NA,NA,0.5
+"1734","Missing",2020,3,"MR",NA,NA,1
+"1735","Missing",2020,3,"Total",8,12,0.67
+"1736","Missing",2020,4,"five_plus",NA,NA,1
+"1737","Missing",2020,4,"zero_five",NA,NA,1
+"1738","Missing",2020,4,"Non_MR",NA,NA,1
+"1739","Missing",2020,4,"MR",NA,NA,1
+"1740","Missing",2020,4,"Total",6,6,1
+"1741","Missing",2020,5,"no_birth_date",NA,NA,1
+"1742","Missing",2020,5,"zero_five",NA,NA,1
+"1743","Missing",2020,5,"Non_MR",NA,NA,1
+"1744","Missing",2020,5,"MR",NA,NA,1
+"1745","Missing",2020,5,"Total",6,6,1
+"1746","Missing",2020,6,"five_plus",NA,NA,0.67
+"1747","Missing",2020,6,"Non_MR",NA,NA,0.67
+"1748","Missing",2020,6,"Total",NA,6,0.67
+"1749","Missing",2020,7,"zero_five",NA,NA,1
+"1750","Missing",2020,7,"MR",NA,NA,1
+"1751","Missing",2020,7,"Total",NA,NA,1
+"1752","Missing",2020,8,"five_plus",NA,NA,0
+"1753","Missing",2020,8,"zero_five",NA,NA,1
+"1754","Missing",2020,8,"Non_MR",NA,NA,0.5
+"1755","Missing",2020,8,"Total",NA,NA,0.5
+"1756","Missing",2020,9,"five_plus",NA,NA,1
+"1757","Missing",2020,9,"Non_MR",NA,NA,1
+"1758","Missing",2020,9,"Total",NA,NA,1
+"1759","Missing",2020,10,"five_plus",NA,NA,1
+"1760","Missing",2020,10,"zero_five",NA,NA,0
+"1761","Missing",2020,10,"Non_MR",NA,NA,0
+"1762","Missing",2020,10,"MR",NA,NA,1
+"1763","Missing",2020,10,"Total",6,8,0.75
+"1764","Missing",2020,11,"five_plus",NA,NA,0.5
+"1765","Missing",2020,11,"zero_five",NA,NA,0.67
+"1766","Missing",2020,11,"Non_MR",NA,NA,0.5
+"1767","Missing",2020,11,"MR",NA,NA,1
+"1768","Missing",2020,11,"Total",6,10,0.6
+"1769","Missing",2020,12,"five_plus",NA,NA,1
+"1770","Missing",2020,12,"zero_five",NA,NA,0
+"1771","Missing",2020,12,"Non_MR",NA,NA,0.5
+"1772","Missing",2020,12,"MR",NA,NA,1
+"1773","Missing",2020,12,"Total",NA,6,0.67
+"1774","Missing",2021,1,"five_plus",NA,NA,1
+"1775","Missing",2021,1,"zero_five",NA,NA,1
+"1776","Missing",2021,1,"Non_MR",NA,NA,1
+"1777","Missing",2021,1,"MR",NA,NA,1
+"1778","Missing",2021,1,"Total",6,6,1
+"1779","Missing",2021,2,"five_plus",NA,NA,1
+"1780","Missing",2021,2,"MR",NA,NA,1
+"1781","Missing",2021,2,"Total",NA,NA,1
+"1782","Missing",2021,3,"five_plus",NA,NA,1
+"1783","Missing",2021,3,"MR",NA,NA,1
+"1784","Missing",2021,3,"Total",NA,NA,1
+"1785","Missing",2021,4,"five_plus",NA,NA,0.5
+"1786","Missing",2021,4,"Non_MR",NA,NA,0.5
+"1787","Missing",2021,4,"Total",NA,NA,0.5
+"1788","Missing",2021,6,"five_plus",NA,NA,1
+"1789","Missing",2021,6,"Non_MR",NA,NA,1
+"1790","Missing",2021,6,"Total",NA,NA,1
+"1791","Missing",2021,7,"five_plus",NA,NA,1
+"1792","Missing",2021,7,"MR",NA,NA,1
+"1793","Missing",2021,7,"Total",NA,NA,1
+"1794","Missing",2021,9,"five_plus",NA,NA,0.33
+"1795","Missing",2021,9,"zero_five",NA,NA,1
+"1796","Missing",2021,9,"Non_MR",NA,NA,0.5
+"1797","Missing",2021,9,"MR",NA,NA,0.5
+"1798","Missing",2021,9,"Total",NA,8,0.5
+"1799","Missing",2021,10,"five_plus",NA,NA,0.5
+"1800","Missing",2021,10,"Non_MR",NA,NA,0
+"1801","Missing",2021,10,"MR",NA,NA,1
+"1802","Missing",2021,10,"Total",NA,NA,0.5
+"1803","Missing",2021,11,"five_plus",NA,NA,0.5
+"1804","Missing",2021,11,"zero_five",NA,NA,1
+"1805","Missing",2021,11,"Non_MR",NA,NA,1
+"1806","Missing",2021,11,"MR",NA,NA,0.5
+"1807","Missing",2021,11,"Total",NA,6,0.67
+"1808","Missing",2021,12,"five_plus",NA,NA,1
+"1809","Missing",2021,12,"MR",NA,NA,1
+"1810","Missing",2021,12,"Total",6,6,1
+"1811","Montgomery",2019,1,"five_plus",NA,NA,1
+"1812","Montgomery",2019,1,"Non_MR",NA,NA,1
+"1813","Montgomery",2019,1,"Total",NA,NA,1
+"1814","Montgomery",2019,6,"five_plus",NA,NA,1
+"1815","Montgomery",2019,6,"Non_MR",NA,NA,1
+"1816","Montgomery",2019,6,"Total",NA,NA,1
+"1817","Montgomery",2019,12,"five_plus",NA,NA,1
+"1818","Montgomery",2019,12,"Non_MR",NA,NA,1
+"1819","Montgomery",2019,12,"Total",NA,NA,1
+"1820","Montgomery",2020,1,"five_plus",NA,NA,1
+"1821","Montgomery",2020,1,"Non_MR",NA,NA,1
+"1822","Montgomery",2020,1,"Total",NA,NA,1
+"1823","Montgomery",2020,7,"five_plus",NA,NA,1
+"1824","Montgomery",2020,7,"Non_MR",NA,NA,1
+"1825","Montgomery",2020,7,"Total",NA,NA,1
+"1826","Montgomery",2021,5,"five_plus",NA,NA,1
+"1827","Montgomery",2021,5,"Non_MR",NA,NA,1
+"1828","Montgomery",2021,5,"Total",NA,NA,1
+"1829","Mt. Adams",2018,8,"five_plus",NA,NA,1
+"1830","Mt. Adams",2018,8,"MR",NA,NA,1
+"1831","Mt. Adams",2018,8,"Total",NA,NA,1
+"1832","Mt. Adams",2019,11,"five_plus",NA,NA,1
+"1833","Mt. Adams",2019,11,"zero_five",NA,NA,1
+"1834","Mt. Adams",2019,11,"MR",NA,NA,1
+"1835","Mt. Adams",2019,11,"Total",NA,NA,1
+"1836","Mt. Adams",2020,4,"five_plus",NA,NA,1
+"1837","Mt. Adams",2020,4,"MR",NA,NA,1
+"1838","Mt. Adams",2020,4,"Total",NA,NA,1
+"1839","Mt. Adams",2020,10,"five_plus",NA,NA,1
+"1840","Mt. Adams",2020,10,"MR",NA,NA,1
+"1841","Mt. Adams",2020,10,"Total",NA,NA,1
+"1842","Mt. Adams",2021,12,"zero_five",NA,NA,1
+"1843","Mt. Adams",2021,12,"MR",NA,NA,1
+"1844","Mt. Adams",2021,12,"Total",NA,NA,1
+"1845","Mt. Lookout",2017,1,"five_plus",NA,NA,1
+"1846","Mt. Lookout",2017,1,"MR",NA,NA,1
+"1847","Mt. Lookout",2017,1,"Total",NA,NA,1
+"1848","Mt. Lookout",2017,2,"no_birth_date",NA,NA,1
+"1849","Mt. Lookout",2017,2,"MR",NA,NA,1
+"1850","Mt. Lookout",2017,2,"Total",NA,NA,1
+"1851","Mt. Lookout",2017,4,"no_birth_date",NA,NA,1
+"1852","Mt. Lookout",2017,4,"zero_five",NA,NA,1
+"1853","Mt. Lookout",2017,4,"Non_MR",NA,NA,1
+"1854","Mt. Lookout",2017,4,"MR",NA,NA,1
+"1855","Mt. Lookout",2017,4,"Total",NA,NA,1
+"1856","Mt. Lookout",2017,6,"zero_five",NA,NA,1
+"1857","Mt. Lookout",2017,6,"MR",NA,NA,1
+"1858","Mt. Lookout",2017,6,"Total",NA,NA,1
+"1859","Mt. Lookout",2018,1,"five_plus",NA,NA,1
+"1860","Mt. Lookout",2018,1,"MR",NA,NA,1
+"1861","Mt. Lookout",2018,1,"Total",NA,NA,1
+"1862","Mt. Lookout",2018,6,"five_plus",NA,NA,1
+"1863","Mt. Lookout",2018,6,"Non_MR",NA,NA,1
+"1864","Mt. Lookout",2018,6,"Total",NA,NA,1
+"1865","Mt. Lookout",2018,10,"no_birth_date",NA,NA,1
+"1866","Mt. Lookout",2018,10,"MR",NA,NA,1
+"1867","Mt. Lookout",2018,10,"Total",NA,NA,1
+"1868","Mt. Lookout",2019,3,"five_plus",NA,NA,1
+"1869","Mt. Lookout",2019,3,"MR",NA,NA,1
+"1870","Mt. Lookout",2019,3,"Total",NA,NA,1
+"1871","Mt. Lookout",2019,4,"zero_five",NA,NA,1
+"1872","Mt. Lookout",2019,4,"MR",NA,NA,1
+"1873","Mt. Lookout",2019,4,"Total",NA,NA,1
+"1874","Mt. Lookout",2019,5,"five_plus",NA,NA,1
+"1875","Mt. Lookout",2019,5,"Non_MR",NA,NA,1
+"1876","Mt. Lookout",2019,5,"Total",NA,NA,1
+"1877","Mt. Lookout",2019,7,"zero_five",NA,NA,1
+"1878","Mt. Lookout",2019,7,"Non_MR",NA,NA,1
+"1879","Mt. Lookout",2019,7,"Total",NA,NA,1
+"1880","Mt. Lookout",2019,10,"five_plus",NA,NA,1
+"1881","Mt. Lookout",2019,10,"MR",NA,NA,1
+"1882","Mt. Lookout",2019,10,"Total",NA,NA,1
+"1883","Mt. Lookout",2019,12,"zero_five",NA,NA,1
+"1884","Mt. Lookout",2019,12,"MR",NA,NA,1
+"1885","Mt. Lookout",2019,12,"Total",NA,NA,1
+"1886","Mt. Lookout",2020,4,"no_birth_date",NA,NA,1
+"1887","Mt. Lookout",2020,4,"Non_MR",NA,NA,1
+"1888","Mt. Lookout",2020,4,"Total",NA,NA,1
+"1889","Mt. Lookout",2020,9,"five_plus",NA,NA,1
+"1890","Mt. Lookout",2020,9,"MR",NA,NA,1
+"1891","Mt. Lookout",2020,9,"Total",NA,NA,1
+"1892","Mt. Lookout",2020,10,"five_plus",NA,NA,1
+"1893","Mt. Lookout",2020,10,"Non_MR",NA,NA,1
+"1894","Mt. Lookout",2020,10,"Total",NA,NA,1
+"1895","Mt. Lookout",2020,11,"five_plus",NA,NA,1
+"1896","Mt. Lookout",2020,11,"MR",NA,NA,1
+"1897","Mt. Lookout",2020,11,"Total",NA,NA,1
+"1898","Mt. Lookout",2020,12,"zero_five",NA,NA,1
+"1899","Mt. Lookout",2020,12,"MR",NA,NA,1
+"1900","Mt. Lookout",2020,12,"Total",NA,NA,1
+"1901","Mt. Lookout",2021,8,"five_plus",NA,NA,1
+"1902","Mt. Lookout",2021,8,"MR",NA,NA,1
+"1903","Mt. Lookout",2021,8,"Total",NA,NA,1
+"1904","Mt. Lookout",2021,10,"no_birth_date",NA,NA,1
+"1905","Mt. Lookout",2021,10,"MR",NA,NA,1
+"1906","Mt. Lookout",2021,10,"Total",NA,NA,1
+"1907","Mt. Washington",2017,4,"zero_five",NA,NA,1
+"1908","Mt. Washington",2017,4,"Non_MR",NA,NA,1
+"1909","Mt. Washington",2017,4,"Total",NA,NA,1
+"1910","Mt. Washington",2018,1,"five_plus",NA,NA,1
+"1911","Mt. Washington",2018,1,"Non_MR",NA,NA,1
+"1912","Mt. Washington",2018,1,"Total",NA,NA,1
+"1913","Mt. Washington",2018,9,"no_birth_date",NA,NA,1
+"1914","Mt. Washington",2018,9,"Non_MR",NA,NA,1
+"1915","Mt. Washington",2018,9,"Total",NA,NA,1
+"1916","Mt. Washington",2019,6,"zero_five",NA,NA,1
+"1917","Mt. Washington",2019,6,"Non_MR",NA,NA,1
+"1918","Mt. Washington",2019,6,"Total",NA,NA,1
+"1919","Mt. Washington",2019,11,"zero_five",NA,NA,1
+"1920","Mt. Washington",2019,11,"Non_MR",NA,NA,1
+"1921","Mt. Washington",2019,11,"Total",NA,NA,1
+"1922","Mt. Washington",2020,5,"zero_five",NA,NA,1
+"1923","Mt. Washington",2020,5,"Non_MR",NA,NA,1
+"1924","Mt. Washington",2020,5,"Total",NA,NA,1
+"1925","N. Avondale",2017,7,"five_plus",NA,NA,1
+"1926","N. Avondale",2017,7,"Non_MR",NA,NA,1
+"1927","N. Avondale",2017,7,"MR",NA,NA,1
+"1928","N. Avondale",2017,7,"Total",NA,NA,1
+"1929","N. Avondale",2018,7,"zero_five",NA,NA,1
+"1930","N. Avondale",2018,7,"Non_MR",NA,NA,1
+"1931","N. Avondale",2018,7,"Total",NA,NA,1
+"1932","N. Avondale",2019,1,"five_plus",NA,NA,1
+"1933","N. Avondale",2019,1,"Non_MR",NA,NA,1
+"1934","N. Avondale",2019,1,"Total",NA,NA,1
+"1935","N. Avondale",2019,3,"zero_five",NA,NA,1
+"1936","N. Avondale",2019,3,"Non_MR",NA,NA,1
+"1937","N. Avondale",2019,3,"Total",NA,NA,1
+"1938","N. Avondale",2019,7,"zero_five",NA,NA,1
+"1939","N. Avondale",2019,7,"Non_MR",NA,NA,1
+"1940","N. Avondale",2019,7,"Total",NA,NA,1
+"1941","N. Avondale",2019,8,"five_plus",NA,NA,1
+"1942","N. Avondale",2019,8,"zero_five",NA,NA,1
+"1943","N. Avondale",2019,8,"Non_MR",NA,NA,1
+"1944","N. Avondale",2019,8,"MR",NA,NA,1
+"1945","N. Avondale",2019,8,"Total",NA,NA,1
+"1946","N. Avondale",2020,7,"five_plus",NA,NA,1
+"1947","N. Avondale",2020,7,"MR",NA,NA,1
+"1948","N. Avondale",2020,7,"Total",NA,NA,1
+"1949","N. Avondale",2020,11,"zero_five",NA,NA,1
+"1950","N. Avondale",2020,11,"MR",NA,NA,1
+"1951","N. Avondale",2020,11,"Total",NA,NA,1
+"1952","N. Avondale",2021,9,"five_plus",NA,NA,1
+"1953","N. Avondale",2021,9,"MR",NA,NA,1
+"1954","N. Avondale",2021,9,"Total",NA,NA,1
+"1955","N. Avondale",2021,10,"zero_five",NA,NA,1
+"1956","N. Avondale",2021,10,"MR",NA,NA,1
+"1957","N. Avondale",2021,10,"Total",NA,NA,1
+"1958","N. College Hill",2018,8,"five_plus",NA,NA,1
+"1959","N. College Hill",2018,8,"MR",NA,NA,1
+"1960","N. College Hill",2018,8,"Total",NA,NA,1
+"1961","N. College Hill",2019,9,"no_birth_date",NA,NA,1
+"1962","N. College Hill",2019,9,"MR",NA,NA,1
+"1963","N. College Hill",2019,9,"Total",NA,NA,1
+"1964","N. College Hill",2020,9,"zero_five",NA,NA,1
+"1965","N. College Hill",2020,9,"MR",NA,NA,1
+"1966","N. College Hill",2020,9,"Total",NA,NA,1
+"1967","N. College Hill",2020,10,"five_plus",NA,NA,1
+"1968","N. College Hill",2020,10,"MR",NA,NA,1
+"1969","N. College Hill",2020,10,"Total",NA,NA,1
+"1970","N. College Hill",2021,7,"five_plus",NA,NA,1
+"1971","N. College Hill",2021,7,"MR",NA,NA,1
+"1972","N. College Hill",2021,7,"Total",NA,NA,1
+"1973","N. College Hill",2021,10,"five_plus",NA,NA,1
+"1974","N. College Hill",2021,10,"MR",NA,NA,1
+"1975","N. College Hill",2021,10,"Total",NA,NA,1
+"1976","Northside",2018,12,"five_plus",NA,NA,1
+"1977","Northside",2018,12,"MR",NA,NA,1
+"1978","Northside",2018,12,"Total",NA,NA,1
+"1979","Northside",2019,1,"zero_five",NA,NA,1
+"1980","Northside",2019,1,"MR",NA,NA,1
+"1981","Northside",2019,1,"Total",NA,NA,1
+"1982","Northside",2020,4,"no_birth_date",NA,NA,1
+"1983","Northside",2020,4,"MR",NA,NA,1
+"1984","Northside",2020,4,"Total",NA,NA,1
+"1985","Northside",2020,7,"zero_five",NA,NA,1
+"1986","Northside",2020,7,"MR",NA,NA,1
+"1987","Northside",2020,7,"Total",NA,NA,1
+"1988","Northside",2020,9,"five_plus",NA,NA,1
+"1989","Northside",2020,9,"MR",NA,NA,1
+"1990","Northside",2020,9,"Total",NA,NA,1
+"1991","Northside",2021,6,"no_birth_date",NA,NA,1
+"1992","Northside",2021,6,"MR",NA,NA,1
+"1993","Northside",2021,6,"Total",NA,NA,1
+"1994","Norwood",2017,1,"five_plus",NA,NA,0
+"1995","Norwood",2017,1,"MR",NA,NA,0
+"1996","Norwood",2017,1,"Total",NA,NA,0
+"1997","Norwood",2018,2,"five_plus",NA,NA,0
+"1998","Norwood",2018,2,"MR",NA,NA,0
+"1999","Norwood",2018,2,"Total",NA,NA,0
+"2000","Norwood",2018,5,"zero_five",NA,NA,0
+"2001","Norwood",2018,5,"MR",NA,NA,0
+"2002","Norwood",2018,5,"Total",NA,NA,0
+"2003","Norwood",2018,6,"five_plus",NA,NA,0
+"2004","Norwood",2018,6,"MR",NA,NA,0
+"2005","Norwood",2018,6,"Total",NA,NA,0
+"2006","Norwood",2018,10,"zero_five",NA,NA,0
+"2007","Norwood",2018,10,"MR",NA,NA,0
+"2008","Norwood",2018,10,"Total",NA,NA,0
+"2009","Norwood",2019,3,"zero_five",NA,NA,0
+"2010","Norwood",2019,3,"MR",NA,NA,0
+"2011","Norwood",2019,3,"Total",NA,NA,0
+"2012","Norwood",2019,5,"five_plus",NA,NA,0
+"2013","Norwood",2019,5,"MR",NA,NA,0
+"2014","Norwood",2019,5,"Total",NA,NA,0
+"2015","Norwood",2019,12,"five_plus",NA,NA,0
+"2016","Norwood",2019,12,"zero_five",NA,NA,0
+"2017","Norwood",2019,12,"MR",NA,NA,0
+"2018","Norwood",2019,12,"Total",NA,NA,0
+"2019","Norwood",2020,12,"zero_five",NA,NA,0
+"2020","Norwood",2020,12,"MR",NA,NA,0
+"2021","Norwood",2020,12,"Total",NA,NA,0
+"2022","Norwood",2021,4,"zero_five",NA,NA,0
+"2023","Norwood",2021,4,"MR",NA,NA,0
+"2024","Norwood",2021,4,"Total",NA,NA,0
+"2025","OTR-Pendleton",2017,12,"zero_five",NA,NA,1
+"2026","OTR-Pendleton",2017,12,"Non_MR",NA,NA,1
+"2027","OTR-Pendleton",2017,12,"Total",NA,NA,1
+"2028","OTR-Pendleton",2018,6,"five_plus",NA,NA,1
+"2029","OTR-Pendleton",2018,6,"Non_MR",NA,NA,1
+"2030","OTR-Pendleton",2018,6,"Total",NA,NA,1
+"2031","OTR-Pendleton",2018,11,"five_plus",NA,NA,1
+"2032","OTR-Pendleton",2018,11,"Non_MR",NA,NA,1
+"2033","OTR-Pendleton",2018,11,"Total",NA,NA,1
+"2034","OTR-Pendleton",2019,8,"five_plus",NA,NA,1
+"2035","OTR-Pendleton",2019,8,"Non_MR",NA,NA,1
+"2036","OTR-Pendleton",2019,8,"Total",NA,NA,1
+"2037","OTR-Pendleton",2020,6,"zero_five",NA,NA,1
+"2038","OTR-Pendleton",2020,6,"Non_MR",NA,NA,1
+"2039","OTR-Pendleton",2020,6,"Total",NA,NA,1
+"2040","OTR-Pendleton",2020,8,"zero_five",NA,NA,1
+"2041","OTR-Pendleton",2020,8,"Non_MR",NA,NA,1
+"2042","OTR-Pendleton",2020,8,"Total",NA,NA,1
+"2043","Pleasant Ridge",2017,1,"five_plus",NA,NA,1
+"2044","Pleasant Ridge",2017,1,"Non_MR",NA,NA,1
+"2045","Pleasant Ridge",2017,1,"Total",NA,NA,1
+"2046","Pleasant Ridge",2018,5,"five_plus",NA,NA,1
+"2047","Pleasant Ridge",2018,5,"Non_MR",NA,NA,1
+"2048","Pleasant Ridge",2018,5,"Total",NA,NA,1
+"2049","Pleasant Ridge",2019,2,"zero_five",NA,NA,1
+"2050","Pleasant Ridge",2019,2,"Non_MR",NA,NA,1
+"2051","Pleasant Ridge",2019,2,"Total",NA,NA,1
+"2052","Pleasant Ridge",2020,1,"zero_five",NA,NA,1
+"2053","Pleasant Ridge",2020,1,"Non_MR",NA,NA,1
+"2054","Pleasant Ridge",2020,1,"Total",NA,NA,1
+"2055","Pleasant Ridge",2020,8,"zero_five",NA,NA,1
+"2056","Pleasant Ridge",2020,8,"Non_MR",NA,NA,1
+"2057","Pleasant Ridge",2020,8,"Total",NA,NA,1
+"2058","Pleasant Ridge",2021,2,"five_plus",NA,NA,1
+"2059","Pleasant Ridge",2021,2,"Non_MR",NA,NA,1
+"2060","Pleasant Ridge",2021,2,"Total",NA,NA,1
+"2061","Reading",2017,1,"zero_five",NA,NA,0
+"2062","Reading",2017,1,"Non_MR",NA,NA,0
+"2063","Reading",2017,1,"Total",NA,NA,0
+"2064","Reading",2017,2,"zero_five",NA,NA,1
+"2065","Reading",2017,2,"Non_MR",NA,NA,1
+"2066","Reading",2017,2,"Total",NA,NA,1
+"2067","Reading",2017,5,"zero_five",NA,NA,0.5
+"2068","Reading",2017,5,"Non_MR",NA,NA,0.5
+"2069","Reading",2017,5,"Total",NA,NA,0.5
+"2070","Reading",2017,8,"zero_five",NA,NA,0
+"2071","Reading",2017,8,"MR",NA,NA,0
+"2072","Reading",2017,8,"Total",NA,NA,0
+"2073","Reading",2018,1,"five_plus",NA,NA,0
+"2074","Reading",2018,1,"MR",NA,NA,0
+"2075","Reading",2018,1,"Total",NA,NA,0
+"2076","Reading",2018,2,"no_birth_date",NA,NA,0
+"2077","Reading",2018,2,"MR",NA,NA,0
+"2078","Reading",2018,2,"Total",NA,NA,0
+"2079","Reading",2018,3,"zero_five",NA,NA,1
+"2080","Reading",2018,3,"Non_MR",NA,NA,1
+"2081","Reading",2018,3,"Total",NA,NA,1
+"2082","Reading",2018,5,"five_plus",NA,NA,0
+"2083","Reading",2018,5,"Non_MR",NA,NA,0
+"2084","Reading",2018,5,"Total",NA,NA,0
+"2085","Reading",2019,5,"five_plus",NA,NA,0
+"2086","Reading",2019,5,"MR",NA,NA,0
+"2087","Reading",2019,5,"Total",NA,NA,0
+"2088","Reading",2019,11,"five_plus",NA,NA,0
+"2089","Reading",2019,11,"MR",NA,NA,0
+"2090","Reading",2019,11,"Total",NA,NA,0
+"2091","Reading",2020,1,"zero_five",NA,NA,0
+"2092","Reading",2020,1,"Non_MR",NA,NA,0
+"2093","Reading",2020,1,"Total",NA,NA,0
+"2094","Reading",2020,2,"no_birth_date",NA,NA,1
+"2095","Reading",2020,2,"Non_MR",NA,NA,1
+"2096","Reading",2020,2,"Total",NA,NA,1
+"2097","Reading",2020,3,"zero_five",NA,NA,1
+"2098","Reading",2020,3,"Non_MR",NA,NA,1
+"2099","Reading",2020,3,"Total",NA,NA,1
+"2100","Reading",2020,9,"five_plus",NA,NA,0.5
+"2101","Reading",2020,9,"Non_MR",NA,NA,0.5
+"2102","Reading",2020,9,"Total",NA,NA,0.5
+"2103","Reading",2021,5,"five_plus",NA,NA,0
+"2104","Reading",2021,5,"MR",NA,NA,0
+"2105","Reading",2021,5,"Total",NA,NA,0
+"2106","Reading",2021,10,"zero_five",NA,NA,0
+"2107","Reading",2021,10,"Non_MR",NA,NA,0
+"2108","Reading",2021,10,"Total",NA,NA,0
+"2109","Riverside-Sedamsville",2017,4,"zero_five",NA,NA,0
+"2110","Riverside-Sedamsville",2017,4,"Non_MR",NA,NA,0
+"2111","Riverside-Sedamsville",2017,4,"Total",NA,NA,0
+"2112","Riverside-Sedamsville",2018,8,"zero_five",NA,NA,0
+"2113","Riverside-Sedamsville",2018,8,"Non_MR",NA,NA,0
+"2114","Riverside-Sedamsville",2018,8,"Total",NA,NA,0
+"2115","Riverside-Sedamsville",2019,4,"five_plus",NA,NA,0
+"2116","Riverside-Sedamsville",2019,4,"Non_MR",NA,NA,0
+"2117","Riverside-Sedamsville",2019,4,"Total",NA,NA,0
+"2118","Riverside-Sedamsville",2019,10,"five_plus",NA,NA,0
+"2119","Riverside-Sedamsville",2019,10,"Non_MR",NA,NA,0
+"2120","Riverside-Sedamsville",2019,10,"Total",NA,NA,0
+"2121","Riverside-Sedamsville",2020,3,"five_plus",NA,NA,0
+"2122","Riverside-Sedamsville",2020,3,"Non_MR",NA,NA,0
+"2123","Riverside-Sedamsville",2020,3,"Total",NA,NA,0
+"2124","Riverside-Sedamsville",2021,4,"five_plus",NA,NA,0
+"2125","Riverside-Sedamsville",2021,4,"Non_MR",NA,NA,0
+"2126","Riverside-Sedamsville",2021,4,"Total",NA,NA,0
+"2127","Roselawn",2017,1,"zero_five",NA,NA,1
+"2128","Roselawn",2017,1,"Non_MR",NA,NA,1
+"2129","Roselawn",2017,1,"Total",NA,NA,1
+"2130","Roselawn",2019,3,"five_plus",NA,NA,1
+"2131","Roselawn",2019,3,"zero_five",NA,NA,1
+"2132","Roselawn",2019,3,"Non_MR",NA,NA,1
+"2133","Roselawn",2019,3,"Total",NA,NA,1
+"2134","Roselawn",2019,4,"five_plus",NA,NA,1
+"2135","Roselawn",2019,4,"Non_MR",NA,NA,1
+"2136","Roselawn",2019,4,"Total",NA,NA,1
+"2137","Roselawn",2019,9,"five_plus",NA,NA,1
+"2138","Roselawn",2019,9,"Non_MR",NA,NA,1
+"2139","Roselawn",2019,9,"Total",NA,NA,1
+"2140","Roselawn",2020,7,"zero_five",NA,NA,1
+"2141","Roselawn",2020,7,"Non_MR",NA,NA,1
+"2142","Roselawn",2020,7,"Total",NA,NA,1
+"2143","Sharonville",2017,4,"zero_five",NA,NA,1
+"2144","Sharonville",2017,4,"MR",NA,NA,1
+"2145","Sharonville",2017,4,"Total",NA,NA,1
+"2146","Sharonville",2018,3,"zero_five",NA,NA,1
+"2147","Sharonville",2018,3,"MR",NA,NA,1
+"2148","Sharonville",2018,3,"Total",NA,NA,1
+"2149","Sharonville",2018,12,"five_plus",NA,NA,1
+"2150","Sharonville",2018,12,"MR",NA,NA,1
+"2151","Sharonville",2018,12,"Total",NA,NA,1
+"2152","Sharonville",2019,1,"five_plus",NA,NA,1
+"2153","Sharonville",2019,1,"MR",NA,NA,1
+"2154","Sharonville",2019,1,"Total",NA,NA,1
+"2155","Sharonville",2019,3,"five_plus",NA,NA,1
+"2156","Sharonville",2019,3,"MR",NA,NA,1
+"2157","Sharonville",2019,3,"Total",NA,NA,1
+"2158","Sharonville",2019,4,"no_birth_date",NA,NA,1
+"2159","Sharonville",2019,4,"MR",NA,NA,1
+"2160","Sharonville",2019,4,"Total",NA,NA,1
+"2161","Sharonville",2019,10,"no_birth_date",NA,NA,1
+"2162","Sharonville",2019,10,"MR",NA,NA,1
+"2163","Sharonville",2019,10,"Total",NA,NA,1
+"2164","Sharonville",2019,11,"five_plus",NA,NA,1
+"2165","Sharonville",2019,11,"MR",NA,NA,1
+"2166","Sharonville",2019,11,"Total",NA,NA,1
+"2167","Sharonville",2020,1,"five_plus",NA,NA,1
+"2168","Sharonville",2020,1,"MR",NA,NA,1
+"2169","Sharonville",2020,1,"Total",NA,NA,1
+"2170","Sharonville",2020,6,"no_birth_date",NA,NA,1
+"2171","Sharonville",2020,6,"MR",NA,NA,1
+"2172","Sharonville",2020,6,"Total",NA,NA,1
+"2173","Sharonville",2020,8,"zero_five",NA,NA,1
+"2174","Sharonville",2020,8,"MR",NA,NA,1
+"2175","Sharonville",2020,8,"Total",NA,NA,1
+"2176","Sharonville",2021,12,"five_plus",NA,NA,1
+"2177","Sharonville",2021,12,"MR",NA,NA,1
+"2178","Sharonville",2021,12,"Total",NA,NA,1
+"2179","Spring Grove Vlg.",2017,1,"five_plus",NA,NA,1
+"2180","Spring Grove Vlg.",2017,1,"MR",NA,NA,1
+"2181","Spring Grove Vlg.",2017,1,"Total",NA,NA,1
+"2182","Spring Grove Vlg.",2017,3,"zero_five",NA,NA,1
+"2183","Spring Grove Vlg.",2017,3,"MR",NA,NA,1
+"2184","Spring Grove Vlg.",2017,3,"Total",NA,NA,1
+"2185","Spring Grove Vlg.",2017,6,"five_plus",NA,NA,1
+"2186","Spring Grove Vlg.",2017,6,"Non_MR",NA,NA,1
+"2187","Spring Grove Vlg.",2017,6,"Total",NA,NA,1
+"2188","Spring Grove Vlg.",2017,8,"zero_five",NA,NA,1
+"2189","Spring Grove Vlg.",2017,8,"Non_MR",NA,NA,1
+"2190","Spring Grove Vlg.",2017,8,"Total",NA,NA,1
+"2191","Spring Grove Vlg.",2017,10,"five_plus",NA,NA,1
+"2192","Spring Grove Vlg.",2017,10,"Non_MR",NA,NA,1
+"2193","Spring Grove Vlg.",2017,10,"MR",NA,NA,1
+"2194","Spring Grove Vlg.",2017,10,"Total",NA,NA,1
+"2195","Spring Grove Vlg.",2019,7,"zero_five",NA,NA,1
+"2196","Spring Grove Vlg.",2019,7,"Non_MR",NA,NA,1
+"2197","Spring Grove Vlg.",2019,7,"Total",NA,NA,1
+"2198","Spring Grove Vlg.",2019,10,"five_plus",NA,NA,1
+"2199","Spring Grove Vlg.",2019,10,"MR",NA,NA,1
+"2200","Spring Grove Vlg.",2019,10,"Total",NA,NA,1
+"2201","Spring Grove Vlg.",2020,8,"five_plus",NA,NA,1
+"2202","Spring Grove Vlg.",2020,8,"Non_MR",NA,NA,1
+"2203","Spring Grove Vlg.",2020,8,"Total",NA,NA,1
+"2204","Spring Grove Vlg.",2020,11,"zero_five",NA,NA,1
+"2205","Spring Grove Vlg.",2020,11,"MR",NA,NA,1
+"2206","Spring Grove Vlg.",2020,11,"Total",NA,NA,1
+"2207","Spring Grove Vlg.",2021,9,"five_plus",NA,NA,1
+"2208","Spring Grove Vlg.",2021,9,"MR",NA,NA,1
+"2209","Spring Grove Vlg.",2021,9,"Total",NA,NA,1
+"2210","Spring Grove Vlg.",2021,12,"five_plus",NA,NA,1
+"2211","Spring Grove Vlg.",2021,12,"Non_MR",NA,NA,1
+"2212","Spring Grove Vlg.",2021,12,"Total",NA,NA,1
+"2213","Springdale",2017,5,"no_birth_date",NA,NA,0
+"2214","Springdale",2017,5,"zero_five",NA,NA,1
+"2215","Springdale",2017,5,"Non_MR",NA,NA,0.5
+"2216","Springdale",2017,5,"Total",NA,NA,0.5
+"2217","Springdale",2017,12,"zero_five",NA,NA,0
+"2218","Springdale",2017,12,"Non_MR",NA,NA,0
+"2219","Springdale",2017,12,"MR",NA,NA,0
+"2220","Springdale",2017,12,"Total",NA,NA,0
+"2221","Springdale",2018,9,"zero_five",NA,NA,0
+"2222","Springdale",2018,9,"Non_MR",NA,NA,0
+"2223","Springdale",2018,9,"Total",NA,NA,0
+"2224","Springdale",2018,12,"five_plus",NA,NA,1
+"2225","Springdale",2018,12,"Non_MR",NA,NA,1
+"2226","Springdale",2018,12,"Total",NA,NA,1
+"2227","Springdale",2019,3,"zero_five",NA,NA,0
+"2228","Springdale",2019,3,"Non_MR",NA,NA,0
+"2229","Springdale",2019,3,"Total",NA,NA,0
+"2230","Springdale",2019,5,"five_plus",NA,NA,0
+"2231","Springdale",2019,5,"MR",NA,NA,0
+"2232","Springdale",2019,5,"Total",NA,NA,0
+"2233","Springdale",2020,2,"five_plus",NA,NA,1
+"2234","Springdale",2020,2,"Non_MR",NA,NA,1
+"2235","Springdale",2020,2,"Total",NA,NA,1
+"2236","Springdale",2020,5,"five_plus",NA,NA,0
+"2237","Springdale",2020,5,"MR",NA,NA,0
+"2238","Springdale",2020,5,"Total",NA,NA,0
+"2239","Springdale",2020,6,"five_plus",NA,NA,0
+"2240","Springdale",2020,6,"Non_MR",NA,NA,0
+"2241","Springdale",2020,6,"Total",NA,NA,0
+"2242","Springdale",2020,8,"five_plus",NA,NA,0
+"2243","Springdale",2020,8,"MR",NA,NA,0
+"2244","Springdale",2020,8,"Total",NA,NA,0
+"2245","Springdale",2020,9,"five_plus",NA,NA,1
+"2246","Springdale",2020,9,"Non_MR",NA,NA,1
+"2247","Springdale",2020,9,"Total",NA,NA,1
+"2248","Springdale",2020,12,"zero_five",NA,NA,1
+"2249","Springdale",2020,12,"Non_MR",NA,NA,1
+"2250","Springdale",2020,12,"Total",NA,NA,1
+"2251","Springdale",2021,3,"zero_five",NA,NA,1
+"2252","Springdale",2021,3,"Non_MR",NA,NA,1
+"2253","Springdale",2021,3,"Total",NA,NA,1
+"2254","Springdale",2021,6,"five_plus",NA,NA,0
+"2255","Springdale",2021,6,"Non_MR",NA,NA,0
+"2256","Springdale",2021,6,"Total",NA,NA,0
+"2257","Springdale",2021,11,"zero_five",NA,NA,0
+"2258","Springdale",2021,11,"MR",NA,NA,0
+"2259","Springdale",2021,11,"Total",NA,NA,0
+"2260","Springdale",2021,12,"five_plus",NA,NA,0
+"2261","Springdale",2021,12,"MR",NA,NA,0
+"2262","Springdale",2021,12,"Total",NA,NA,0
+"2263","Springfield Twp.",2017,1,"no_birth_date",NA,NA,0
+"2264","Springfield Twp.",2017,1,"zero_five",NA,NA,1
+"2265","Springfield Twp.",2017,1,"Non_MR",NA,NA,1
+"2266","Springfield Twp.",2017,1,"MR",NA,NA,0.5
+"2267","Springfield Twp.",2017,1,"Total",NA,6,0.67
+"2268","Springfield Twp.",2017,2,"five_plus",NA,NA,0
+"2269","Springfield Twp.",2017,2,"MR",NA,NA,0
+"2270","Springfield Twp.",2017,2,"Total",NA,NA,0
+"2271","Springfield Twp.",2017,4,"five_plus",NA,NA,1
+"2272","Springfield Twp.",2017,4,"Non_MR",NA,NA,1
+"2273","Springfield Twp.",2017,4,"Total",NA,NA,1
+"2274","Springfield Twp.",2017,5,"no_birth_date",NA,NA,1
+"2275","Springfield Twp.",2017,5,"Non_MR",NA,NA,1
+"2276","Springfield Twp.",2017,5,"Total",NA,NA,1
+"2277","Springfield Twp.",2017,6,"five_plus",NA,NA,1
+"2278","Springfield Twp.",2017,6,"zero_five",NA,NA,1
+"2279","Springfield Twp.",2017,6,"Non_MR",NA,NA,1
+"2280","Springfield Twp.",2017,6,"MR",NA,NA,1
+"2281","Springfield Twp.",2017,6,"Total",6,6,1
+"2282","Springfield Twp.",2017,7,"five_plus",NA,NA,0
+"2283","Springfield Twp.",2017,7,"zero_five",NA,NA,1
+"2284","Springfield Twp.",2017,7,"Non_MR",NA,NA,1
+"2285","Springfield Twp.",2017,7,"MR",NA,NA,0
+"2286","Springfield Twp.",2017,7,"Total",NA,NA,0.5
+"2287","Springfield Twp.",2017,10,"five_plus",NA,NA,1
+"2288","Springfield Twp.",2017,10,"zero_five",NA,NA,0
+"2289","Springfield Twp.",2017,10,"Non_MR",NA,NA,0
+"2290","Springfield Twp.",2017,10,"MR",NA,NA,1
+"2291","Springfield Twp.",2017,10,"Total",NA,NA,0.5
+"2292","Springfield Twp.",2017,11,"zero_five",NA,NA,1
+"2293","Springfield Twp.",2017,11,"MR",NA,NA,1
+"2294","Springfield Twp.",2017,11,"Total",NA,NA,1
+"2295","Springfield Twp.",2018,1,"five_plus",NA,NA,0
+"2296","Springfield Twp.",2018,1,"MR",NA,NA,0
+"2297","Springfield Twp.",2018,1,"Total",NA,NA,0
+"2298","Springfield Twp.",2018,2,"five_plus",NA,NA,0
+"2299","Springfield Twp.",2018,2,"MR",NA,NA,0
+"2300","Springfield Twp.",2018,2,"Total",NA,NA,0
+"2301","Springfield Twp.",2018,3,"five_plus",NA,NA,0.5
+"2302","Springfield Twp.",2018,3,"no_birth_date",NA,NA,0
+"2303","Springfield Twp.",2018,3,"Non_MR",NA,NA,0
+"2304","Springfield Twp.",2018,3,"MR",NA,NA,0.5
+"2305","Springfield Twp.",2018,3,"Total",NA,6,0.33
+"2306","Springfield Twp.",2018,4,"five_plus",NA,NA,1
+"2307","Springfield Twp.",2018,4,"no_birth_date",NA,NA,1
+"2308","Springfield Twp.",2018,4,"Non_MR",NA,NA,1
+"2309","Springfield Twp.",2018,4,"MR",NA,NA,1
+"2310","Springfield Twp.",2018,4,"Total",NA,NA,1
+"2311","Springfield Twp.",2018,5,"five_plus",NA,NA,0
+"2312","Springfield Twp.",2018,5,"zero_five",NA,NA,0
+"2313","Springfield Twp.",2018,5,"MR",NA,NA,0
+"2314","Springfield Twp.",2018,5,"Total",NA,NA,0
+"2315","Springfield Twp.",2018,6,"zero_five",NA,NA,1
+"2316","Springfield Twp.",2018,6,"Non_MR",NA,NA,1
+"2317","Springfield Twp.",2018,6,"Total",NA,NA,1
+"2318","Springfield Twp.",2018,7,"no_birth_date",NA,NA,0
+"2319","Springfield Twp.",2018,7,"Non_MR",NA,NA,0
+"2320","Springfield Twp.",2018,7,"Total",NA,NA,0
+"2321","Springfield Twp.",2018,9,"five_plus",NA,NA,0
+"2322","Springfield Twp.",2018,9,"zero_five",NA,NA,0
+"2323","Springfield Twp.",2018,9,"MR",NA,NA,0
+"2324","Springfield Twp.",2018,9,"Total",NA,NA,0
+"2325","Springfield Twp.",2018,10,"five_plus",NA,NA,1
+"2326","Springfield Twp.",2018,10,"Non_MR",NA,NA,1
+"2327","Springfield Twp.",2018,10,"Total",NA,NA,1
+"2328","Springfield Twp.",2018,11,"five_plus",NA,NA,1
+"2329","Springfield Twp.",2018,11,"Non_MR",NA,NA,1
+"2330","Springfield Twp.",2018,11,"Total",NA,NA,1
+"2331","Springfield Twp.",2018,12,"zero_five",NA,NA,1
+"2332","Springfield Twp.",2018,12,"Non_MR",NA,NA,1
+"2333","Springfield Twp.",2018,12,"Total",NA,NA,1
+"2334","Springfield Twp.",2019,1,"five_plus",NA,NA,1
+"2335","Springfield Twp.",2019,1,"Non_MR",NA,NA,1
+"2336","Springfield Twp.",2019,1,"Total",NA,NA,1
+"2337","Springfield Twp.",2019,2,"zero_five",NA,NA,0.67
+"2338","Springfield Twp.",2019,2,"MR",NA,NA,0.67
+"2339","Springfield Twp.",2019,2,"Total",NA,6,0.67
+"2340","Springfield Twp.",2019,5,"five_plus",NA,NA,0.5
+"2341","Springfield Twp.",2019,5,"zero_five",NA,NA,0
+"2342","Springfield Twp.",2019,5,"Non_MR",NA,NA,0.33
+"2343","Springfield Twp.",2019,5,"Total",NA,6,0.33
+"2344","Springfield Twp.",2019,6,"five_plus",NA,NA,1
+"2345","Springfield Twp.",2019,6,"zero_five",NA,NA,1
+"2346","Springfield Twp.",2019,6,"Non_MR",NA,NA,1
+"2347","Springfield Twp.",2019,6,"MR",NA,NA,1
+"2348","Springfield Twp.",2019,6,"Total",NA,NA,1
+"2349","Springfield Twp.",2019,7,"zero_five",NA,NA,1
+"2350","Springfield Twp.",2019,7,"MR",NA,NA,1
+"2351","Springfield Twp.",2019,7,"Total",NA,NA,1
+"2352","Springfield Twp.",2019,9,"five_plus",NA,NA,0
+"2353","Springfield Twp.",2019,9,"MR",NA,NA,0
+"2354","Springfield Twp.",2019,9,"Total",NA,NA,0
+"2355","Springfield Twp.",2019,10,"five_plus",NA,NA,1
+"2356","Springfield Twp.",2019,10,"MR",NA,NA,1
+"2357","Springfield Twp.",2019,10,"Total",NA,NA,1
+"2358","Springfield Twp.",2019,12,"five_plus",NA,NA,0.67
+"2359","Springfield Twp.",2019,12,"MR",NA,NA,0.67
+"2360","Springfield Twp.",2019,12,"Total",NA,6,0.67
+"2361","Springfield Twp.",2020,1,"zero_five",NA,NA,0
+"2362","Springfield Twp.",2020,1,"MR",NA,NA,0
+"2363","Springfield Twp.",2020,1,"Total",NA,NA,0
+"2364","Springfield Twp.",2020,2,"zero_five",NA,NA,0
+"2365","Springfield Twp.",2020,2,"MR",NA,NA,0
+"2366","Springfield Twp.",2020,2,"Total",NA,NA,0
+"2367","Springfield Twp.",2020,3,"five_plus",NA,NA,1
+"2368","Springfield Twp.",2020,3,"MR",NA,NA,1
+"2369","Springfield Twp.",2020,3,"Total",NA,NA,1
+"2370","Springfield Twp.",2020,4,"five_plus",NA,NA,1
+"2371","Springfield Twp.",2020,4,"MR",NA,NA,1
+"2372","Springfield Twp.",2020,4,"Total",NA,NA,1
+"2373","Springfield Twp.",2020,7,"zero_five",NA,NA,1
+"2374","Springfield Twp.",2020,7,"MR",NA,NA,1
+"2375","Springfield Twp.",2020,7,"Total",NA,NA,1
+"2376","Springfield Twp.",2020,8,"five_plus",NA,NA,1
+"2377","Springfield Twp.",2020,8,"MR",NA,NA,1
+"2378","Springfield Twp.",2020,8,"Total",NA,NA,1
+"2379","Springfield Twp.",2020,9,"five_plus",NA,NA,1
+"2380","Springfield Twp.",2020,9,"MR",NA,NA,1
+"2381","Springfield Twp.",2020,9,"Total",NA,NA,1
+"2382","Springfield Twp.",2020,12,"five_plus",NA,NA,1
+"2383","Springfield Twp.",2020,12,"zero_five",NA,NA,0.5
+"2384","Springfield Twp.",2020,12,"Non_MR",NA,NA,1
+"2385","Springfield Twp.",2020,12,"MR",NA,NA,0.5
+"2386","Springfield Twp.",2020,12,"Total",NA,6,0.67
+"2387","Springfield Twp.",2021,1,"five_plus",NA,NA,0
+"2388","Springfield Twp.",2021,1,"Non_MR",NA,NA,0
+"2389","Springfield Twp.",2021,1,"Total",NA,NA,0
+"2390","Springfield Twp.",2021,3,"five_plus",NA,NA,1
+"2391","Springfield Twp.",2021,3,"MR",NA,NA,1
+"2392","Springfield Twp.",2021,3,"Total",NA,NA,1
+"2393","Springfield Twp.",2021,4,"no_birth_date",NA,NA,1
+"2394","Springfield Twp.",2021,4,"MR",NA,NA,1
+"2395","Springfield Twp.",2021,4,"Total",NA,NA,1
+"2396","Springfield Twp.",2021,5,"five_plus",NA,NA,1
+"2397","Springfield Twp.",2021,5,"MR",NA,NA,1
+"2398","Springfield Twp.",2021,5,"Total",NA,NA,1
+"2399","Springfield Twp.",2021,8,"no_birth_date",NA,NA,1
+"2400","Springfield Twp.",2021,8,"MR",NA,NA,1
+"2401","Springfield Twp.",2021,8,"Total",NA,NA,1
+"2402","Springfield Twp.",2021,9,"five_plus",NA,NA,1
+"2403","Springfield Twp.",2021,9,"MR",NA,NA,1
+"2404","Springfield Twp.",2021,9,"Total",NA,NA,1
+"2405","Springfield Twp.",2021,10,"five_plus",NA,NA,1
+"2406","Springfield Twp.",2021,10,"no_birth_date",NA,NA,1
+"2407","Springfield Twp.",2021,10,"Non_MR",NA,NA,1
+"2408","Springfield Twp.",2021,10,"MR",NA,NA,1
+"2409","Springfield Twp.",2021,10,"Total",NA,NA,1
+"2410","Springfield Twp.",2021,11,"five_plus",NA,NA,1
+"2411","Springfield Twp.",2021,11,"zero_five",NA,NA,1
+"2412","Springfield Twp.",2021,11,"Non_MR",NA,NA,1
+"2413","Springfield Twp.",2021,11,"MR",NA,NA,1
+"2414","Springfield Twp.",2021,11,"Total",6,6,1
+"2415","Springfield Twp.",2021,12,"five_plus",NA,NA,0.5
+"2416","Springfield Twp.",2021,12,"zero_five",NA,NA,1
+"2417","Springfield Twp.",2021,12,"Non_MR",NA,NA,1
+"2418","Springfield Twp.",2021,12,"MR",NA,NA,0.5
+"2419","Springfield Twp.",2021,12,"Total",NA,6,0.67
+"2420","Sycamore Twp.",2017,8,"zero_five",NA,NA,1
+"2421","Sycamore Twp.",2017,8,"Non_MR",NA,NA,1
+"2422","Sycamore Twp.",2017,8,"Total",NA,NA,1
+"2423","Sycamore Twp.",2018,1,"zero_five",NA,NA,1
+"2424","Sycamore Twp.",2018,1,"Non_MR",NA,NA,1
+"2425","Sycamore Twp.",2018,1,"Total",NA,NA,1
+"2426","Sycamore Twp.",2018,4,"five_plus",NA,NA,1
+"2427","Sycamore Twp.",2018,4,"MR",NA,NA,1
+"2428","Sycamore Twp.",2018,4,"Total",NA,NA,1
+"2429","Sycamore Twp.",2018,5,"five_plus",NA,NA,1
+"2430","Sycamore Twp.",2018,5,"Non_MR",NA,NA,1
+"2431","Sycamore Twp.",2018,5,"Total",NA,NA,1
+"2432","Sycamore Twp.",2018,11,"zero_five",NA,NA,1
+"2433","Sycamore Twp.",2018,11,"Non_MR",NA,NA,1
+"2434","Sycamore Twp.",2018,11,"Total",NA,NA,1
+"2435","Sycamore Twp.",2019,3,"five_plus",NA,NA,1
+"2436","Sycamore Twp.",2019,3,"MR",NA,NA,1
+"2437","Sycamore Twp.",2019,3,"Total",NA,NA,1
+"2438","Sycamore Twp.",2019,5,"zero_five",NA,NA,1
+"2439","Sycamore Twp.",2019,5,"Non_MR",NA,NA,1
+"2440","Sycamore Twp.",2019,5,"Total",NA,NA,1
+"2441","Sycamore Twp.",2019,12,"five_plus",NA,NA,1
+"2442","Sycamore Twp.",2019,12,"zero_five",NA,NA,1
+"2443","Sycamore Twp.",2019,12,"MR",NA,NA,1
+"2444","Sycamore Twp.",2019,12,"Total",6,6,1
+"2445","Sycamore Twp.",2020,10,"five_plus",NA,NA,1
+"2446","Sycamore Twp.",2020,10,"MR",NA,NA,1
+"2447","Sycamore Twp.",2020,10,"Total",NA,NA,1
+"2448","Sycamore Twp.",2021,3,"no_birth_date",NA,NA,1
+"2449","Sycamore Twp.",2021,3,"Non_MR",NA,NA,1
+"2450","Sycamore Twp.",2021,3,"Total",NA,NA,1
+"2451","Terrace Park",2017,7,"zero_five",NA,NA,0
+"2452","Terrace Park",2017,7,"Non_MR",NA,NA,0
+"2453","Terrace Park",2017,7,"Total",NA,NA,0
+"2454","Terrace Park",2018,1,"five_plus",NA,NA,0
+"2455","Terrace Park",2018,1,"Non_MR",NA,NA,0
+"2456","Terrace Park",2018,1,"Total",NA,NA,0
+"2457","Terrace Park",2018,4,"no_birth_date",NA,NA,0
+"2458","Terrace Park",2018,4,"zero_five",NA,NA,1
+"2459","Terrace Park",2018,4,"Non_MR",NA,NA,0.5
+"2460","Terrace Park",2018,4,"Total",NA,NA,0.5
+"2461","Terrace Park",2018,6,"five_plus",NA,NA,0
+"2462","Terrace Park",2018,6,"Non_MR",NA,NA,0
+"2463","Terrace Park",2018,6,"Total",NA,NA,0
+"2464","Terrace Park",2019,3,"zero_five",NA,NA,1
+"2465","Terrace Park",2019,3,"Non_MR",NA,NA,1
+"2466","Terrace Park",2019,3,"Total",NA,NA,1
+"2467","Terrace Park",2019,4,"five_plus",NA,NA,1
+"2468","Terrace Park",2019,4,"Non_MR",NA,NA,1
+"2469","Terrace Park",2019,4,"Total",NA,NA,1
+"2470","Terrace Park",2019,9,"no_birth_date",NA,NA,1
+"2471","Terrace Park",2019,9,"Non_MR",NA,NA,1
+"2472","Terrace Park",2019,9,"Total",NA,NA,1
+"2473","Terrace Park",2020,10,"five_plus",NA,NA,1
+"2474","Terrace Park",2020,10,"Non_MR",NA,NA,1
+"2475","Terrace Park",2020,10,"Total",NA,NA,1
+"2476","Terrace Park",2020,12,"five_plus",NA,NA,1
+"2477","Terrace Park",2020,12,"Non_MR",NA,NA,1
+"2478","Terrace Park",2020,12,"Total",NA,NA,1
+"2479","Terrace Park",2021,7,"five_plus",NA,NA,0
+"2480","Terrace Park",2021,7,"Non_MR",NA,NA,0
+"2481","Terrace Park",2021,7,"Total",NA,NA,0
+"2482","Terrace Park",2021,10,"five_plus",NA,NA,0
+"2483","Terrace Park",2021,10,"Non_MR",NA,NA,0
+"2484","Terrace Park",2021,10,"Total",NA,NA,0
+"2485","Total",2017,1,"five_plus",7,8,0.88
+"2486","Total",2017,1,"no_birth_date",NA,NA,0
+"2487","Total",2017,1,"zero_five",10,15,0.67
+"2488","Total",2017,1,"Non_MR",11,14,0.79
+"2489","Total",2017,1,"MR",6,11,0.55
+"2490","Total",2017,1,"Total",34,50,0.68
+"2491","Total",2017,2,"five_plus",8,13,0.62
+"2492","Total",2017,2,"no_birth_date",NA,NA,1
+"2493","Total",2017,2,"zero_five",NA,7,0.57
+"2494","Total",2017,2,"Non_MR",8,9,0.89
+"2495","Total",2017,2,"MR",5,12,0.42
+"2496","Total",2017,2,"Total",26,42,0.62
+"2497","Total",2017,3,"five_plus",9,13,0.69
+"2498","Total",2017,3,"no_birth_date",NA,NA,0.5
+"2499","Total",2017,3,"zero_five",NA,7,0.57
+"2500","Total",2017,3,"Non_MR",6,11,0.55
+"2501","Total",2017,3,"MR",8,11,0.73
+"2502","Total",2017,3,"Total",28,44,0.64
+"2503","Total",2017,4,"five_plus",7,10,0.7
+"2504","Total",2017,4,"no_birth_date",NA,NA,0.5
+"2505","Total",2017,4,"zero_five",7,12,0.58
+"2506","Total",2017,4,"Non_MR",8,12,0.67
+"2507","Total",2017,4,"MR",7,12,0.58
+"2508","Total",2017,4,"Total",30,48,0.62
+"2509","Total",2017,5,"five_plus",NA,NA,0.5
+"2510","Total",2017,5,"no_birth_date",NA,NA,0.67
+"2511","Total",2017,5,"zero_five",NA,8,0.38
+"2512","Total",2017,5,"Non_MR",5,10,0.5
+"2513","Total",2017,5,"MR",NA,5,0.4
+"2514","Total",2017,5,"Total",14,30,0.47
+"2515","Total",2017,6,"five_plus",5,7,0.71
+"2516","Total",2017,6,"no_birth_date",NA,NA,0
+"2517","Total",2017,6,"zero_five",14,19,0.74
+"2518","Total",2017,6,"Non_MR",7,9,0.78
+"2519","Total",2017,6,"MR",12,18,0.67
+"2520","Total",2017,6,"Total",38,54,0.7
+"2521","Total",2017,7,"five_plus",6,11,0.55
+"2522","Total",2017,7,"no_birth_date",NA,NA,1
+"2523","Total",2017,7,"zero_five",6,11,0.55
+"2524","Total",2017,7,"Non_MR",8,12,0.67
+"2525","Total",2017,7,"MR",6,12,0.5
+"2526","Total",2017,7,"Total",28,48,0.58
+"2527","Total",2017,8,"five_plus",6,7,0.86
+"2528","Total",2017,8,"no_birth_date",NA,NA,1
+"2529","Total",2017,8,"zero_five",5,9,0.56
+"2530","Total",2017,8,"Non_MR",9,9,1
+"2531","Total",2017,8,"MR",NA,8,0.38
+"2532","Total",2017,8,"Total",24,34,0.71
+"2533","Total",2017,9,"five_plus",NA,NA,0.5
+"2534","Total",2017,9,"no_birth_date",NA,NA,1
+"2535","Total",2017,9,"zero_five",NA,8,0.5
+"2536","Total",2017,9,"Non_MR",NA,NA,0.75
+"2537","Total",2017,9,"MR",NA,9,0.44
+"2538","Total",2017,9,"Total",14,26,0.54
+"2539","Total",2017,10,"five_plus",6,8,0.75
+"2540","Total",2017,10,"zero_five",NA,10,0.4
+"2541","Total",2017,10,"Non_MR",6,10,0.6
+"2542","Total",2017,10,"MR",NA,8,0.5
+"2543","Total",2017,10,"Total",20,36,0.56
+"2544","Total",2017,11,"five_plus",6,9,0.67
+"2545","Total",2017,11,"zero_five",8,10,0.8
+"2546","Total",2017,11,"Non_MR",8,11,0.73
+"2547","Total",2017,11,"MR",6,8,0.75
+"2548","Total",2017,11,"Total",28,38,0.74
+"2549","Total",2017,12,"five_plus",NA,5,0.2
+"2550","Total",2017,12,"no_birth_date",NA,NA,0
+"2551","Total",2017,12,"zero_five",NA,8,0.38
+"2552","Total",2017,12,"Non_MR",NA,7,0.43
+"2553","Total",2017,12,"MR",NA,7,0.14
+"2554","Total",2017,12,"Total",8,28,0.29
+"2555","Total",2018,1,"five_plus",7,13,0.54
+"2556","Total",2018,1,"zero_five",7,10,0.7
+"2557","Total",2018,1,"Non_MR",NA,7,0.57
+"2558","Total",2018,1,"MR",10,16,0.62
+"2559","Total",2018,1,"Total",28,46,0.61
+"2560","Total",2018,2,"five_plus",7,12,0.58
+"2561","Total",2018,2,"no_birth_date",NA,NA,0.67
+"2562","Total",2018,2,"zero_five",6,8,0.75
+"2563","Total",2018,2,"Non_MR",6,7,0.86
+"2564","Total",2018,2,"MR",9,16,0.56
+"2565","Total",2018,2,"Total",30,46,0.65
+"2566","Total",2018,3,"five_plus",8,12,0.67
+"2567","Total",2018,3,"no_birth_date",NA,NA,0.5
+"2568","Total",2018,3,"zero_five",7,14,0.5
+"2569","Total",2018,3,"Non_MR",8,11,0.73
+"2570","Total",2018,3,"MR",8,17,0.47
+"2571","Total",2018,3,"Total",32,56,0.57
+"2572","Total",2018,4,"five_plus",8,9,0.89
+"2573","Total",2018,4,"no_birth_date",NA,NA,0.5
+"2574","Total",2018,4,"zero_five",7,9,0.78
+"2575","Total",2018,4,"Non_MR",9,11,0.82
+"2576","Total",2018,4,"MR",8,11,0.73
+"2577","Total",2018,4,"Total",34,44,0.77
+"2578","Total",2018,5,"five_plus",9,16,0.56
+"2579","Total",2018,5,"zero_five",5,9,0.56
+"2580","Total",2018,5,"Non_MR",9,12,0.75
+"2581","Total",2018,5,"MR",5,13,0.38
+"2582","Total",2018,5,"Total",28,50,0.56
+"2583","Total",2018,6,"five_plus",8,15,0.53
+"2584","Total",2018,6,"no_birth_date",NA,NA,0
+"2585","Total",2018,6,"zero_five",5,7,0.71
+"2586","Total",2018,6,"Non_MR",9,12,0.75
+"2587","Total",2018,6,"MR",NA,11,0.36
+"2588","Total",2018,6,"Total",26,46,0.57
+"2589","Total",2018,7,"five_plus",6,9,0.67
+"2590","Total",2018,7,"no_birth_date",NA,NA,0.5
+"2591","Total",2018,7,"zero_five",6,6,1
+"2592","Total",2018,7,"Non_MR",8,9,0.89
+"2593","Total",2018,7,"MR",6,10,0.6
+"2594","Total",2018,7,"Total",28,38,0.74
+"2595","Total",2018,8,"five_plus",6,7,0.86
+"2596","Total",2018,8,"no_birth_date",NA,NA,0.5
+"2597","Total",2018,8,"zero_five",NA,5,0.2
+"2598","Total",2018,8,"Non_MR",NA,7,0.43
+"2599","Total",2018,8,"MR",5,7,0.71
+"2600","Total",2018,8,"Total",16,28,0.57
+"2601","Total",2018,9,"five_plus",NA,7,0.43
+"2602","Total",2018,9,"no_birth_date",NA,NA,0.5
+"2603","Total",2018,9,"zero_five",NA,NA,0.5
+"2604","Total",2018,9,"Non_MR",6,9,0.67
+"2605","Total",2018,9,"MR",NA,6,0.17
+"2606","Total",2018,9,"Total",14,30,0.47
+"2607","Total",2018,10,"five_plus",5,7,0.71
+"2608","Total",2018,10,"no_birth_date",NA,NA,0.5
+"2609","Total",2018,10,"zero_five",NA,8,0.38
+"2610","Total",2018,10,"Non_MR",6,13,0.46
+"2611","Total",2018,10,"MR",NA,NA,0.75
+"2612","Total",2018,10,"Total",18,34,0.53
+"2613","Total",2018,11,"five_plus",7,9,0.78
+"2614","Total",2018,11,"no_birth_date",NA,NA,0.75
+"2615","Total",2018,11,"zero_five",NA,7,0.57
+"2616","Total",2018,11,"Non_MR",6,9,0.67
+"2617","Total",2018,11,"MR",8,11,0.73
+"2618","Total",2018,11,"Total",28,40,0.7
+"2619","Total",2018,12,"five_plus",7,11,0.64
+"2620","Total",2018,12,"no_birth_date",NA,NA,0
+"2621","Total",2018,12,"zero_five",NA,NA,1
+"2622","Total",2018,12,"Non_MR",5,7,0.71
+"2623","Total",2018,12,"MR",6,9,0.67
+"2624","Total",2018,12,"Total",22,32,0.69
+"2625","Total",2019,1,"five_plus",10,13,0.77
+"2626","Total",2019,1,"no_birth_date",NA,NA,1
+"2627","Total",2019,1,"zero_five",NA,NA,0.75
+"2628","Total",2019,1,"Non_MR",7,9,0.78
+"2629","Total",2019,1,"MR",8,10,0.8
+"2630","Total",2019,1,"Total",30,38,0.79
+"2631","Total",2019,2,"five_plus",NA,5,0.6
+"2632","Total",2019,2,"no_birth_date",NA,NA,0
+"2633","Total",2019,2,"zero_five",5,10,0.5
+"2634","Total",2019,2,"Non_MR",NA,7,0.29
+"2635","Total",2019,2,"MR",6,9,0.67
+"2636","Total",2019,2,"Total",16,32,0.5
+"2637","Total",2019,3,"five_plus",12,14,0.86
+"2638","Total",2019,3,"no_birth_date",NA,NA,1
+"2639","Total",2019,3,"zero_five",6,9,0.67
+"2640","Total",2019,3,"Non_MR",12,13,0.92
+"2641","Total",2019,3,"MR",8,12,0.67
+"2642","Total",2019,3,"Total",40,50,0.8
+"2643","Total",2019,4,"five_plus",6,13,0.46
+"2644","Total",2019,4,"no_birth_date",NA,NA,0.5
+"2645","Total",2019,4,"zero_five",NA,NA,1
+"2646","Total",2019,4,"Non_MR",6,14,0.43
+"2647","Total",2019,4,"MR",NA,NA,1
+"2648","Total",2019,4,"Total",20,36,0.56
+"2649","Total",2019,5,"five_plus",8,14,0.57
+"2650","Total",2019,5,"zero_five",5,8,0.62
+"2651","Total",2019,5,"Non_MR",10,12,0.83
+"2652","Total",2019,5,"MR",NA,10,0.3
+"2653","Total",2019,5,"Total",26,44,0.59
+"2654","Total",2019,6,"five_plus",7,12,0.58
+"2655","Total",2019,6,"no_birth_date",NA,NA,1
+"2656","Total",2019,6,"zero_five",5,6,0.83
+"2657","Total",2019,6,"Non_MR",8,10,0.8
+"2658","Total",2019,6,"MR",5,9,0.56
+"2659","Total",2019,6,"Total",26,38,0.68
+"2660","Total",2019,7,"five_plus",5,11,0.45
+"2661","Total",2019,7,"no_birth_date",NA,NA,0
+"2662","Total",2019,7,"zero_five",7,10,0.7
+"2663","Total",2019,7,"Non_MR",9,16,0.56
+"2664","Total",2019,7,"MR",NA,6,0.5
+"2665","Total",2019,7,"Total",24,44,0.55
+"2666","Total",2019,8,"five_plus",9,11,0.82
+"2667","Total",2019,8,"no_birth_date",NA,NA,1
+"2668","Total",2019,8,"zero_five",5,7,0.71
+"2669","Total",2019,8,"Non_MR",10,12,0.83
+"2670","Total",2019,8,"MR",5,7,0.71
+"2671","Total",2019,8,"Total",30,38,0.79
+"2672","Total",2019,9,"five_plus",7,14,0.5
+"2673","Total",2019,9,"no_birth_date",NA,NA,1
+"2674","Total",2019,9,"zero_five",5,6,0.83
+"2675","Total",2019,9,"Non_MR",8,12,0.67
+"2676","Total",2019,9,"MR",7,11,0.64
+"2677","Total",2019,9,"Total",30,46,0.65
+"2678","Total",2019,10,"five_plus",7,9,0.78
+"2679","Total",2019,10,"no_birth_date",NA,NA,1
+"2680","Total",2019,10,"zero_five",5,9,0.56
+"2681","Total",2019,10,"Non_MR",NA,7,0.57
+"2682","Total",2019,10,"MR",10,13,0.77
+"2683","Total",2019,10,"Total",28,40,0.7
+"2684","Total",2019,11,"five_plus",10,14,0.71
+"2685","Total",2019,11,"no_birth_date",NA,NA,1
+"2686","Total",2019,11,"zero_five",5,5,1
+"2687","Total",2019,11,"Non_MR",6,7,0.86
+"2688","Total",2019,11,"MR",10,13,0.77
+"2689","Total",2019,11,"Total",32,40,0.8
+"2690","Total",2019,12,"five_plus",11,16,0.69
+"2691","Total",2019,12,"no_birth_date",NA,NA,0.67
+"2692","Total",2019,12,"zero_five",5,8,0.62
+"2693","Total",2019,12,"Non_MR",6,8,0.75
+"2694","Total",2019,12,"MR",12,19,0.63
+"2695","Total",2019,12,"Total",36,54,0.67
+"2696","Total",2020,1,"five_plus",6,9,0.67
+"2697","Total",2020,1,"no_birth_date",NA,NA,1
+"2698","Total",2020,1,"zero_five",7,9,0.78
+"2699","Total",2020,1,"Non_MR",12,13,0.92
+"2700","Total",2020,1,"MR",NA,7,0.43
+"2701","Total",2020,1,"Total",30,40,0.75
+"2702","Total",2020,2,"five_plus",7,10,0.7
+"2703","Total",2020,2,"no_birth_date",NA,NA,0.5
+"2704","Total",2020,2,"zero_five",NA,8,0.5
+"2705","Total",2020,2,"Non_MR",5,10,0.5
+"2706","Total",2020,2,"MR",8,12,0.67
+"2707","Total",2020,2,"Total",26,44,0.59
+"2708","Total",2020,3,"five_plus",11,17,0.65
+"2709","Total",2020,3,"no_birth_date",NA,NA,1
+"2710","Total",2020,3,"zero_five",NA,5,0.8
+"2711","Total",2020,3,"Non_MR",8,12,0.67
+"2712","Total",2020,3,"MR",9,12,0.75
+"2713","Total",2020,3,"Total",34,48,0.71
+"2714","Total",2020,4,"five_plus",6,10,0.6
+"2715","Total",2020,4,"no_birth_date",NA,NA,1
+"2716","Total",2020,4,"zero_five",NA,5,0.8
+"2717","Total",2020,4,"Non_MR",NA,6,0.67
+"2718","Total",2020,4,"MR",8,11,0.73
+"2719","Total",2020,4,"Total",24,34,0.71
+"2720","Total",2020,5,"five_plus",NA,8,0.5
+"2721","Total",2020,5,"no_birth_date",NA,NA,1
+"2722","Total",2020,5,"zero_five",7,9,0.78
+"2723","Total",2020,5,"Non_MR",9,11,0.82
+"2724","Total",2020,5,"MR",NA,7,0.43
+"2725","Total",2020,5,"Total",24,36,0.67
+"2726","Total",2020,6,"five_plus",NA,8,0.5
+"2727","Total",2020,6,"no_birth_date",NA,NA,1
+"2728","Total",2020,6,"zero_five",NA,5,0.8
+"2729","Total",2020,6,"Non_MR",5,8,0.62
+"2730","Total",2020,6,"MR",NA,6,0.67
+"2731","Total",2020,6,"Total",18,28,0.64
+"2732","Total",2020,7,"five_plus",7,8,0.88
+"2733","Total",2020,7,"zero_five",6,8,0.75
+"2734","Total",2020,7,"Non_MR",7,8,0.88
+"2735","Total",2020,7,"MR",6,8,0.75
+"2736","Total",2020,7,"Total",26,32,0.81
+"2737","Total",2020,8,"five_plus",8,15,0.53
+"2738","Total",2020,8,"no_birth_date",NA,NA,1
+"2739","Total",2020,8,"zero_five",7,7,1
+"2740","Total",2020,8,"Non_MR",7,8,0.88
+"2741","Total",2020,8,"MR",9,15,0.6
+"2742","Total",2020,8,"Total",32,46,0.7
+"2743","Total",2020,9,"five_plus",10,16,0.62
+"2744","Total",2020,9,"no_birth_date",NA,NA,0
+"2745","Total",2020,9,"zero_five",NA,NA,0.5
+"2746","Total",2020,9,"Non_MR",7,10,0.7
+"2747","Total",2020,9,"MR",5,11,0.45
+"2748","Total",2020,9,"Total",24,42,0.57
+"2749","Total",2020,10,"five_plus",13,13,1
+"2750","Total",2020,10,"no_birth_date",NA,NA,0.67
+"2751","Total",2020,10,"zero_five",NA,6,0.5
+"2752","Total",2020,10,"Non_MR",8,9,0.89
+"2753","Total",2020,10,"MR",10,13,0.77
+"2754","Total",2020,10,"Total",36,44,0.82
+"2755","Total",2020,11,"five_plus",5,9,0.56
+"2756","Total",2020,11,"zero_five",6,11,0.55
+"2757","Total",2020,11,"Non_MR",5,11,0.45
+"2758","Total",2020,11,"MR",6,9,0.67
+"2759","Total",2020,11,"Total",22,40,0.55
+"2760","Total",2020,12,"five_plus",8,14,0.57
+"2761","Total",2020,12,"zero_five",8,13,0.62
+"2762","Total",2020,12,"Non_MR",11,14,0.79
+"2763","Total",2020,12,"MR",5,13,0.38
+"2764","Total",2020,12,"Total",32,54,0.59
+"2765","Total",2021,1,"five_plus",10,13,0.77
+"2766","Total",2021,1,"no_birth_date",NA,NA,0.67
+"2767","Total",2021,1,"zero_five",NA,6,0.33
+"2768","Total",2021,1,"Non_MR",6,10,0.6
+"2769","Total",2021,1,"MR",8,12,0.67
+"2770","Total",2021,1,"Total",28,44,0.64
+"2771","Total",2021,2,"five_plus",NA,NA,0.75
+"2772","Total",2021,2,"zero_five",NA,NA,0.67
+"2773","Total",2021,2,"Non_MR",NA,NA,1
+"2774","Total",2021,2,"MR",NA,NA,0.5
+"2775","Total",2021,2,"Total",10,14,0.71
+"2776","Total",2021,3,"five_plus",10,11,0.91
+"2777","Total",2021,3,"no_birth_date",NA,NA,1
+"2778","Total",2021,3,"zero_five",NA,NA,1
+"2779","Total",2021,3,"Non_MR",7,7,1
+"2780","Total",2021,3,"MR",8,9,0.89
+"2781","Total",2021,3,"Total",30,32,0.94
+"2782","Total",2021,4,"five_plus",10,14,0.71
+"2783","Total",2021,4,"no_birth_date",NA,NA,0.5
+"2784","Total",2021,4,"zero_five",NA,NA,0.5
+"2785","Total",2021,4,"Non_MR",8,11,0.73
+"2786","Total",2021,4,"MR",5,9,0.56
+"2787","Total",2021,4,"Total",26,40,0.65
+"2788","Total",2021,5,"five_plus",NA,5,0.8
+"2789","Total",2021,5,"no_birth_date",NA,NA,1
+"2790","Total",2021,5,"zero_five",NA,NA,0.5
+"2791","Total",2021,5,"Non_MR",NA,NA,1
+"2792","Total",2021,5,"MR",6,8,0.75
+"2793","Total",2021,5,"Total",14,18,0.78
+"2794","Total",2021,6,"five_plus",9,14,0.64
+"2795","Total",2021,6,"no_birth_date",NA,NA,0.5
+"2796","Total",2021,6,"zero_five",NA,NA,0.33
+"2797","Total",2021,6,"Non_MR",8,12,0.67
+"2798","Total",2021,6,"MR",NA,7,0.43
+"2799","Total",2021,6,"Total",22,38,0.58
+"2800","Total",2021,7,"five_plus",9,14,0.64
+"2801","Total",2021,7,"no_birth_date",NA,NA,1
+"2802","Total",2021,7,"zero_five",5,5,1
+"2803","Total",2021,7,"Non_MR",6,8,0.75
+"2804","Total",2021,7,"MR",9,12,0.75
+"2805","Total",2021,7,"Total",30,40,0.75
+"2806","Total",2021,8,"five_plus",6,9,0.67
+"2807","Total",2021,8,"no_birth_date",NA,NA,0.67
+"2808","Total",2021,8,"zero_five",NA,NA,0
+"2809","Total",2021,8,"Non_MR",NA,5,0.6
+"2810","Total",2021,8,"MR",5,9,0.56
+"2811","Total",2021,8,"Total",16,28,0.57
+"2812","Total",2021,9,"five_plus",9,14,0.64
+"2813","Total",2021,9,"no_birth_date",NA,NA,1
+"2814","Total",2021,9,"zero_five",5,8,0.62
+"2815","Total",2021,9,"Non_MR",5,7,0.71
+"2816","Total",2021,9,"MR",10,16,0.62
+"2817","Total",2021,9,"Total",30,46,0.65
+"2818","Total",2021,10,"five_plus",10,13,0.77
+"2819","Total",2021,10,"no_birth_date",NA,NA,0.67
+"2820","Total",2021,10,"zero_five",NA,5,0.8
+"2821","Total",2021,10,"Non_MR",8,12,0.67
+"2822","Total",2021,10,"MR",8,9,0.89
+"2823","Total",2021,10,"Total",32,42,0.76
+"2824","Total",2021,11,"five_plus",12,19,0.63
+"2825","Total",2021,11,"zero_five",5,7,0.71
+"2826","Total",2021,11,"Non_MR",8,10,0.8
+"2827","Total",2021,11,"MR",9,16,0.56
+"2828","Total",2021,11,"Total",34,52,0.65
+"2829","Total",2021,12,"five_plus",14,18,0.78
+"2830","Total",2021,12,"no_birth_date",NA,NA,1
+"2831","Total",2021,12,"zero_five",NA,NA,0.5
+"2832","Total",2021,12,"Non_MR",8,11,0.73
+"2833","Total",2021,12,"MR",11,14,0.79
+"2834","Total",2021,12,"Total",38,50,0.76
+"2835","W. Price Hill",2017,1,"five_plus",NA,NA,1
+"2836","W. Price Hill",2017,1,"Non_MR",NA,NA,1
+"2837","W. Price Hill",2017,1,"Total",NA,NA,1
+"2838","W. Price Hill",2017,3,"five_plus",NA,NA,1
+"2839","W. Price Hill",2017,3,"no_birth_date",NA,NA,0
+"2840","W. Price Hill",2017,3,"Non_MR",NA,NA,0
+"2841","W. Price Hill",2017,3,"MR",NA,NA,1
+"2842","W. Price Hill",2017,3,"Total",NA,NA,0.5
+"2843","W. Price Hill",2017,7,"five_plus",NA,NA,0
+"2844","W. Price Hill",2017,7,"MR",NA,NA,0
+"2845","W. Price Hill",2017,7,"Total",NA,NA,0
+"2846","W. Price Hill",2018,1,"five_plus",NA,NA,1
+"2847","W. Price Hill",2018,1,"MR",NA,NA,1
+"2848","W. Price Hill",2018,1,"Total",NA,NA,1
+"2849","W. Price Hill",2018,2,"zero_five",NA,NA,1
+"2850","W. Price Hill",2018,2,"MR",NA,NA,1
+"2851","W. Price Hill",2018,2,"Total",NA,NA,1
+"2852","W. Price Hill",2018,3,"zero_five",NA,NA,0
+"2853","W. Price Hill",2018,3,"MR",NA,NA,0
+"2854","W. Price Hill",2018,3,"Total",NA,NA,0
+"2855","W. Price Hill",2018,5,"five_plus",NA,NA,1
+"2856","W. Price Hill",2018,5,"Non_MR",NA,NA,1
+"2857","W. Price Hill",2018,5,"Total",NA,NA,1
+"2858","W. Price Hill",2018,6,"zero_five",NA,NA,1
+"2859","W. Price Hill",2018,6,"Non_MR",NA,NA,1
+"2860","W. Price Hill",2018,6,"Total",NA,NA,1
+"2861","W. Price Hill",2018,7,"zero_five",NA,NA,1
+"2862","W. Price Hill",2018,7,"Non_MR",NA,NA,1
+"2863","W. Price Hill",2018,7,"Total",NA,NA,1
+"2864","W. Price Hill",2018,10,"zero_five",NA,NA,0.5
+"2865","W. Price Hill",2018,10,"Non_MR",NA,NA,0.5
+"2866","W. Price Hill",2018,10,"Total",NA,NA,0.5
+"2867","W. Price Hill",2018,11,"zero_five",NA,NA,0
+"2868","W. Price Hill",2018,11,"Non_MR",NA,NA,0
+"2869","W. Price Hill",2018,11,"Total",NA,NA,0
+"2870","W. Price Hill",2018,12,"no_birth_date",NA,NA,0
+"2871","W. Price Hill",2018,12,"Non_MR",NA,NA,0
+"2872","W. Price Hill",2018,12,"Total",NA,NA,0
+"2873","W. Price Hill",2019,7,"zero_five",NA,NA,1
+"2874","W. Price Hill",2019,7,"Non_MR",NA,NA,1
+"2875","W. Price Hill",2019,7,"Total",NA,NA,1
+"2876","W. Price Hill",2019,8,"five_plus",NA,NA,1
+"2877","W. Price Hill",2019,8,"Non_MR",NA,NA,1
+"2878","W. Price Hill",2019,8,"Total",NA,NA,1
+"2879","W. Price Hill",2019,9,"five_plus",NA,NA,0
+"2880","W. Price Hill",2019,9,"Non_MR",NA,NA,0
+"2881","W. Price Hill",2019,9,"Total",NA,NA,0
+"2882","W. Price Hill",2020,3,"five_plus",NA,NA,0
+"2883","W. Price Hill",2020,3,"MR",NA,NA,0
+"2884","W. Price Hill",2020,3,"Total",NA,NA,0
+"2885","W. Price Hill",2020,7,"zero_five",NA,NA,0
+"2886","W. Price Hill",2020,7,"Non_MR",NA,NA,0
+"2887","W. Price Hill",2020,7,"Total",NA,NA,0
+"2888","W. Price Hill",2020,8,"five_plus",NA,NA,1
+"2889","W. Price Hill",2020,8,"MR",NA,NA,1
+"2890","W. Price Hill",2020,8,"Total",NA,NA,1
+"2891","W. Price Hill",2020,10,"no_birth_date",NA,NA,1
+"2892","W. Price Hill",2020,10,"zero_five",NA,NA,1
+"2893","W. Price Hill",2020,10,"Non_MR",NA,NA,1
+"2894","W. Price Hill",2020,10,"MR",NA,NA,1
+"2895","W. Price Hill",2020,10,"Total",NA,NA,1
+"2896","W. Price Hill",2021,4,"five_plus",NA,NA,0
+"2897","W. Price Hill",2021,4,"MR",NA,NA,0
+"2898","W. Price Hill",2021,4,"Total",NA,NA,0
+"2899","W. Price Hill",2021,7,"five_plus",NA,NA,1
+"2900","W. Price Hill",2021,7,"zero_five",NA,NA,1
+"2901","W. Price Hill",2021,7,"Non_MR",NA,NA,1
+"2902","W. Price Hill",2021,7,"Total",NA,NA,1
+"2903","W. Price Hill",2021,10,"five_plus",NA,NA,1
+"2904","W. Price Hill",2021,10,"Non_MR",NA,NA,1
+"2905","W. Price Hill",2021,10,"Total",NA,NA,1
+"2906","W. Price Hill",2021,11,"five_plus",NA,NA,1
+"2907","W. Price Hill",2021,11,"Non_MR",NA,NA,1
+"2908","W. Price Hill",2021,11,"MR",NA,NA,1
+"2909","W. Price Hill",2021,11,"Total",NA,NA,1
+"2910","W. Price Hill",2021,12,"zero_five",NA,NA,0
+"2911","W. Price Hill",2021,12,"MR",NA,NA,0
+"2912","W. Price Hill",2021,12,"Total",NA,NA,0
+"2913","Walnut Hills",2018,4,"five_plus",NA,NA,1
+"2914","Walnut Hills",2018,4,"Non_MR",NA,NA,1
+"2915","Walnut Hills",2018,4,"Total",NA,NA,1
+"2916","Walnut Hills",2018,6,"zero_five",NA,NA,1
+"2917","Walnut Hills",2018,6,"Non_MR",NA,NA,1
+"2918","Walnut Hills",2018,6,"Total",NA,NA,1
+"2919","Walnut Hills",2019,3,"zero_five",NA,NA,1
+"2920","Walnut Hills",2019,3,"Non_MR",NA,NA,1
+"2921","Walnut Hills",2019,3,"Total",NA,NA,1
+"2922","Walnut Hills",2020,6,"zero_five",NA,NA,1
+"2923","Walnut Hills",2020,6,"Non_MR",NA,NA,1
+"2924","Walnut Hills",2020,6,"Total",NA,NA,1
+"2925","Walnut Hills",2021,7,"five_plus",NA,NA,1
+"2926","Walnut Hills",2021,7,"zero_five",NA,NA,1
+"2927","Walnut Hills",2021,7,"Non_MR",NA,NA,1
+"2928","Walnut Hills",2021,7,"Total",NA,NA,1
+"2929","West End",2017,2,"zero_five",NA,NA,0
+"2930","West End",2017,2,"MR",NA,NA,0
+"2931","West End",2017,2,"Total",NA,NA,0
+"2932","West End",2017,5,"five_plus",NA,NA,0
+"2933","West End",2017,5,"Non_MR",NA,NA,0
+"2934","West End",2017,5,"Total",NA,NA,0
+"2935","West End",2018,2,"zero_five",NA,NA,0
+"2936","West End",2018,2,"MR",NA,NA,0
+"2937","West End",2018,2,"Total",NA,NA,0
+"2938","West End",2018,6,"zero_five",NA,NA,0
+"2939","West End",2018,6,"Non_MR",NA,NA,0
+"2940","West End",2018,6,"Total",NA,NA,0
+"2941","West End",2018,12,"five_plus",NA,NA,0
+"2942","West End",2018,12,"MR",NA,NA,0
+"2943","West End",2018,12,"Total",NA,NA,0
+"2944","West End",2020,4,"five_plus",NA,NA,0
+"2945","West End",2020,4,"Non_MR",NA,NA,0
+"2946","West End",2020,4,"Total",NA,NA,0
+"2947","West End",2020,9,"five_plus",NA,NA,0
+"2948","West End",2020,9,"Non_MR",NA,NA,0
+"2949","West End",2020,9,"Total",NA,NA,0
+"2950","West End",2020,12,"five_plus",NA,NA,0
+"2951","West End",2020,12,"MR",NA,NA,0
+"2952","West End",2020,12,"Total",NA,NA,0
+"2953","West End",2021,1,"five_plus",NA,NA,0
+"2954","West End",2021,1,"MR",NA,NA,0
+"2955","West End",2021,1,"Total",NA,NA,0
+"2956","West End",2021,8,"zero_five",NA,NA,0
+"2957","West End",2021,8,"MR",NA,NA,0
+"2958","West End",2021,8,"Total",NA,NA,0
+"2959","West End",2021,10,"five_plus",NA,NA,0
+"2960","West End",2021,10,"Non_MR",NA,NA,0
+"2961","West End",2021,10,"Total",NA,NA,0
+"2962","West End",2021,12,"five_plus",NA,NA,0
+"2963","West End",2021,12,"Non_MR",NA,NA,0
+"2964","West End",2021,12,"Total",NA,NA,0
+"2965","Westwood",2017,3,"five_plus",NA,NA,0
+"2966","Westwood",2017,3,"MR",NA,NA,0
+"2967","Westwood",2017,3,"Total",NA,NA,0
+"2968","Westwood",2017,4,"five_plus",NA,NA,1
+"2969","Westwood",2017,4,"MR",NA,NA,1
+"2970","Westwood",2017,4,"Total",NA,NA,1
+"2971","Westwood",2017,5,"zero_five",NA,NA,0
+"2972","Westwood",2017,5,"MR",NA,NA,0
+"2973","Westwood",2017,5,"Total",NA,NA,0
+"2974","Westwood",2017,8,"zero_five",NA,NA,0
+"2975","Westwood",2017,8,"MR",NA,NA,0
+"2976","Westwood",2017,8,"Total",NA,NA,0
+"2977","Westwood",2017,12,"zero_five",NA,NA,0
+"2978","Westwood",2017,12,"MR",NA,NA,0
+"2979","Westwood",2017,12,"Total",NA,NA,0
+"2980","Westwood",2018,1,"five_plus",NA,NA,0.5
+"2981","Westwood",2018,1,"zero_five",NA,NA,1
+"2982","Westwood",2018,1,"Non_MR",NA,NA,1
+"2983","Westwood",2018,1,"MR",NA,NA,0.67
+"2984","Westwood",2018,1,"Total",6,8,0.75
+"2985","Westwood",2018,4,"zero_five",NA,NA,1
+"2986","Westwood",2018,4,"Non_MR",NA,NA,1
+"2987","Westwood",2018,4,"Total",NA,NA,1
+"2988","Westwood",2018,6,"five_plus",NA,NA,0
+"2989","Westwood",2018,6,"zero_five",NA,NA,1
+"2990","Westwood",2018,6,"Non_MR",NA,NA,1
+"2991","Westwood",2018,6,"MR",NA,NA,0
+"2992","Westwood",2018,6,"Total",NA,NA,0.5
+"2993","Westwood",2018,7,"five_plus",NA,NA,1
+"2994","Westwood",2018,7,"Non_MR",NA,NA,1
+"2995","Westwood",2018,7,"Total",NA,NA,1
+"2996","Westwood",2018,8,"zero_five",NA,NA,0
+"2997","Westwood",2018,8,"MR",NA,NA,0
+"2998","Westwood",2018,8,"Total",NA,NA,0
+"2999","Westwood",2019,2,"five_plus",NA,NA,0
+"3000","Westwood",2019,2,"MR",NA,NA,0
+"3001","Westwood",2019,2,"Total",NA,NA,0
+"3002","Westwood",2019,5,"five_plus",NA,NA,1
+"3003","Westwood",2019,5,"Non_MR",NA,NA,1
+"3004","Westwood",2019,5,"Total",NA,NA,1
+"3005","Westwood",2019,11,"five_plus",NA,NA,1
+"3006","Westwood",2019,11,"Non_MR",NA,NA,1
+"3007","Westwood",2019,11,"MR",NA,NA,1
+"3008","Westwood",2019,11,"Total",NA,NA,1
+"3009","Westwood",2019,12,"five_plus",NA,NA,0
+"3010","Westwood",2019,12,"no_birth_date",NA,NA,1
+"3011","Westwood",2019,12,"zero_five",NA,NA,1
+"3012","Westwood",2019,12,"Non_MR",NA,NA,1
+"3013","Westwood",2019,12,"MR",NA,NA,0.5
+"3014","Westwood",2019,12,"Total",NA,6,0.67
+"3015","Westwood",2020,1,"five_plus",NA,NA,0.5
+"3016","Westwood",2020,1,"no_birth_date",NA,NA,1
+"3017","Westwood",2020,1,"Non_MR",NA,NA,1
+"3018","Westwood",2020,1,"MR",NA,NA,0
+"3019","Westwood",2020,1,"Total",NA,6,0.67
+"3020","Westwood",2020,3,"zero_five",NA,NA,1
+"3021","Westwood",2020,3,"MR",NA,NA,1
+"3022","Westwood",2020,3,"Total",NA,NA,1
+"3023","Westwood",2020,11,"five_plus",NA,NA,0
+"3024","Westwood",2020,11,"MR",NA,NA,0
+"3025","Westwood",2020,11,"Total",NA,NA,0
+"3026","Westwood",2021,3,"five_plus",NA,NA,1
+"3027","Westwood",2021,3,"MR",NA,NA,1
+"3028","Westwood",2021,3,"Total",NA,NA,1
+"3029","Westwood",2021,4,"five_plus",NA,NA,1
+"3030","Westwood",2021,4,"Non_MR",NA,NA,1
+"3031","Westwood",2021,4,"Total",NA,NA,1
+"3032","Westwood",2021,5,"no_birth_date",NA,NA,1
+"3033","Westwood",2021,5,"MR",NA,NA,1
+"3034","Westwood",2021,5,"Total",NA,NA,1
+"3035","Westwood",2021,6,"five_plus",NA,NA,1
+"3036","Westwood",2021,6,"Non_MR",NA,NA,1
+"3037","Westwood",2021,6,"Total",NA,NA,1
+"3038","Westwood",2021,7,"five_plus",NA,NA,1
+"3039","Westwood",2021,7,"Non_MR",NA,NA,1
+"3040","Westwood",2021,7,"Total",NA,NA,1
+"3041","Westwood",2021,9,"five_plus",NA,NA,0.67
+"3042","Westwood",2021,9,"MR",NA,NA,0.67
+"3043","Westwood",2021,9,"Total",NA,6,0.67
+"3044","Westwood",2021,10,"five_plus",NA,NA,1
+"3045","Westwood",2021,10,"MR",NA,NA,1
+"3046","Westwood",2021,10,"Total",NA,NA,1
+"3047","Westwood",2021,12,"no_birth_date",NA,NA,1
+"3048","Westwood",2021,12,"MR",NA,NA,1
+"3049","Westwood",2021,12,"Total",NA,NA,1
+"3050","Whitewater Twp.",2017,12,"zero_five",NA,NA,1
+"3051","Whitewater Twp.",2017,12,"Non_MR",NA,NA,1
+"3052","Whitewater Twp.",2017,12,"Total",NA,NA,1
+"3053","Whitewater Twp.",2018,3,"five_plus",NA,NA,1
+"3054","Whitewater Twp.",2018,3,"Non_MR",NA,NA,1
+"3055","Whitewater Twp.",2018,3,"Total",NA,NA,1
+"3056","Whitewater Twp.",2018,4,"five_plus",NA,NA,1
+"3057","Whitewater Twp.",2018,4,"Non_MR",NA,NA,1
+"3058","Whitewater Twp.",2018,4,"Total",NA,NA,1
+"3059","Whitewater Twp.",2019,4,"five_plus",NA,NA,1
+"3060","Whitewater Twp.",2019,4,"Non_MR",NA,NA,1
+"3061","Whitewater Twp.",2019,4,"Total",NA,NA,1
+"3062","Whitewater Twp.",2021,2,"five_plus",NA,NA,1
+"3063","Whitewater Twp.",2021,2,"Non_MR",NA,NA,1
+"3064","Whitewater Twp.",2021,2,"Total",NA,NA,1
+"3065","Whitewater Twp.",2021,4,"five_plus",NA,NA,1
+"3066","Whitewater Twp.",2021,4,"Non_MR",NA,NA,1
+"3067","Whitewater Twp.",2021,4,"Total",NA,NA,1
+"3068","Woodlawn",2018,1,"zero_five",NA,NA,0
+"3069","Woodlawn",2018,1,"Non_MR",NA,NA,0
+"3070","Woodlawn",2018,1,"Total",NA,NA,0
+"3071","Woodlawn",2018,10,"five_plus",NA,NA,0
+"3072","Woodlawn",2018,10,"Non_MR",NA,NA,0
+"3073","Woodlawn",2018,10,"Total",NA,NA,0
+"3074","Woodlawn",2018,11,"zero_five",NA,NA,0
+"3075","Woodlawn",2018,11,"Non_MR",NA,NA,0
+"3076","Woodlawn",2018,11,"Total",NA,NA,0
+"3077","Woodlawn",2019,10,"five_plus",NA,NA,0
+"3078","Woodlawn",2019,10,"Non_MR",NA,NA,0
+"3079","Woodlawn",2019,10,"Total",NA,NA,0
+"3080","Woodlawn",2020,12,"five_plus",NA,NA,0
+"3081","Woodlawn",2020,12,"Non_MR",NA,NA,0
+"3082","Woodlawn",2020,12,"Total",NA,NA,0
+"3083","Woodlawn",2021,11,"five_plus",NA,NA,0
+"3084","Woodlawn",2021,11,"Non_MR",NA,NA,0
+"3085","Woodlawn",2021,11,"Total",NA,NA,0
+"3086","Wyoming",2017,3,"zero_five",NA,NA,0
+"3087","Wyoming",2017,3,"Non_MR",NA,NA,0
+"3088","Wyoming",2017,3,"Total",NA,NA,0
+"3089","Wyoming",2017,4,"zero_five",NA,NA,0
+"3090","Wyoming",2017,4,"Non_MR",NA,NA,0
+"3091","Wyoming",2017,4,"Total",NA,NA,0
+"3092","Wyoming",2017,6,"zero_five",NA,NA,1
+"3093","Wyoming",2017,6,"MR",NA,NA,1
+"3094","Wyoming",2017,6,"Total",NA,NA,1
+"3095","Wyoming",2017,8,"five_plus",NA,NA,1
+"3096","Wyoming",2017,8,"MR",NA,NA,1
+"3097","Wyoming",2017,8,"Total",NA,NA,1
+"3098","Wyoming",2017,10,"zero_five",NA,NA,1
+"3099","Wyoming",2017,10,"Non_MR",NA,NA,1
+"3100","Wyoming",2017,10,"Total",NA,NA,1
+"3101","Wyoming",2017,12,"zero_five",NA,NA,1
+"3102","Wyoming",2017,12,"MR",NA,NA,1
+"3103","Wyoming",2017,12,"Total",NA,NA,1
+"3104","Wyoming",2018,4,"zero_five",NA,NA,1
+"3105","Wyoming",2018,4,"MR",NA,NA,1
+"3106","Wyoming",2018,4,"Total",NA,NA,1
+"3107","Wyoming",2018,8,"five_plus",NA,NA,1
+"3108","Wyoming",2018,8,"MR",NA,NA,1
+"3109","Wyoming",2018,8,"Total",NA,NA,1
+"3110","Wyoming",2018,9,"five_plus",NA,NA,1
+"3111","Wyoming",2018,9,"MR",NA,NA,1
+"3112","Wyoming",2018,9,"Total",NA,NA,1
+"3113","Wyoming",2018,11,"five_plus",NA,NA,1
+"3114","Wyoming",2018,11,"no_birth_date",NA,NA,1
+"3115","Wyoming",2018,11,"MR",NA,NA,1
+"3116","Wyoming",2018,11,"Total",NA,NA,1
+"3117","Wyoming",2018,12,"five_plus",NA,NA,1
+"3118","Wyoming",2018,12,"Non_MR",NA,NA,1
+"3119","Wyoming",2018,12,"Total",NA,NA,1
+"3120","Wyoming",2019,3,"five_plus",NA,NA,1
+"3121","Wyoming",2019,3,"MR",NA,NA,1
+"3122","Wyoming",2019,3,"Total",NA,NA,1
+"3123","Wyoming",2019,7,"five_plus",NA,NA,1
+"3124","Wyoming",2019,7,"Non_MR",NA,NA,1
+"3125","Wyoming",2019,7,"Total",NA,NA,1
+"3126","Wyoming",2019,9,"five_plus",NA,NA,0
+"3127","Wyoming",2019,9,"Non_MR",NA,NA,0
+"3128","Wyoming",2019,9,"Total",NA,NA,0
+"3129","Wyoming",2020,1,"zero_five",NA,NA,1
+"3130","Wyoming",2020,1,"Non_MR",NA,NA,1
+"3131","Wyoming",2020,1,"Total",NA,NA,1
+"3132","Wyoming",2020,4,"zero_five",NA,NA,1
+"3133","Wyoming",2020,4,"Non_MR",NA,NA,1
+"3134","Wyoming",2020,4,"Total",NA,NA,1
+"3135","Wyoming",2020,8,"no_birth_date",NA,NA,1
+"3136","Wyoming",2020,8,"MR",NA,NA,1
+"3137","Wyoming",2020,8,"Total",NA,NA,1
+"3138","Wyoming",2020,10,"five_plus",NA,NA,1
+"3139","Wyoming",2020,10,"Non_MR",NA,NA,1
+"3140","Wyoming",2020,10,"Total",NA,NA,1
+"3141","Wyoming",2021,3,"five_plus",NA,NA,1
+"3142","Wyoming",2021,3,"MR",NA,NA,1
+"3143","Wyoming",2021,3,"Total",NA,NA,1
+"3144","Wyoming",2021,6,"five_plus",NA,NA,0
+"3145","Wyoming",2021,6,"Non_MR",NA,NA,0
+"3146","Wyoming",2021,6,"Total",NA,NA,0
+"3147","Wyoming",2021,12,"zero_five",NA,NA,0
+"3148","Wyoming",2021,12,"Non_MR",NA,NA,0
+"3149","Wyoming",2021,12,"Total",NA,NA,0
+"3150",NA,2017,3,"five_plus",NA,NA,1
+"3151",NA,2017,3,"Non_MR",NA,NA,1
+"3152",NA,2017,3,"Total",NA,NA,1
+"3153",NA,2018,10,"zero_five",NA,NA,1
+"3154",NA,2018,10,"Non_MR",NA,NA,1
+"3155",NA,2018,10,"Total",NA,NA,1
+"3156",NA,2019,1,"five_plus",NA,NA,1
+"3157",NA,2019,1,"zero_five",NA,NA,1
+"3158",NA,2019,1,"Non_MR",NA,NA,1
+"3159",NA,2019,1,"Total",NA,NA,1
+"3160",NA,2019,2,"five_plus",NA,NA,1
+"3161",NA,2019,2,"Non_MR",NA,NA,1
+"3162",NA,2019,2,"Total",NA,NA,1
+"3163",NA,2020,1,"zero_five",NA,NA,1
+"3164",NA,2020,1,"Non_MR",NA,NA,1
+"3165",NA,2020,1,"Total",NA,NA,1
