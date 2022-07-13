@@ -55,7 +55,7 @@ tract_to_neighborhood <- readRDS('/app/tract_to_neighborhood.rds')
 
 message("\nNeighborhood repsonses with < 5 instances have been censored for privacy purposes\n")
 
-source("/app/weekly_data_report.R")
+source("/app/monthly_data_report.R")
 # rmarkdown::render(input = '/app/weekly_data_report.R',
 #                   params = list(d = d),
 #                   envir = new.env())
