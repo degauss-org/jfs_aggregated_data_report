@@ -27,5 +27,5 @@ jobs:
           docker build -t ${{ env.container }} .
       - name: test run container
         run: |
-          docker run --rm -v "${PWD}/test":/tmp ${{ env.container }} simulated_jfs_data_geocoded_all_years_bigger_2.csv
+          docker run --rm -v "${PWD}/test":/tmp ${{ env.container }} simulated_jfs_data_geocoded_all_years_bigger_3.csv
 
