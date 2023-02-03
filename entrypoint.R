@@ -35,15 +35,18 @@ d <- read_csv(args$file_name,
                                score = col_double(),
                                precision = col_character(),
                                precise_geocode = col_logical(),
-                               fips_tract_id = col_character(),
-                               fraction_assisted_income = col_double(),
-                               fraction_high_school_edu = col_double(),
-                               median_income = col_double(),
-                               fraction_no_health_ins = col_double(),
-                               fraction_poverty = col_double(),
-                               fraction_vacant_housing = col_double(),
-                               dep_index = col_double()
-                               ))
+                               census_block_group_id_2010 = col_character(),
+                               census_tract_id_2010 = col_character()
+              ))
+                               # fips_tract_id = col_character(),
+                               # fraction_assisted_income = col_double(),
+                               # fraction_high_school_edu = col_double(),
+                               # median_income = col_double(),
+                               # fraction_no_health_ins = col_double(),
+                               # fraction_poverty = col_double(),
+                               # fraction_vacant_housing = col_double(),
+                               # dep_index = col_double()
+                            #   ))
 
 
 # d <- d %>%
