@@ -4,7 +4,6 @@
 #                                SCREENING_DECISION = col_character(),
 #                                #DECISION_DATE = col_character(),
 #                                DECISION_DATE = col_date(format = "%m/%d/%Y"),
-#                                BIRTH_DATE = col_date(format = "%m/%d/%Y"),
 #                                PERSON_ID = col_character(),
 #                                RACE = col_character(),
 #                                ADDRESS_START = col_date(),
@@ -21,6 +20,7 @@
 #                                precise_geocode = col_logical(),
 #                                census_block_group_id_2010 = col_character(),
 #                                census_tract_id_2010 = col_character(),
+#                                BIRTH_DATE = col_date(format = "%m/%d/%Y"),
 #               ))
 
 options(dplyr.summarise.inform = FALSE)
@@ -171,5 +171,5 @@ d_csv <- screen_neighborhood_rate
 #          screen_in_rate = screen_in_rate)
 
 path <- "/tmp/"
-write.csv(d_csv, paste(path, "monthly_report_v4.1.1.csv", sep = ''))
+write.csv(d_csv, paste(path, "monthly_report_v4.1.2.csv", sep = ''))
 
