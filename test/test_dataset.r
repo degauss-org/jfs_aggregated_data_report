@@ -25,10 +25,16 @@ d2 <- d2 %>%
 addNAs <- sample(1:1200, 100, replace = F)
 d2$BIRTH_DATE[addNAs] <- NA
 
-write_csv(d2, 'simulated_jfs_data_geocoded_all_years_bigger_2.csv')
+d3 <- d2 %>%
+  mutate(census_tract_id_2010 = fips_tract_id,
+         census_block_group_id_2010 = ifelse(is.na(fips_tract_id), NA, paste0(fips_tract_id, '0001'))) %>%
+  select(-c(fips_tract_id, fraction_assisted_income, fraction_high_school_edu, median_income, 
+            fraction_poverty, fraction_vacant_housing, dep_index))
+
+write_csv(d3, 'simulated_jfs_data_geocoded_all_years_bigger_3.csv')
 
 #special set for testing age splits
-d3 <- read_csv('simulated_jfs_data_geocoded_all_years_bigger_2.csv')
+d4 <- read_csv('simulated_jfs_data_geocoded_all_years_bigger_2.csv')
 
 tract_to_neighborhood <- read_rds('tract_to_neighborhood.rds')
 tract_to_neighborhood$fips_tract_id <- as.double(tract_to_neighborhood$fips_tract_id)
