@@ -1,10 +1,9 @@
-# # #test file
-# d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger_2.csv',
+# # # #test file
+# d <- read_csv('test/simulated_jfs_data_geocoded_all_years_bigger_3.csv',
 #               col_types = cols(INTAKE_ID = col_character(),
 #                                SCREENING_DECISION = col_character(),
 #                                #DECISION_DATE = col_character(),
 #                                DECISION_DATE = col_date(format = "%m/%d/%Y"),
-#                                BIRTH_DATE = col_date(format = "%m/%d/%Y"),
 #                                PERSON_ID = col_character(),
 #                                RACE = col_character(),
 #                                ADDRESS_START = col_date(),
@@ -19,14 +18,9 @@
 #                                score = col_double(),
 #                                precision = col_character(),
 #                                precise_geocode = col_logical(),
-#                                fips_tract_id = col_character(),
-#                                fraction_assisted_income = col_double(),
-#                                fraction_high_school_edu = col_double(),
-#                                median_income = col_double(),
-#                                fraction_no_health_ins = col_double(),
-#                                fraction_poverty = col_double(),
-#                                fraction_vacant_housing = col_double(),
-#                                dep_index = col_double()
+#                                census_block_group_id_2010 = col_character(),
+#                                census_tract_id_2010 = col_character(),
+#                                BIRTH_DATE = col_date(format = "%m/%d/%Y"),
 #               ))
 
 options(dplyr.summarise.inform = FALSE)
@@ -67,7 +61,7 @@ print(knitr::kable(d_yearly))
 
 ### Monthly Counts
 d_neigh <- d  %>%
-  mutate(fips_tract_id = as.character(fips_tract_id)) %>% #comment these out when testing with concentrated data
+  mutate(fips_tract_id = as.character(census_tract_id_2010)) %>% #comment these out when testing with concentrated data
   left_join(tract_to_neighborhood, by='fips_tract_id') %>%
   filter(!is.na(DECISION_DATE))
 
@@ -177,5 +171,5 @@ d_csv <- screen_neighborhood_rate
 #          screen_in_rate = screen_in_rate)
 
 path <- "/tmp/"
-write.csv(d_csv, paste(path, "monthly_report_v4.1.1.csv", sep = ''))
+write.csv(d_csv, paste(path, "monthly_report_v5.0.0.csv", sep = ''))
 
