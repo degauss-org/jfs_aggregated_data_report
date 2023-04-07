@@ -17,6 +17,7 @@ RUN R -e "install.packages('dplyr')"
 RUN R -e "install.packages('stringr')"
 RUN R -e "install.packages('lubridate')"
 RUN R -e "install.packages('knitr')"
+RUN R -e "install.packages('argparser')"
 
 COPY tract_to_neighborhood.rds .
 COPY ham_neighborhoods_dep_index_shp.rds .
