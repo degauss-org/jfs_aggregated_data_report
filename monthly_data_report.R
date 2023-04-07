@@ -22,6 +22,11 @@
 #                                census_tract_id_2010 = col_character(),
 #                                BIRTH_DATE = col_date(format = "%m/%d/%Y"),
 #               ))
+library(tidyr)
+library(readr)
+library(dplyr)
+library(stringr)
+
 
 options(dplyr.summarise.inform = FALSE)
 
