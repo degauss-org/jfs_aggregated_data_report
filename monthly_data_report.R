@@ -26,10 +26,10 @@
 #                                                 census_tract_id_2010 = col_character()
 #               ))
 
-library(tidyr)
-library(readr)
-library(dplyr)
-library(stringr)
+library(tidyr, warn.conflicts = FALSE)
+library(readr, warn.conflicts = FALSE)
+library(dplyr, warn.conflicts = FALSE)
+library(stringr, warn.conflicts = FALSE)
 
 
 options(dplyr.summarise.inform = FALSE)
