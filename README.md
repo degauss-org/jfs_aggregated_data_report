@@ -5,20 +5,41 @@
 [![Docker Build Status](https://img.shields.io/docker/automated/degauss/jfs_aggregated_data_report)](https://hub.docker.com/repository/docker/degauss/jfs_aggregated_data_report/tags)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/degauss-org/jfs_aggregated_data_report)](https://github.com/degauss-org/jfs_aggregated_data_report/releases)
 
-## DeGAUSS example call
+## Instructions for Use
 
-If `my_address_file_geocoded.csv` is a file in the current working directory with coordinate columns named `lat` and `lon`, then
+### Open the Starter App
 
-```sh
-docker run --rm -v ${pwd}:/tmp degauss/jfs_aggregated_data_report:5.0.0 my_address_file_geocoded.csv
-```
+1.  In Docker Desktop, search for "Degauss/shiny_starter"
 
-will produce once CSV file: `monthly_report_v4.1.1.csv`
+    A. "Pull" the container
+
+2.  Once the container is in your local Docker Desktop, find it and click "Run"
+
+    A. In the popup box, expand the options and in the space marked "Local Host", type in "3838" and click Run
+
+3.  Navigate to the Containers page and in your line for the shiny_starter, click to button to open in browser
+
+4.  Now that you're in the app, you can upload your .csv file
+
+5.  After the upload, the app will show you a sample of your original file and the prepared file for use in the next program
+
+6.  Click the button to download the prepped file
+
+    A. Save the downloaded file to a known location that you can navigate to (such as "/Downloads")
+
+7.  Now in PowerShell, navigate to your Downloads folder (it may be as simple as typing "cd Downloads")
+
+8.  Copy & paste the first Docker command into PowerShell and hit enter
+
+9.  Repeat for the 2nd and 3rd Docker commands, all in the Downloads folder
+
+10. After the 3rd command, you should have the final output, "monthly_report_v5.0.1.csv" that you can send along to Cole & Andrew
+
 
 ## Dataset Notes
 
 - Screening status `SCREENED IN AR` included with `SCREENED IN`
-- Intakes that either have no listed address or were unsuccessfully geocoded will be included as a "neigbhorhood" called `Missing`
+- Intakes that either have no listed address or were unsuccessfully geocoded will be included as a "neighborhood" called `Missing`
 
 ## geomarker data
 
