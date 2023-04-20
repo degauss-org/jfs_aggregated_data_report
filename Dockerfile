@@ -1,5 +1,9 @@
 FROM rocker/verse:4.1.2
 
+RUN R --quiet -e "install.packages('renv', repos = 'https://cran.rstudio.com')"
+ENV RENV_VERSION 0.15.2
+RUN R --quiet -e "remotes::install_github('rstudio/renv@${RENV_VERSION}')"
+
 WORKDIR /app
 
 RUN apt-get update \
@@ -11,13 +15,8 @@ RUN apt-get update \
   libv8-dev \
   && apt-get clean
 
-RUN R -e "install.packages('tidyr')"
-RUN R -e "install.packages('readr')"
-RUN R -e "install.packages('dplyr')"
-RUN R -e "install.packages('stringr')"
-RUN R -e "install.packages('lubridate')"
-RUN R -e "install.packages('knitr')"
-RUN R -e "install.packages('argparser')"
+COPY renv.lock .
+RUN R --quiet -e "renv::restore(repos = c(CRAN = 'https://packagemanager.rstudio.com/all/__linux__/focal/latest'))"
 
 COPY tract_to_neighborhood.rds .
 COPY ham_neighborhoods_dep_index_shp.rds .
