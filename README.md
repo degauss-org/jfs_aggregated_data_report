@@ -9,13 +9,9 @@
 
 ### Open the Starter App
 
-1.  In Docker Desktop, search for "Degauss/shiny_starter"
+1.  In Docker Desktop, search for "Degauss/shiny_starter" and "Pull" the container
 
-    A. "Pull" the container
-
-2.  Once the container is in your local Docker Desktop, find it and click "Run"
-
-    A. In the popup box, expand the options and in the space marked "Local Host", type in "3838" and click Run
+2.  Once the container is in your local Docker Desktop, find it and click "Run". In the popup box, expand the options and in the space marked "Local Host", type in "3838" and click Run
 
 3.  Navigate to the Containers page and in your line for the shiny_starter, click to button to open in browser
 
@@ -23,9 +19,7 @@
 
 5.  After the upload, the app will show you a sample of your original file and the prepared file for use in the next program
 
-6.  Click the button to download the prepped file
-
-    A. Save the downloaded file to a known location that you can navigate to (such as "/Downloads")
+6.  Click the button to download the prepped file. Save the downloaded file to a known location that you can navigate to (such as your downloads folder)
 
 7.  Now in PowerShell, navigate to your Downloads folder (it may be as simple as typing "cd Downloads")
 
