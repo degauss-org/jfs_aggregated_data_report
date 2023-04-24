@@ -27,5 +27,5 @@ jobs:
           docker build -t ${{ env.container }} .
       - name: test run container
         run: |
-          docker run --rm -v "${PWD}/test":/tmp ${{ env.container }} simulated_jfs_data_geocoded_all_years_bigger_3.csv
+          docker run --rm -v "${PWD}/test":/tmp ${{ env.container }} sim_test_data_new_prepped_geocoder_3.3.0_score_threshold_0.5_census_block_group_0.6.0_2010.csv
 

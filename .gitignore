@@ -10,3 +10,8 @@ test/test_dates.csv
 test/R*
 README.html
 jfs_aggregated_data_report.Rproj
+00_create_tract_to_neighborhood.R
+weekly_data_report.R
+aggregate_data_report.r
+test/simulate_jfs_data.R
+test/test_dataset.R
