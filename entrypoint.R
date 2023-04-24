@@ -15,38 +15,33 @@ args <- parse_args(p)
 # ALLEGATION_ADDRESS, formatted in a string without punctuation, it includes city, state, and zip code
 
 suppressPackageStartupMessages(library(readr))
-suppressPackageStartupMessages(library(tidyverse))
 d <- read_csv(args$file_name,
               col_types = cols(INTAKE_ID = col_character(),
                                SCREENING_DECISION = col_character(),
-                               DECISION_DATE = col_date(format = "%m/%d/%Y"),
-                               BIRTH_DATE = col_date(format = "%m/%d/%Y"),
+                               DECISION_DATE = col_date(format = "%m/%d/%y"),
+                               BIRTH_DATE = col_date(format = "%m/%d/%y"),
                                PERSON_ID = col_character(),
                                RACE = col_character(),
-                               ADDRESS_START = col_date(),
+                               ADDRESS_START = col_date(format = "%m/%d/%y"),
+                               REPORTER_PERSON_ID = col_character(),
                                MANDATED_REPORTER = col_character(),
-                              #  REPORTER_PERSON_ID = col_character(),
                                address_type = col_character(),
                                address = col_character(),
                                bad_address = col_logical(),
                                PO = col_logical(),
+                               matched_street = col_character(),
+                               matched_zip = col_character(),
+                               matched_city = col_character(),
+                               matched_state = col_character(),
                                lat = col_double(),
                                lon = col_double(),
                                score = col_double(),
                                precision = col_character(),
-                               precise_geocode = col_logical(),
+                               geocode_result = col_character(),
                                census_block_group_id_2010 = col_character(),
                                census_tract_id_2010 = col_character()
               ))
-                               # fips_tract_id = col_character(),
-                               # fraction_assisted_income = col_double(),
-                               # fraction_high_school_edu = col_double(),
-                               # median_income = col_double(),
-                               # fraction_no_health_ins = col_double(),
-                               # fraction_poverty = col_double(),
-                               # fraction_vacant_housing = col_double(),
-                               # dep_index = col_double()
-                            #   ))
+                            
 
 
 # d <- d %>%
